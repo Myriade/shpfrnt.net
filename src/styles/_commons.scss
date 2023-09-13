@@ -1,0 +1,29 @@
+// // //  COLORS  // // //
+$black: #0C0D12;
+$lightgrey: #F2F2F2;
+
+// // //  BREAKPOINTS  // // //
+$breakpoint-small: 768px;   // Phones and small tablets
+$breakpoint-medium: 992px;  // Tablets and small laptops
+$breakpoint-large: 1200px;  // Desktops and larger screens
+
+// Mixins //
+// Default styling is for small-up
+// Medium-up (only for screens wider than breakpoint-small)
+@mixin medium-up {
+  @media (min-width: #{$breakpoint-small}) {
+    @content;}}
+
+// Desktop-up (only for screens larger than breakpoint-large)
+@mixin desktop-up {
+  @media (min-width: #{$breakpoint-medium}) {
+    @content;}}
+
+@mixin large-up {
+    @media (min-width: #{$breakpoint-large}) {
+      @content;}}
+    
+// Mobile (exceptions for screens smaller than breakpoint-small)
+@mixin only-small {
+  @media (max-width: #{$breakpoint-small - 1}) {
+    @content;}}

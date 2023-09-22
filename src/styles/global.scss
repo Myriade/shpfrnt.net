@@ -4,6 +4,7 @@
 html {
   font-family: 'Lato', sans-serif;
 	font-size: 16px; 
+  color: $black;
   @include only-small {
     font-size: 14px;}}
 
@@ -48,6 +49,10 @@ p a {
   align-items: center;}
 	
 // // //  Elements // // //
+a {
+  text-decoration: none;
+  color: inherit;}
+
 figure {
 	margin: 0;
 	display: grid;}

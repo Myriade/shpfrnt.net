@@ -1,13 +1,14 @@
+import { renderedCartAmount, currentPhrase } from './siteHeader.js';
+
 export default function () {
 return `
-
   <h1>Shopfront</h1>
   <nav>
-    <a class="checkout">Checkout</a>
-    <a class="cart">Cart</a>
+    <a href="#" class="checkout">Checkout</a>
+    <a href="#" id="cart">${renderedCartAmount}</a>
   </nav>
   <aside>
-    <p>!!**Sale just got better**!!</p>
+    <p id="headerBannerPhrase">${currentPhrase}</p>
   </aside>
-  
-`}
+  `;
+}

@@ -20,9 +20,25 @@
     grid-row-end: 3;
     display: flex;
     justify-content: flex-end;
+    align-items: end;
     column-gap: 10%;
     padding-right: 6vw;
-  }
+    a.checkout {
+      text-transform: uppercase;
+      font-weight: 400;
+      font-size: 0.8195rem;
+      border-radius: 1.875rem;
+      border: 2px solid $black;
+      padding: 0.7em 1.3em;
+      background: $lightgrey;
+      &:hover {
+        background: $black;
+        color: $white;}
+      &:active {
+        background: $mediumgrey;
+        color: $black;
+      }
+    }}
   
   aside {
     grid-row-start: 1;

@@ -1,6 +1,45 @@
 @import '../../styles/commons';
 
-h1 {
-  text-transform: uppercase;
-  text-align: center;
+#siteHeader {
+  width: 88vw;
+  position: fixed;
+  grid-template-columns: 3fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  background: $lightgrey;
+  position: fixed;
+  
+  h1 {
+    grid-row-start: 2;
+    grid-row-end: 3;
+    text-transform: uppercase;}
+
+  nav {
+    grid-row-start: 2;
+    grid-row-end: 3;
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 10%;
+  }
+  
+  aside {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    text-align: center;
+    background: $mediumgrey;
+    p {
+      font-size: 0.8rem;}
+  }
+  
+  @include medium-up {
+    h1 {
+      text-align: center;
+      grid-column-start: 1;
+      grid-column-end: 3;}
+    nav {
+      grid-column-start: 2;
+      grid-column-end: 3;}}
+
 }
+

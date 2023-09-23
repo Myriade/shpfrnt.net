@@ -5,7 +5,7 @@
   align-items: center;
   width: 100vw;
   position: fixed;
-  grid-template-columns: 3fr 1fr;
+  grid-template-columns: 2fr 1fr;
   grid-template-rows: auto auto;
   background: $lightgrey;
   
@@ -20,25 +20,49 @@
     grid-row-end: 3;
     display: flex;
     justify-content: flex-end;
-    align-items: end;
-    column-gap: 10%;
-    padding-right: 6vw;
-    a.checkout {
-      text-transform: uppercase;
-      font-weight: 400;
-      font-size: 0.8195rem;
-      border-radius: 1.875rem;
-      border: 2px solid $black;
-      padding: 0.7em 1.3em;
-      background: $lightgrey;
-      &:hover {
-        background: $black;
-        color: $white;}
-      &:active {
-        background: $mediumgrey;
-        color: $black;
-      }
-    }}
+    align-items: center;
+    column-gap: 5%;
+    padding-right: 6vw;}
+    
+  nav a {
+    box-sizing: border-box;
+    display: grid;
+    align-items: center;
+  }
+    
+  a.checkout {
+    height: 35px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 0.8195rem;
+    border-radius: 1.875rem;
+    border: 2px solid $black;
+    padding-inline: 1.3em;
+    background: $lightgrey;
+    &:hover {
+      background: $black;
+      color: $white;}
+    &:active {
+      background: $mediumgrey;
+      color: $black;
+    }
+  }
+  
+  a.cart {
+    height: 42px;
+    text-align: center;
+    border-radius: 1.875rem;
+    padding-inline: calc(1rem + 35px) 1rem;
+    background: url("../../images/bag.png") no-repeat;
+    background-size: 35px;
+    background-position: 10px center;
+    overflow: visible;
+    &:hover {
+      background-color: $mediumgrey;}
+    &:active {
+      
+    }
+  }
   
   aside {
     grid-row-start: 1;

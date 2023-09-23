@@ -1,25 +1,44 @@
 @import '../../styles/commons';
 
 #siteHeader {
-  width: 88vw;
+  display: grid;
+  align-items: center;
+  width: 100vw;
   position: fixed;
   grid-template-columns: 3fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: auto auto;
   background: $lightgrey;
-  position: fixed;
   
   h1 {
     grid-row-start: 2;
     grid-row-end: 3;
-    text-transform: uppercase;}
+    text-transform: uppercase;
+    padding-inline: 6vw;}
 
   nav {
     grid-row-start: 2;
     grid-row-end: 3;
     display: flex;
     justify-content: flex-end;
+    align-items: end;
     column-gap: 10%;
-  }
+    padding-right: 6vw;
+    a.checkout {
+      text-transform: uppercase;
+      font-weight: 400;
+      font-size: 0.8195rem;
+      border-radius: 1.875rem;
+      border: 2px solid $black;
+      padding: 0.7em 1.3em;
+      background: $lightgrey;
+      &:hover {
+        background: $black;
+        color: $white;}
+      &:active {
+        background: $mediumgrey;
+        color: $black;
+      }
+    }}
   
   aside {
     grid-row-start: 1;

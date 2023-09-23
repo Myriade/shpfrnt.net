@@ -4,6 +4,7 @@ import './styles/global.scss';
 
 // Place siteHeader and its syles
 import siteHeader from './views/siteHeader/siteHeader.html.js';
+import './views/siteHeader/siteHeader.js';
 import './views/siteHeader/siteHeader.scss';
 document.getElementById('siteHeader').innerHTML = siteHeader();
 

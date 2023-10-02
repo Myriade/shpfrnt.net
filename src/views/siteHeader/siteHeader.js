@@ -41,7 +41,7 @@ function updateCartAmountDisplay(newAmount) {
   if (currentCartAmount || currentCartAmount < 100000) {
     const cartElement = document.getElementById('cart__amount');
     const formattedCurrency = formatCurrency(currentCartAmount);
-    const renderedCartAmount = `(${formattedCurrency} $)`;
+    const renderedCartAmount = `(${formattedCurrency}\u00A0$)`;
     cartElement.textContent = renderedCartAmount;
   }
 }

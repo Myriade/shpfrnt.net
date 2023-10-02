@@ -8,13 +8,11 @@ for (const product of products) {
   const cardTemplate = `
     <div class="product">
       <figure>
-        <img src="/media/products/images/${product.imageFileName}" alt="${product.title}">
+        <img src="/media/products/images/${product.imageFileName}" alt="">
       </figure>
       <h2>${product.title}</h2>
       <p>$${product.regularPrice}</p>
       <p>$${product.discountedPrice}</p>
-      <p>Rating: ${product.rating}</p>
-      <p>Reviews: ${product.numberOfReviews}</p>
     </div>
   `;
   productIteration += cardTemplate;

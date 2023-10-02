@@ -1,10 +1,9 @@
 @import '../../styles/commons';
 
 #siteMain {
-  min-height: 60vh;
+  padding-block: 10rem 6rem;
   display: grid;
-  justify-content: center;
-  padding-top: 8rem;}
+  justify-content: center;}
   
 #products {
   display: grid;

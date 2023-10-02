@@ -28,8 +28,8 @@
     {
       "title": "Something",
       "imageFileName": "",
-      "regularPrice": 0.0,
-      "discountedPrice": 0.0,
+      "regularPrice": 3,
+      "discountedPrice": 2,
       "rating": 0,
       "numberOfReviews": 0
     },

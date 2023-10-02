@@ -30,7 +30,7 @@ const config = {
     new MiniCssExtractPlugin(),
     new CopyWebpackPlugin({
       patterns: [
-        { from: 'src/images', to: 'images' }
+        { from: 'src/media', to: 'media' }
       ]
     })
   ],

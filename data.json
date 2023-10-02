@@ -1,10 +1,52 @@
 {
   "products": [
     {
-      "title": "",
+      "title": "Shop Front",
+      "imageFileName": "product-1.png",
+      "regularPrice": 37,
+      "discountedPrice": 33,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "Front Shop",
+      "imageFileName": "product-2.jpg",
+      "regularPrice": 22,
+      "discountedPrice": 11,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "A Video Example",
+      "videoMp4FileName": "product-3-video.mp4",
+      "videoWebmFileName": "",
+      "regularPrice": 114,
+      "discountedPrice": 98,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "Something",
+      "imageFileName": "",
+      "regularPrice": 0.0,
+      "discountedPrice": 0.0,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "Another Example",
+      "videoMp4FileName": "product-5-video.mp4",
+      "videoWebmFileName": "",
+      "regularPrice": 0.0,
+      "discountedPrice": 0.0,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "Something Else",
       "imageFileName": "",
       "videoMp4FileName": "",
-      "videoOggFileName": "",
+      "videoWebmFileName": "",
       "regularPrice": 0.0,
       "discountedPrice": 0.0,
       "rating": 0,

@@ -3,4 +3,48 @@
 #siteMain {
   min-height: 60vh;
   display: grid;
-  justify-content: center;}
+  justify-content: center;
+  padding-top: 8rem;}
+  
+#products {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2vw 2vh;}
+  
+.product {
+  max-width: 290px;
+  figure {
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    width: 290px;
+    height: 290px;
+    overflow: hidden;
+    background: $lightgrey;}
+  image, video {
+    width: 100%;
+    height: auto;}
+  &__row1 {
+    display: grid;
+    grid-template-columns: 3fr auto auto;
+    margin-block: 1rem;}
+  &__title {
+    margin-block: 0;}
+  &__discount {
+    font-size: 1.5rem;
+    margin-right: 0.25em;}
+  &__regular {
+    color: $darkgrey;
+    text-decoration: underline;
+    text-underline-offset: -40%;
+    text-decoration-skip-ink: none;}
+}
+    
+@include medium-up {
+  #products {
+    grid-template-columns: 1fr 1fr;}}
+    
+@include large-up {
+    #products {
+      grid-template-columns: 1fr 1fr 1fr;}}
+

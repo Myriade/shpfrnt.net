@@ -9,7 +9,10 @@ To install locally, run `npm install`
 To make changes localy, and view the result in your browser run `npm run dev`  
 It will open a browser tab with a live preview.
 
-### More instructions are coming soon
+### Files (images and videos)
+- Products images should go in src/images/products/images
+- Products video files should go in src/images/products/videos in two formats for each one, .mp4 and .webm, to assure compatiblity with all browsers.
+
 
 ## Made with
 - [Node.js](https://nodejs.org)

@@ -1,8 +1,7 @@
 // imports
-import { loadedData } from '../../dataLoader';
+import { data } from '../../../data';
 
-// Data variables 
-const data = loadedData;
+// Data variables
 const products = data.products;
 let productIteration = '';
 
@@ -12,12 +11,12 @@ for (const product of products) {
   if (product.videoMp4FileName) {
     media = `
       <video autoplay muted="true" loop>
-        <source src="/media/products/videos/${product.videoMp4FileName}" type="video/mp4" >
-        <source src="/media/products/videos/${product.videoWebmFileName}" type="video/webm">
+        <source src="media/products/videos/${product.videoMp4FileName}" type="video/mp4" >
+        <source src="media/products/videos/${product.videoWebmFileName}" type="video/webm">
       </video> 
     `;
   } else {
-    media = `<img src="/media/products/images/${product.imageFileName}" alt="">`;
+    media = `<img src="media/products/images/${product.imageFileName}" alt="">`;
   }
   
   const cardTemplate = `

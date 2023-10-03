@@ -1,9 +1,8 @@
 // imports
-import { loadedData } from '../../dataLoader';
+import { data } from '../../../data';
 const { getCartAmount, setCartAmount, onChange } = require('../../cartAmount.js');
 
 // Data variables 
-const data = loadedData;
 const phrases = data.headerBanner.phrases;
 const phraseChangeInterval = data.headerBanner.changeIntervalSeconds * 1000;
 const cartChangeInterval = data.cart.changeIntervalSeconds * 1000;

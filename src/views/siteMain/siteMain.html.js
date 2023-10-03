@@ -1,7 +1,9 @@
-import data from '../../../data.json';
+// imports
+import { loadedData } from '../../dataLoader';
 
+// Data variables 
+const data = loadedData;
 const products = data.products;
-
 let productIteration = '';
 
 for (const product of products) {

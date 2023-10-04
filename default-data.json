@@ -1,15 +1,7 @@
 {
   "products": [
     {
-      "title": "Default Data",
-      "imageFileName": "product-1.png",
-      "regularPrice": 0,
-      "discountedPrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
-    },
-    {
-      "title": "Original JSON file has an error",
+      "title": "...",
       "imageFileName": "",
       "regularPrice": 0,
       "discountedPrice": 0,
@@ -17,7 +9,15 @@
       "numberOfReviews": 0
     },
     {
-      "title": "Verify and save again",
+      "title": "...",
+      "imageFileName": "",
+      "regularPrice": 0,
+      "discountedPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "...",
       "videoMp4FileName": "",
       "videoWebmFileName": "",
       "regularPrice": 0,
@@ -55,16 +55,16 @@
   ],
   "headerBanner": {
     "phrases": [
-      "!!**Sale just got better**!!"
+      "..."
     ],
-    "changeIntervalSeconds" : 5
+    "changeIntervalSeconds" : 5000
   },
   "cart": {
     "randomIncrementAmount": {
-      "min": 5,
-      "max": 500
+      "min": 0,
+      "max": 0
     },
-    "changeIntervalSeconds": 7
+    "changeIntervalSeconds": 7000
   },
   "siteFooter": {
     "corporateResponsibilityLink": ""

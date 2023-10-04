@@ -1,12 +1,9 @@
 // Generated using webpack-cli https://github.com/webpack/webpack-cli
-
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
-
 const isProduction = process.env.NODE_ENV == 'production';
-
 const stylesHandler = MiniCssExtractPlugin.loader;
 
 const config = {
@@ -30,7 +27,8 @@ const config = {
     new MiniCssExtractPlugin(),
     new CopyWebpackPlugin({
       patterns: [
-        { from: 'src/media', to: 'media' }
+        { from: 'src/media', to: 'media' },
+        { from: 'data.json', to: './' }
       ]
     })
   ],
@@ -39,6 +37,7 @@ const config = {
     rules: [
       {
         test: /\.(js|jsx)$/i,
+        exclude: /data\.js/, // Exclude the /data.js file
         loader: 'babel-loader',
       },{
         test: /\.css$/i,
@@ -54,11 +53,15 @@ const config = {
   },
 };
 
-module.exports = () => {
-  if (isProduction) {
-    config.mode = 'production';        
-  } else {
-    config.mode = 'development';
-  }
-  return config;
-};
+try {
+  module.exports = () => {
+    if (isProduction) {
+      config.mode = 'production';        
+    } else {
+      config.mode = 'development';
+    }
+    return config;
+  };
+} catch (error) {
+  console.error('Webpack build error:', error);
+}

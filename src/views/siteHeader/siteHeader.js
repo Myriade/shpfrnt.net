@@ -1,5 +1,5 @@
 // imports
-import data from '../../../data.json';
+import { data } from '../../../data';
 const { getCartAmount, setCartAmount, onChange } = require('../../cartAmount.js');
 
 // Data variables 

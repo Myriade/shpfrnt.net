@@ -1,40 +1,23 @@
 {
   "products": [
     {
-      "title": "Shop Front",
-      "imageFileName": "product-1.png",
-      "regularPrice": 37,
-      "discountedPrice": 33,
-      "rating": 0,
-      "numberOfReviews": 0
-    },
-    {
-      "title": "Front Shop",
+      "title": "...",
       "imageFileName": "",
-      "regularPrice": 22,
-      "discountedPrice": 11,
+      "regularPrice": 0,
+      "discountedPrice": 0,
       "rating": 0,
       "numberOfReviews": 0
     },
     {
-      "title": "A Video Example",
-      "videoMp4FileName": "product-3-video.mp4",
-      "videoWebmFileName": "",
-      "regularPrice": 114,
-      "discountedPrice": 98,
-      "rating": 0,
-      "numberOfReviews": 0
-    },
-    {
-      "title": "Something",
+      "title": "...",
       "imageFileName": "",
-      "regularPrice": 3,
-      "discountedPrice": 2,
+      "regularPrice": 0,
+      "discountedPrice": 0,
       "rating": 0,
       "numberOfReviews": 0
     },
     {
-      "title": "Another Example",
+      "title": "...",
       "videoMp4FileName": "",
       "videoWebmFileName": "",
       "regularPrice": 0,
@@ -43,7 +26,24 @@
       "numberOfReviews": 0
     },
     {
-      "title": "Something Else",
+      "title": "",
+      "imageFileName": "",
+      "regularPrice": 0,
+      "discountedPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "",
+      "videoMp4FileName": "",
+      "videoWebmFileName": "",
+      "regularPrice": 0,
+      "discountedPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "",
       "imageFileName": "",
       "videoMp4FileName": "",
       "videoWebmFileName": "",
@@ -55,21 +55,16 @@
   ],
   "headerBanner": {
     "phrases": [
-      "!!**Sale just got better**!!",
-      "-- Test phrase 2 --",
-      "// Troisième phrase test //",
-      "_ _ _ Test numéro quatre _ _ _",
-      "Random something 5",
-      "Random phrase six"
+      "..."
     ],
-    "changeIntervalSeconds" : 5
+    "changeIntervalSeconds" : 5000
   },
   "cart": {
     "randomIncrementAmount": {
-      "min": 5,
-      "max": 500
+      "min": 0,
+      "max": 0
     },
-    "changeIntervalSeconds": 7
+    "changeIntervalSeconds": 7000
   },
   "siteFooter": {
     "corporateResponsibilityLink": ""

@@ -1,6 +1,6 @@
 // imports
-import { data } from '../../../data';
-const { getCartAmount, setCartAmount, onChange } = require('../../cartAmount.js');
+import { data } from '../../globals/data.js';
+const { getCartAmount, setCartAmount, onChange } = require('../../globals/cartAmount.js');
 
 // Data variables 
 const phrases = data.headerBanner.phrases;

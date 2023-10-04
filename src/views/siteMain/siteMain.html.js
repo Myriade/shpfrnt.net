@@ -1,5 +1,5 @@
 // imports
-import { data } from '../../../data';
+import { data } from '../../globals/data.js';
 
 // Data variables
 const products = data.products;

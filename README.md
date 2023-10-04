@@ -3,7 +3,11 @@ Webart project for artists Cinzia Campolese and Lucas Paris
 Developped by Myriam Bizier, [myriadeweb.com](https://myriadeweb.com)
 
 ## Install
-To install locally, run `npm install`
+- Clone the code from GitHub to your machine
+https://github.com/Myriade/shpfrnt.net
+- Install dependencies (Node.js and npm) on your local machine : 
+https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+- Install Shopfront project on your local machine, by running `npm install` while on the project's root folder
 
 ## Dev
 To make changes localy, and view the result in your browser run `npm run dev`  

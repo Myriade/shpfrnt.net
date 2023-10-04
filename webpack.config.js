@@ -7,7 +7,7 @@ const isProduction = process.env.NODE_ENV == 'production';
 const stylesHandler = MiniCssExtractPlugin.loader;
 
 const config = {
-  entry: './src/index.js',
+  entry: './src/globals/index.js',
   
   output: {
     path: path.resolve(__dirname, 'public'),
@@ -16,6 +16,7 @@ const config = {
   devServer: {
     open: true,
     host: 'localhost',
+    watchFiles: ['src/data/data.json']
   },
   
   devtool: 'inline-source-map',
@@ -28,7 +29,7 @@ const config = {
     new CopyWebpackPlugin({
       patterns: [
         { from: 'src/media', to: 'media' },
-        { from: 'data.json', to: './' }
+        { from: 'src/data', to: 'data' }
       ]
     })
   ],
@@ -37,7 +38,6 @@ const config = {
     rules: [
       {
         test: /\.(js|jsx)$/i,
-        exclude: /data\.js/, // Exclude the /data.js file
         loader: 'babel-loader',
       },{
         test: /\.css$/i,

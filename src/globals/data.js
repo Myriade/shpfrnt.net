@@ -1,10 +1,10 @@
-import defaultData from './default-data.json';
+import defaultData from '../data/default-data.json';
 
 let asyncData;
 
 async function fetchData() {
   try {
-    const response = await fetch('./data.json');
+    const response = await fetch('../../data/data.json');
     asyncData = await response.json();
     return asyncData; // Return the fetched data
   } catch (error) {

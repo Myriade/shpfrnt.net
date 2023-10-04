@@ -5,16 +5,16 @@
       "imageFileName": "product-1.png",
       "regularPrice": 37,
       "discountedPrice": 33,
-      "rating": 0,
-      "numberOfReviews": 0
+      "rating": 1,
+      "numberOfReviews": 80
     },
     {
       "title": "Front Shop",
       "imageFileName": "",
       "regularPrice": 22,
       "discountedPrice": 11,
-      "rating": 0,
-      "numberOfReviews": 0
+      "rating": 2,
+      "numberOfReviews": 11
     },
     {
       "title": "A Video Example",
@@ -22,16 +22,16 @@
       "videoWebmFileName": "",
       "regularPrice": 114,
       "discountedPrice": 98,
-      "rating": 0,
-      "numberOfReviews": 0
+      "rating": 3,
+      "numberOfReviews": 74
     },
     {
       "title": "Something",
       "imageFileName": "",
       "regularPrice": 3,
       "discountedPrice": 2,
-      "rating": 0,
-      "numberOfReviews": 0
+      "rating": 4,
+      "numberOfReviews": 40
     },
     {
       "title": "Another Example",
@@ -39,8 +39,8 @@
       "videoWebmFileName": "",
       "regularPrice": 0,
       "discountedPrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
+      "rating": 5,
+      "numberOfReviews": 190
     },
     {
       "title": "Something Else",

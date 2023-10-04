@@ -23,7 +23,7 @@
   image, video {
     width: 100%;
     height: auto;}
-  &__row1 {
+  &__infos1 {
     display: grid;
     grid-template-columns: 3fr auto auto;
     margin-block: 1rem;}
@@ -37,6 +37,32 @@
     text-decoration: underline;
     text-underline-offset: -40%;
     text-decoration-skip-ink: none;}
+  &__infos2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    justify-content: left;
+    gap: 0.5em;
+    margin-block: 1rem;
+    &.rate-1 {
+      .star1 path {
+        fill: $yellow;}}
+    &.rate-2 {
+      .star1, .star2 {
+        path {
+          fill: $yellow;}}}
+    &.rate-3 {
+      .star1, .star2, .star3 {
+        path {
+          fill: $yellow;}}}
+    &.rate-4 {
+      .star1, .star2, .star3, .star4 {
+        path {
+          fill: $yellow;}}}
+    &.rate-5 {
+      .star1, .star2, .star3, .star4, .star5 {
+        path {
+          fill: $yellow;}}}}
 }
     
 @include medium-up {

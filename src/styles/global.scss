@@ -22,7 +22,7 @@ h2 {
   font-weight: 600;}
   
 h1 {
-  font-size: 2rem;
+  font-size: clamp(1.5rem, 5vw, 2rem);
   font-weight: normal;
   margin-block: 1rem;}
 	

@@ -1,6 +1,6 @@
 // imports
-import data from '../../../data.json';
-const { getCartAmount, setCartAmount, onChange } = require('../../cartAmount.js');
+import { data } from '../../globals/data.js';
+const { getCartAmount, setCartAmount, onChange } = require('../../globals/cartAmount.js');
 
 // Data variables 
 const phrases = data.headerBanner.phrases;
@@ -41,7 +41,7 @@ function updateCartAmountDisplay(newAmount) {
   if (currentCartAmount || currentCartAmount < 100000) {
     const cartElement = document.getElementById('cart__amount');
     const formattedCurrency = formatCurrency(currentCartAmount);
-    const renderedCartAmount = `(${formattedCurrency} $)`;
+    const renderedCartAmount = `(${formattedCurrency}\u00A0$)`;
     cartElement.textContent = renderedCartAmount;
   }
 }

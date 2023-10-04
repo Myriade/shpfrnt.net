@@ -1,16 +1,13 @@
 // Generated using webpack-cli https://github.com/webpack/webpack-cli
-
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
-
 const isProduction = process.env.NODE_ENV == 'production';
-
 const stylesHandler = MiniCssExtractPlugin.loader;
 
 const config = {
-  entry: './src/index.js',
+  entry: './src/globals/index.js',
   
   output: {
     path: path.resolve(__dirname, 'public'),
@@ -19,6 +16,7 @@ const config = {
   devServer: {
     open: true,
     host: 'localhost',
+    watchFiles: ['src/data/data.json']
   },
   
   devtool: 'inline-source-map',
@@ -30,7 +28,8 @@ const config = {
     new MiniCssExtractPlugin(),
     new CopyWebpackPlugin({
       patterns: [
-        { from: 'src/images', to: 'images' }
+        { from: 'src/media', to: 'media' },
+        { from: 'src/data', to: 'data' }
       ]
     })
   ],
@@ -54,11 +53,15 @@ const config = {
   },
 };
 
-module.exports = () => {
-  if (isProduction) {
-    config.mode = 'production';        
-  } else {
-    config.mode = 'development';
-  }
-  return config;
-};
+try {
+  module.exports = () => {
+    if (isProduction) {
+      config.mode = 'production';        
+    } else {
+      config.mode = 'development';
+    }
+    return config;
+  };
+} catch (error) {
+  console.error('Webpack build error:', error);
+}

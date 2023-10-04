@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "title": "Shop Front",
+      "imageFileName": "product-1.png",
+      "regularPrice": 37,
+      "discountedPrice": 33,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "Front Shop",
+      "imageFileName": "",
+      "regularPrice": 22,
+      "discountedPrice": 11,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "A Video Example",
+      "videoMp4FileName": "product-3-video.mp4",
+      "videoWebmFileName": "",
+      "regularPrice": 114,
+      "discountedPrice": 98,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "Something",
+      "imageFileName": "",
+      "regularPrice": 3,
+      "discountedPrice": 2,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "Another Example",
+      "videoMp4FileName": "",
+      "videoWebmFileName": "",
+      "regularPrice": 0,
+      "discountedPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "Something Else",
+      "imageFileName": "",
+      "videoMp4FileName": "",
+      "videoWebmFileName": "",
+      "regularPrice": 0,
+      "discountedPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
+    }
+  ],
+  "headerBanner": {
+    "phrases": [
+      "!!**Sale just got better**!!",
+      "-- Test phrase 2 --",
+      "// Troisième phrase test //",
+      "_ _ _ Test numéro quatre _ _ _",
+      "Random something 5",
+      "Random phrase six"
+    ],
+    "changeIntervalSeconds" : 5
+  },
+  "cart": {
+    "randomIncrementAmount": {
+      "min": 5,
+      "max": 500
+    },
+    "changeIntervalSeconds": 7
+  },
+  "siteFooter": {
+    "corporateResponsibilityLink": ""
+  }
+}

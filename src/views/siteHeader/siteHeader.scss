@@ -31,6 +31,7 @@
   }
     
   a.checkout {
+    display: none;
     height: 35px;
     text-transform: uppercase;
     font-weight: 400;
@@ -44,8 +45,9 @@
       color: $white;}
     &:active {
       background: $mediumgrey;
-      color: $black;
-    }
+      color: $black;}
+    @include large-up {
+      display: grid;}
   }
   
   a.cart {
@@ -53,7 +55,7 @@
     text-align: center;
     border-radius: 1.875rem;
     padding-inline: calc(1rem + 35px) 1rem;
-    background: url("../../images/bag.png") no-repeat;
+    background: url("../../media/bag.png") no-repeat;
     background-size: 35px;
     background-position: 10px center;
     overflow: visible;

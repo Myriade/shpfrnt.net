@@ -1,2 +1,9 @@
 @import '../../styles/commons';
 
+#checkoutModal {
+  table {
+    width: 100%;
+    .row {
+      display: flex;
+      justify-content: space-between;}}
+}

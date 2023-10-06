@@ -76,3 +76,65 @@ span.mobileLineBreak {
   display: block;
   @include medium-up {
     display: inline;}}
+    
+.fake-link:hover {
+  cursor: pointer;
+  text-decoration: underline;}
+
+// // // Modals // // // 
+/* modal background */
+.modal {
+  display: none;
+  background-color: rgba(255, 255, 255, 0.7);
+  position: fixed;
+  z-index: 20;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  -webkit-animation-name: fadeIn;
+  -webkit-animation-duration: 0.5s;
+  animation-name: fadeIn;
+  animation-duration: 0.5s
+}
+
+/* modal content box */
+.modal-content {
+  position: relative;
+  padding: 1vw;
+  margin: 15% auto;
+  width: 90%;
+  max-width: 275px;
+  background-color: $verylightgrey;
+  border: 1px solid $darkgrey;
+  border-radius: 1rem;
+  transition: all 0.5s ease-in-out;}
+
+/* modal close button */
+.modal .close {
+  padding-block: 1em;
+  svg {
+    padding-right: 0.5em;
+  }
+  &:hover {
+    color: $darkgrey;
+    text-decoration: none;
+    cursor: pointer;
+    path {
+      stroke: $darkgrey;
+    }
+  }
+  &:focus {
+    color: $darkgrey;
+    text-decoration: underline;
+    cursor: pointer;}}
+
+/* Add Animation */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0} 
+  to {opacity: 1}}
+
+@keyframes fadeIn {
+  from {opacity: 0} 
+  to {opacity: 1}}

@@ -39,10 +39,10 @@ const { format: formatCurrency } = new Intl.NumberFormat('fr-CA', {
 function updateCartAmountDisplay(newAmount) {
   const currentCartAmount = getCartAmount();
   if (currentCartAmount || currentCartAmount < 100000) {
-    const cartElement = document.getElementById('cart__amount');
+    const cartAmountElements = document.querySelectorAll('.cart__amount');
     const formattedCurrency = formatCurrency(currentCartAmount);
     const renderedCartAmount = `(${formattedCurrency}\u00A0$)`;
-    cartElement.textContent = renderedCartAmount;
+    cartAmountElements.forEach(elem => elem.textContent = renderedCartAmount);
   }
 }
 onChange(updateCartAmountDisplay);

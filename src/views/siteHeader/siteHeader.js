@@ -22,10 +22,10 @@ setInterval(changePhrase, phraseChangeInterval);
 
 // Show and update cart Amount
 function displayCartAmount () {
-  const cartAmountElements = document.getElementById('cart-preview__amount');
+  const cartAmountElement = document.getElementById('cart-preview__amount');
   const currentCartAmount = showCartAmount();
   const displayedCartAmount = `(${currentCartAmount})`;
-  cartAmountElements.textContent = displayedCartAmount;
+  cartAmountElement.textContent = displayedCartAmount;
 }
 
 onCartAmountChange(displayCartAmount);

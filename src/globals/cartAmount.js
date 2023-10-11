@@ -16,12 +16,13 @@ const onCartAmountChange = (handler) => {
   changeHandlers.push(handler);
 };
 
+const { format: formatCurrency } = new Intl.NumberFormat('fr-CA', {
+  minimumFractionDigits: 2,
+  style: 'currency',
+  currency: "CAD"
+});
+
 const showCartAmount = () => {
-  const { format: formatCurrency } = new Intl.NumberFormat('fr-CA', {
-    minimumFractionDigits: 2,
-    style: 'currency',
-    currency: "CAD"
-  });
   const formattedCurrency = formatCurrency(CartAmount);
   return formattedCurrency;
 };
@@ -36,4 +37,4 @@ function changeAmountOnTimeInterval() {
 }
 setInterval(changeAmountOnTimeInterval, cartChangeInterval);
 
-export { getCartAmount, setCartAmount, onCartAmountChange, showCartAmount }
+export { getCartAmount, setCartAmount, onCartAmountChange, formatCurrency, showCartAmount }

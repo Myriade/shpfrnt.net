@@ -1,13 +1,21 @@
 export default function () {
 return `
   <div class="modal-content">
-    <em style="text-align: center; width: 100%; display:block">(...work ... in ... progress ...)</em>
     
-    <div class="fake-link">Apply discount code</div>
+    <div class="fake-link discount button button--square">
+      <object type="image/svg+xml" data="../../media/discount.svg" width="30" ></object>
+      <span>Apply discount code</span>
+      <svg width="6" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M1 1L7 7L1 13" stroke="#0C0D12" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
     
     <h3>Express Checkout</h3>
     
-    <div class="fake-link">Paypal</div><div class="fake-link">GPay</div>
+    <div class="buttons">
+      <div class="fake-link button button--pill paypal"></div>
+      <div class="fake-link button button--pill gpay"></div>
+    </div>
     
     <h3>Detail shop</h3>
     
@@ -17,18 +25,18 @@ return `
       </tr>
     </table>
     
-    <div class="captcha">
-      captcha img <br>
-      <input type="text" />
+    <div id="captcha">
+      <figure></figure>
+      <input type="text" placeholder="Enter Captcha"/>
     </div>
     
-    <a href="#">Checkout</a>
-    
-    <div class="close">
-      <svg width="6" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M7 1L1 7L7 13" stroke="#0C0D12" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-      </svg> 
-      Return
-    </div>
+    <div class="buttons">
+      <div class="close">
+        <svg width="6" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M7 1L1 7L7 13" stroke="#0C0D12" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg> 
+        Return
+      </div>
+      <a href="#" class="button button--pill button--disabled">Checkout</a>
   </div>
 `}

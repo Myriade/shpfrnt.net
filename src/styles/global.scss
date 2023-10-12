@@ -72,6 +72,34 @@ img {
 	justify-content: space-evenly;
 	gap: 1rem;}
   
+.button {
+  display: grid;
+  align-items: center;
+  font-weight: 400;
+  background: $lightgrey;
+  &:hover {
+    background: $black;
+    color: $white;}
+  &:active {
+    background: $mediumgrey;
+    color: $black;}
+    
+  &--pill {
+    height: 35px;
+    text-transform: uppercase;
+    font-size: 0.8195rem;
+    border-radius: 1.875rem;
+    border: 2px solid $black;
+    padding-inline: 1.3em;}
+    
+  &--square {
+    background: #F6F6F6;
+    height: 45px;
+    border-radius: 0.5rem;
+    padding-inline: 1em;
+  }
+}
+  
 span.mobileLineBreak {
   display: block;
   @include medium-up {
@@ -106,7 +134,7 @@ span.mobileLineBreak {
   margin: 15% auto;
   width: 90%;
   max-width: 275px;
-  background-color: $verylightgrey;
+  background-color: #FBFBFB;
   border: 1px solid $darkgrey;
   border-radius: 1rem;
   transition: all 0.5s ease-in-out;}

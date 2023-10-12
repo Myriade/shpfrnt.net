@@ -13,12 +13,11 @@ function displayCartAmounts () {
   const total = formatCurrency(cartAmount + taxes + shipping);
   
   cartSummaryAmounts = `
-    <tr><td>Subtotal</td><td>${subtotal}</td></tr>
-    <tr><td>Shipping</td><td>${formatCurrency(shipping)}</td></tr>
-    <tr><td>Taxes</td><td>${formatCurrency(taxes)}</td></tr>
-    <tr><td>Total</td><td>${total}</td></tr>
+    <tr class='subtotal'><td>Subtotal</td><td>${subtotal}</td></tr>
+    <tr class='shipping'><td>Shipping</td><td>${formatCurrency(shipping)}</td></tr>
+    <tr class='taxes'><td>Taxes</td><td>${formatCurrency(taxes)}</td></tr>
+    <tr class='total'><td>Total</td><td>${total}</td></tr>
   `
-  
   cartSummaryElement.innerHTML = cartSummaryAmounts;
   
 }

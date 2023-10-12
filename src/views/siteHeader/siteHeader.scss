@@ -32,20 +32,6 @@
     
   a.checkout {
     display: none;
-    height: 35px;
-    text-transform: uppercase;
-    font-weight: 400;
-    font-size: 0.8195rem;
-    border-radius: 1.875rem;
-    border: 2px solid $black;
-    padding-inline: 1.3em;
-    background: $lightgrey;
-    &:hover {
-      background: $black;
-      color: $white;}
-    &:active {
-      background: $mediumgrey;
-      color: $black;}
     @include large-up {
       display: grid;}
   }

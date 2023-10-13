@@ -2,7 +2,7 @@ export default function handleModals () {
   const toggleModal = (modalId) => {
     const openLink = document.querySelectorAll(`.open-modal[href="#${modalId}"]`);
     const modalCntnr = document.getElementById(modalId);
-    const closeBtn = modalCntnr.querySelector('.close');
+    const closeBtn = modalCntnr.querySelector('.close-modal');
     const modalContent = modalCntnr.querySelector('.modal-content');
     
     openLink.forEach( link => {

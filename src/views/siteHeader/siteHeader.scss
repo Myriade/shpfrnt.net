@@ -27,30 +27,18 @@
   nav a {
     box-sizing: border-box;
     display: grid;
-    align-items: center;
-  }
+    align-items: center;}
     
   a.checkout {
     display: none;
     @include large-up {
-      display: grid;}
-  }
+      display: grid;}}
   
-  a.cart-preview {
-    height: 42px;
-    text-align: center;
-    border-radius: 1.875rem;
+  a.button.cart-preview {
     padding-inline: calc(1rem + 35px) 1rem;
-    background: url("../../media/bag.png") no-repeat;
+    background-image: url("../../media/bag.svg");
     background-size: 35px;
-    background-position: 10px center;
-    overflow: visible;
-    &:hover {
-      background-color: $mediumgrey;}
-    &:active {
-      
-    }
-  }
+    background-position: 10px center;}
   
   aside {
     grid-row-start: 1;
@@ -60,8 +48,7 @@
     text-align: center;
     background: $mediumgrey;
     p {
-      font-size: 0.8rem;}
-  }
+      font-size: 0.8rem;}}
   
   @include medium-up {
     h1 {
@@ -70,7 +57,5 @@
       grid-column-end: 3;}
     nav {
       grid-column-start: 2;
-      grid-column-end: 3;}}
-
-}
+      grid-column-end: 3;}}}
 

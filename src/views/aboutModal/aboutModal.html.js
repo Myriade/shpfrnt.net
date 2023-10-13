@@ -9,11 +9,6 @@ return `
     <p>Nunc tristique magna nec justo tristique ultrices. Sed bibendum nibh eu enim feugiat porttitor. Ut sed odio at nisl efficitur viverra. Duis placerat, erat eu lacinia facilisis, lectus nibh posuere risus, et vehicula dui libero nec enim. Phasellus velit nulla, suscipit pharetra consectetur id, sodales tincidunt lacus. Curabitur varius elit eros, tristique vehicula augue ultrices a. Aenean nec lorem at tortor dictum eleifend ac vel tellus. Maecenas ultricies ut elit quis ornare. Mauris arcu velit, hendrerit quis placerat ac, tempus a diam. Sed fringilla pellentesque ex, at gravida dui convallis eget. Quisque tempus nibh ac eros consectetur ultricies. Ut gravida est volutpat lacus imperdiet pellentesque sed a erat. Curabitur purus justo, rutrum quis orci at, tempus luctus arcu. Duis in ligula ut nunc vestibulum sollicitudin nec non tellus. Suspendisse potenti. Donec pellentesque quam tortor, et euismod velit mollis eget.</p>
     
     <p>Maecenas tristique augue at vehicula molestie. Donec in elit risus. Cras bibendum, diam quis tempus pulvinar, erat purus tristique nibh, non tristique elit ex ut mauris. Proin felis nibh, rutrum bibendum dignissim sed, cursus vel dui. Aliquam erat volutpat. In consequat nunc quis libero gravida ornare. Aliquam vel lorem in libero finibus luctus. Pellentesque vitae augue quam. Integer ac ligula a velit porttitor cursus. Aliquam sed erat fermentum, sagittis tellus id, rutrum lacus. Curabitur faucibus aliquam mi ac pharetra. Donec commodo sem est, eget condimentum nulla eleifend sit amet. Nulla non massa lacus. Pellentesque maximus mauris tellus, scelerisque molestie magna mattis ut. Praesent sodales ante sit amet arcu accumsan, ut interdum orci venenatis. Duis tincidunt scelerisque dolor, ut fringilla ipsum aliquet lobortis.</p>
-    <div class="close">
-      <svg width="6" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M7 1L1 7L7 13" stroke="#0C0D12" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-      </svg> 
-      Return
-    </div>
+    <div class="button button--pill button--modal close-modal">Return</div>
   </div>
 `}

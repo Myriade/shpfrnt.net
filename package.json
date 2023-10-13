@@ -1,6 +1,6 @@
 {
   "name": "shpfrnt.net",
-  "version": "0.7",
+  "version": "0.8",
   "description": "Webart project for artists Cinzia Campolese and Lucas Paris",
   "main": "index.js",
   "scripts": {

@@ -31,12 +31,7 @@ return `
     </div>
     
     <div class="buttons">
-      <div class="close">
-        <svg width="6" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M7 1L1 7L7 13" stroke="#0C0D12" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg> 
-        Return
-      </div>
-      <a href="#" class="button button--pill button--disabled">Checkout</a>
+      <div class="button button--pill button--modal close-modal">Return</div>
+      <div class="button button--pill button--disabled checkout">Checkout</div>
   </div>
 `}

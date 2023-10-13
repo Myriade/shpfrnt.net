@@ -76,12 +76,14 @@ img {
   display: grid;
   align-items: center;
   font-weight: 400;
-  background: $lightgrey;
+  background-color: $lightgrey;
+  background-repeat: no-repeat;
+  background-position: center center;
   &:hover {
-    background: $black;
+    background-color: $black;
     color: $white;}
   &:active {
-    background: $mediumgrey;
+    background-color: $mediumgrey;
     color: $black;}
     
   &--pill {
@@ -93,12 +95,32 @@ img {
     padding-inline: 1.3em;}
     
   &--square {
-    background: #F6F6F6;
+    background-color: #F6F6F6;
     height: 45px;
     border-radius: 0.5rem;
     padding-inline: 1em;
-  }
-}
+    &:hover {
+      background-color: inherit;
+      color: inherit;
+      outline: 2px solid $darkgrey;}}
+    
+  &--disabled {
+    background-color: #D1CDCD;
+    color: white;
+    &:hover, &:active {
+      cursor: pointer;
+      background-color: #D1CDCD;
+      outline: none !important;
+      color: white;}}
+  
+  &--modal {
+    background-color: transparent;
+    border: 0;
+    font-size: 1rem;
+    &:hover {
+      cursor: pointer;
+      background-color: $mediumgrey;
+      color: inherit;}}}
   
 span.mobileLineBreak {
   display: block;
@@ -124,8 +146,7 @@ span.mobileLineBreak {
   -webkit-animation-name: fadeIn;
   -webkit-animation-duration: 0.5s;
   animation-name: fadeIn;
-  animation-duration: 0.5s
-}
+  animation-duration: 0.5s;}
 
 /* modal content box */
 .modal-content {
@@ -140,23 +161,12 @@ span.mobileLineBreak {
   transition: all 0.5s ease-in-out;}
 
 /* modal close button */
-.modal .close {
-  padding-block: 1em;
-  svg {
-    padding-right: 0.5em;
-  }
-  &:hover {
-    color: $darkgrey;
-    text-decoration: none;
-    cursor: pointer;
-    path {
-      stroke: $darkgrey;
-    }
-  }
-  &:focus {
-    color: $darkgrey;
-    text-decoration: underline;
-    cursor: pointer;}}
+.button.button--modal.close-modal {
+  text-transform: none;
+  display: inline-flex;
+  padding-inline: 2.5rem 1rem;
+  background-image: url("../media/prev.svg");
+  background-position: 1.5rem center;}
 
 /* Add Animation */
 @-webkit-keyframes fadeIn {

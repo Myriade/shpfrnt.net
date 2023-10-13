@@ -20,6 +20,7 @@ document.getElementById('siteFooter').innerHTML = siteFooter();
 
 // Place checkoutModal and its styles
 import checkoutModal from '../views/checkoutModal/checkoutModal.html.js';
+import '../views/checkoutModal/checkoutModal.js';
 import '../views/checkoutModal/checkoutModal.scss';
 document.getElementById('checkoutModal').innerHTML = checkoutModal();
 

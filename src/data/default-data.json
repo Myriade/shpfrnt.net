@@ -3,16 +3,16 @@
     {
       "title": "...",
       "imageFileName": "",
-      "regularPrice": 0,
-      "discountedPrice": 0,
+      "altPrice": 0,
+      "effectivePrice": 0,
       "rating": 0,
       "numberOfReviews": 0
     },
     {
       "title": "...",
       "imageFileName": "",
-      "regularPrice": 0,
-      "discountedPrice": 0,
+      "altPrice": 0,
+      "effectivePrice": 0,
       "rating": 0,
       "numberOfReviews": 0
     },
@@ -20,16 +20,16 @@
       "title": "...",
       "videoMp4FileName": "",
       "videoWebmFileName": "",
-      "regularPrice": 0,
-      "discountedPrice": 0,
+      "altPrice": 0,
+      "effectivePrice": 0,
       "rating": 0,
       "numberOfReviews": 0
     },
     {
       "title": "",
       "imageFileName": "",
-      "regularPrice": 0,
-      "discountedPrice": 0,
+      "altPrice": 0,
+      "effectivePrice": 0,
       "rating": 0,
       "numberOfReviews": 0
     },
@@ -37,8 +37,8 @@
       "title": "",
       "videoMp4FileName": "",
       "videoWebmFileName": "",
-      "regularPrice": 0,
-      "discountedPrice": 0,
+      "altPrice": 0,
+      "effectivePrice": 0,
       "rating": 0,
       "numberOfReviews": 0
     },
@@ -47,8 +47,8 @@
       "imageFileName": "",
       "videoMp4FileName": "",
       "videoWebmFileName": "",
-      "regularPrice": 0,
-      "discountedPrice": 0,
+      "altPrice": 0,
+      "effectivePrice": 0,
       "rating": 0,
       "numberOfReviews": 0
     }

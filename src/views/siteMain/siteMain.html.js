@@ -14,7 +14,7 @@ const fiveStars = `
   <div class="rating"><span class="star star1">${star}</span><span class="star star2">${star}</span><span class="star star3">${star}</span><span class="star star4">${star}</span><span class="star star5">${star}</span></div>
 `
 
-
+// Products iteration
 for (const product of products) {
   let media = ``;
   
@@ -29,27 +29,37 @@ for (const product of products) {
     media = `<img src="media/products/images/${product.imageFileName}" alt="">`;
   }
   
+  // Set the final Price that will be added to the cart amount
+  let finalPrice = 0;
+  finalPrice = product.effectivePrice ? product.effectivePrice : product.altPrice;
+  
+  // Show regular price only if it exists
+  let altPriceDiplay = '';
+  if (product.altPrice) { 
+    altPriceDiplay = `
+      <div class="product__regular">&nbsp;$${product.altPrice}&nbsp;</div>
+    ` 
+  };
+  
   const cardTemplate = `
     <div class="product">
       <figure>${media}</figure>
       <div class="product__infos product__infos1">
         <h2 class="product__title">${product.title}</h2>
-        <div class="product__discount">$${product.discountedPrice}</div>
-        <div class="product__regular">&nbsp;$${product.regularPrice}&nbsp;</div>
+        <div class="product__discount">$${product.effectivePrice}</div>
+        ${altPriceDiplay}
       </div>
       <div class="product__infos product__infos2 rate-${product.rating}">${fiveStars} (${product.numberOfReviews})</div>
-      <a class="product__button">Add to cart <span>+</span></a>
+      <a class="button button--pill add-product" amount=${product.effectivePrice} >Add to cart <span>+</span></a>
     </div>
   `;
   productIteration += cardTemplate;
 }
 
 export default function () {
-  
 return `
-  
   <section id='products'>
     ${productIteration}
-  </section>
-  
-`}
+  </section>  
+`
+}

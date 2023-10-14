@@ -1,3 +1,1 @@
-document.addEventListener('DOMContentLoaded', function() {
-  
-});
+import { getCartAmount, setCartAmount } from '../../globals/cartAmount.js';

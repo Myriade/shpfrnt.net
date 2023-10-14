@@ -1,8 +1,6 @@
 import { getCartAmount, onCartAmountChange, formatCurrency, showCartAmount } from '../../globals/cartAmount.js';
 export let cartSummaryAmounts = ``;
 
-console.log(formatCurrency((Math.ceil(26.7 * 3))));
-
 function displayCartAmounts () {
   const cartSummaryElement = document.getElementById('cart_summary');
   const subtotal = showCartAmount();

@@ -3,16 +3,16 @@
     {
       "title": "Shop Front",
       "imageFileName": "product-1.png",
-      "regularPrice": 37,
-      "discountedPrice": 33,
+      "effectivePrice": 33,
+      "altPrice": 37,
       "rating": 1,
       "numberOfReviews": 80
     },
     {
       "title": "Front Shop",
       "imageFileName": "",
-      "regularPrice": 22,
-      "discountedPrice": 11,
+      "effectivePrice": 11,
+      "altPrice": 22,
       "rating": 2,
       "numberOfReviews": 11
     },
@@ -20,16 +20,15 @@
       "title": "A Video Example",
       "videoMp4FileName": "product-3-video.mp4",
       "videoWebmFileName": "",
-      "regularPrice": 114,
-      "discountedPrice": 98,
+      "effectivePrice": 98,
       "rating": 3,
       "numberOfReviews": 74
     },
     {
       "title": "Something",
       "imageFileName": "",
-      "regularPrice": 3,
-      "discountedPrice": 2,
+      "effectivePrice": 2,
+      "altPrice": 3,
       "rating": 4,
       "numberOfReviews": 40
     },
@@ -37,8 +36,8 @@
       "title": "Another Example",
       "videoMp4FileName": "",
       "videoWebmFileName": "",
-      "regularPrice": 0,
-      "discountedPrice": 0,
+      "effectivePrice": 0,
+      "altPrice": 0,
       "rating": 5,
       "numberOfReviews": 190
     },
@@ -47,8 +46,8 @@
       "imageFileName": "",
       "videoMp4FileName": "",
       "videoWebmFileName": "",
-      "regularPrice": 0,
-      "discountedPrice": 0,
+      "effectivePrice": 0,
+      "altPrice": 0,
       "rating": 0,
       "numberOfReviews": 0
     }

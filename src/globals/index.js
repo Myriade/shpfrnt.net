@@ -9,9 +9,15 @@ import '../views/siteHeader/siteHeader.scss';
 document.getElementById('siteHeader').innerHTML = siteHeader();
 
 // Place siteMain and its styles
-import siteMain from '../views/siteMain/siteMain.html.js';
+import siteMainHtml from '../views/siteMain/siteMain.html.js';
 import '../views/siteMain/siteMain.scss';
-document.getElementById('siteMain').innerHTML = siteMain();
+import { clickHandler, addProductToCart } from '../views/products/productsEventsHandler';
+async function main() {
+  document.getElementById('siteMain').innerHTML = await siteMainHtml();
+  clickHandler()
+}
+main();
+
 
 // Place siteFooter and its styles
 import siteFooter from '../views/siteFooter/siteFooter.html.js';

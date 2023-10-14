@@ -1,1 +1,0 @@
-import { getCartAmount, setCartAmount } from '../../globals/cartAmount.js';

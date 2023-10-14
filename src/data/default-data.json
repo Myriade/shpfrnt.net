@@ -24,33 +24,6 @@
       "effectivePrice": 0,
       "rating": 0,
       "numberOfReviews": 0
-    },
-    {
-      "title": "",
-      "imageFileName": "",
-      "altPrice": 0,
-      "effectivePrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
-    },
-    {
-      "title": "",
-      "videoMp4FileName": "",
-      "videoWebmFileName": "",
-      "altPrice": 0,
-      "effectivePrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
-    },
-    {
-      "title": "",
-      "imageFileName": "",
-      "videoMp4FileName": "",
-      "videoWebmFileName": "",
-      "altPrice": 0,
-      "effectivePrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
     }
   ],
   "headerBanner": {

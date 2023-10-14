@@ -61,14 +61,14 @@
       "Random something 5",
       "Random phrase six"
     ],
-    "changeIntervalSeconds" : 5
+    "changeIntervalSeconds" : 15
   },
   "cart": {
     "randomIncrementAmount": {
       "min": 5,
-      "max": 500
+      "max": 99
     },
-    "changeIntervalSeconds": 7
+    "changeIntervalSeconds": 20
   },
   "siteFooter": {
     "corporateResponsibilityLink": ""

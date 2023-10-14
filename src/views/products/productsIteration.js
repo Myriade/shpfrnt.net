@@ -59,7 +59,7 @@ export default function () {
         </div>
         <a 
           class="button button--pill add-product" 
-          data=${product.effectivePrice} id="product-${product.id}" >
+          data=${product.effectivePrice}>
           Add to cart
           <span>+</span>
         </a>

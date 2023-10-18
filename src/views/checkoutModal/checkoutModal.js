@@ -21,12 +21,12 @@ function displayCartAmounts () {
 }
 onCartAmountChange(displayCartAmounts);
 
-function randomCaptcha () {
+const randomCaptcha = function () {
   const fichiers = data.captcha;
   const indexAleatoire = Math.floor(Math.random() * fichiers.length);
   const nomFichierAleatoire = fichiers[indexAleatoire];
-  const imgElement = document.createElement('img');
-  imgElement.src = '../../media/captcha/' + nomFichierAleatoire;
-  document.body.appendChild(imgElement);
+  const imgElem = document.querySelector('#captcha img');
+  imgElem.src = '/media/captcha/' + nomFichierAleatoire;
 }
-randomCaptcha();
+
+export { randomCaptcha };

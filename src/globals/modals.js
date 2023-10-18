@@ -1,5 +1,8 @@
+import { randomCaptcha } from '../views/checkoutModal/checkoutModal';
+
 export default function handleModals () {
-  const toggleModal = (modalId) => {
+  
+  const toggleModal = (modalId, callback) => {
     const openLink = document.querySelectorAll(`.open-modal[href="#${modalId}"]`);
     const modalCntnr = document.getElementById(modalId);
     const closeBtn = modalCntnr.querySelector('.close-modal');
@@ -7,8 +10,9 @@ export default function handleModals () {
     
     openLink.forEach( link => {
       link.onclick = function(event) {
-        modalCntnr.style.display = 'block';
         event.preventDefault();
+        modalCntnr.style.display = 'block';
+        callback();
       }
     });
     
@@ -22,8 +26,9 @@ export default function handleModals () {
         theOpenModal.style.display = "none";
       }
     }
+
   };
   
-  toggleModal('checkoutModal');
+  toggleModal('checkoutModal', randomCaptcha);
   toggleModal('aboutModal');
 }

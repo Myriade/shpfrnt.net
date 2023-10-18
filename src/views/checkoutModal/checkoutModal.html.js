@@ -26,7 +26,9 @@ return `
     </table>
     
     <div id="captcha">
-      <figure></figure>
+      <figure>
+        <img src="">
+      </figure>
       <input type="text" placeholder="Enter Captcha"/>
     </div>
     

@@ -12,7 +12,9 @@ export default function handleModals () {
       link.onclick = function(event) {
         event.preventDefault();
         modalCntnr.style.display = 'block';
-        callback();
+        if (callback) {
+          callback();
+        }
       }
     });
     

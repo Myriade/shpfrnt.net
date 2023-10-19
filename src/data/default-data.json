@@ -38,7 +38,10 @@
       "max": 0
     },
     "changeIntervalSeconds": 7000
-  },
+  },"captcha":[
+      "captacha1.svg",
+      "captacha2.svg"
+  ],
   "siteFooter": {
     "corporateResponsibilityLink": ""
   }

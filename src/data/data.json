@@ -3,16 +3,16 @@
     {
       "title": "Shop Front",
       "imageFileName": "product-1.png",
-      "effectivePrice": 33,
-      "altPrice": 37,
+      "effectivePrice": 5,
+      "altPrice": 7,
       "rating": 1,
       "numberOfReviews": 80
     },
     {
       "title": "Front Shop",
       "imageFileName": "",
-      "effectivePrice": 11,
-      "altPrice": 22,
+      "effectivePrice": 10,
+      "altPrice": 14,
       "rating": 2,
       "numberOfReviews": 11
     },
@@ -20,7 +20,7 @@
       "title": "A Video Example",
       "videoMp4FileName": "product-3-video.mp4",
       "videoWebmFileName": "",
-      "effectivePrice": 98,
+      "effectivePrice": 20,
       "rating": 3,
       "numberOfReviews": 74
     },
@@ -52,6 +52,7 @@
       "numberOfReviews": 0
     }
   ],
+  
   "headerBanner": {
     "phrases": [
       "!!**Sale just got better**!!",
@@ -63,6 +64,7 @@
     ],
     "changeIntervalSeconds" : 15
   },
+  
   "cart": {
     "randomIncrementAmount": {
       "min": 5,
@@ -70,6 +72,7 @@
     },
     "changeIntervalSeconds": 20
   },
+  
   "captcha":[
       "captacha1.svg",
       "captacha2.svg",
@@ -77,7 +80,12 @@
       "captacha4.svg",
       "captacha5.svg"
   ],
-  "siteFooter": {
-    "corporateResponsibilityLink": ""
-  }
+  
+  "footerRandomLinks": [
+    "https://www.cinziac.net",
+    "http://lucasparis.ca/",
+    "https://test.com",
+    "https://wikipedia.org",
+    "https://myriadeweb.com"
+  ]
 }

@@ -12,17 +12,22 @@ document.getElementById('siteHeader').innerHTML = siteHeader();
 import siteMainHtml from '../views/siteMain/siteMain.html.js';
 import '../views/siteMain/siteMain.scss';
 import { clickHandler, addProductToCart } from '../views/products/productsEventsHandler';
-async function main() {
+async function siteMainAsync() {
   document.getElementById('siteMain').innerHTML = await siteMainHtml();
   clickHandler()
 }
-main();
+siteMainAsync();
 
 
 // Place siteFooter and its styles
 import siteFooter from '../views/siteFooter/siteFooter.html.js';
 import '../views/siteFooter/siteFooter.scss';
-document.getElementById('siteFooter').innerHTML = siteFooter();
+import linkHandlers from '../views/siteFooter/siteFooter.js';
+async function siteFooterAsync() {
+  document.getElementById('siteFooter').innerHTML = await siteFooter();
+  linkHandlers();
+}
+siteFooterAsync();
 
 // Place checkoutModal and its styles
 import checkoutModal from '../views/checkoutModal/checkoutModal.html.js';
@@ -35,6 +40,6 @@ import aboutModal from '../views/aboutModal/aboutModal.html.js';
 import '../views/aboutModal/aboutModal.scss';
 document.getElementById('aboutModal').innerHTML = aboutModal();
 
-// Modals
+// Handle Modals
 import handleModals from './modals.js';
 handleModals();

@@ -2,6 +2,7 @@ import { getCartAmount, onCartAmountChange, formatCurrency, showCartAmount } fro
 import { data } from '../../globals/data.js';
 let cartSummaryAmounts = ``;
 
+// Display and uptade cart subtotal, taxes & total amounts
 function displayCartAmounts () {
   const cartSummaryElement = document.getElementById('cart_summary');
   const subtotal = showCartAmount();
@@ -21,6 +22,7 @@ function displayCartAmounts () {
 }
 onCartAmountChange(displayCartAmounts);
 
+// Captcha images
 const randomCaptcha = function () {
   const fichiers = data.captcha;
   const indexAleatoire = Math.floor(Math.random() * fichiers.length);
@@ -28,5 +30,12 @@ const randomCaptcha = function () {
   const imgElem = document.querySelector('#captcha img');
   imgElem.src = '/media/captcha/' + nomFichierAleatoire;
 }
+
+// Apply Discont Click Handler
+export function discountClickHandler () {
+  const discountButton = document.querySelector('.button.discount');
+  discountButton.addEventListener('click', addRandomAmountOnClick);
+}
+
 
 export { randomCaptcha };

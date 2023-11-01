@@ -13,8 +13,8 @@ return `
     <h3>Express Checkout</h3>
     
     <div class="buttons">
-      <div class="fake-link button button--pill paypal"></div>
-      <div class="fake-link button button--pill gpay"></div>
+      <div class="fake-link button button--pill paypal button--disabled"></div>
+      <div class="fake-link button button--pill gpay button--disabled"></div>
     </div>
     
     <h3>Detail shop</h3>

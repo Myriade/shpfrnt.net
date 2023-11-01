@@ -1,4 +1,4 @@
-import { getCartAmount, onCartAmountChange, formatCurrency, showCartAmount } from '../../globals/cartAmount.js';
+import { getCartAmount, onCartAmountChange, formatCurrency, showCartAmount, addRandomAmountOnClick } from '../../globals/cartAmount.js';
 import { data } from '../../globals/data.js';
 let cartSummaryAmounts = ``;
 
@@ -31,11 +31,11 @@ const randomCaptcha = function () {
   imgElem.src = '/media/captcha/' + nomFichierAleatoire;
 }
 
-// Apply Discont Click Handler
-export function discountClickHandler () {
+// Apply Discount Click Handler
+function discountClickHandler () {
   const discountButton = document.querySelector('.button.discount');
   discountButton.addEventListener('click', addRandomAmountOnClick);
 }
 
 
-export { randomCaptcha };
+export { randomCaptcha, discountClickHandler };

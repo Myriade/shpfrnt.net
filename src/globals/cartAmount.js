@@ -45,7 +45,7 @@ setInterval(addRandomAmountToCart, cartChangeInterval);
 
 // Increment cart amount on click event
 function addRandomAmountOnClick () {
-  addRandomAmountToCart;
+  addRandomAmountToCart();
 }
 
 // Export functions to use in app modules

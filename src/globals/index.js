@@ -12,9 +12,11 @@ document.getElementById('siteHeader').innerHTML = siteHeader();
 import siteMainHtml from '../views/siteMain/siteMain.html.js';
 import '../views/siteMain/siteMain.scss';
 import { productClickHandler, addProductToCart } from '../views/products/productsEventsHandler';
+import { discountClickHandler } from '../views/checkoutModal/checkoutModal.js';
 async function siteMainAsync() {
   document.getElementById('siteMain').innerHTML = await siteMainHtml();
-  productClickHandler()
+  productClickHandler();
+  discountClickHandler();
 }
 siteMainAsync();
 
@@ -31,7 +33,6 @@ siteFooterAsync();
 
 // Place checkoutModal and its styles
 import checkoutModal from '../views/checkoutModal/checkoutModal.html.js';
-import { addRandomAmountOnClick } from './cartAmount';
 import '../views/checkoutModal/checkoutModal.js';
 import '../views/checkoutModal/checkoutModal.scss';
 document.getElementById('checkoutModal').innerHTML = checkoutModal();

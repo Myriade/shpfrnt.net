@@ -31,15 +31,22 @@ const showCartAmount = () => {
 };
 
 // Value alterations
-// Change cart Amount every X seconds 
-function changeAmountOnTimeInterval() {
+// Add Random Amount to Cart function
+function addRandomAmountToCart() {
   const min = changeIntervalRange.min;
   const max = changeIntervalRange.max;
   const randomDecimalNumber = Math.random() * (max - min) + min;
   const newAmount = Math.round((randomDecimalNumber + getCartAmount()) * 100) / 100;
   setCartAmount(newAmount);
 }
-setInterval(changeAmountOnTimeInterval, cartChangeInterval);
+
+// Increment cart amount every X seconds 
+setInterval(addRandomAmountToCart, cartChangeInterval);
+
+// Increment cart amount on click event
+function addRandomAmountOnClick () {
+  addRandomAmountToCart();
+}
 
 // Export functions to use in app modules
-export { getCartAmount, setCartAmount, onCartAmountChange, formatCurrency, showCartAmount }
+export { getCartAmount, setCartAmount, onCartAmountChange, formatCurrency, showCartAmount, addRandomAmountOnClick }

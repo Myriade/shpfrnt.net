@@ -1,6 +1,6 @@
 import { getCartAmount, setCartAmount } from '../../globals/cartAmount';
 
-export function clickHandler () {
+export function productClickHandler () {
   const addProductLinks = document.querySelectorAll('#products .add-product');
   addProductLinks.forEach(link => {
     link.addEventListener('click', addProductToCart);

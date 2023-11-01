@@ -8,13 +8,15 @@ import '../views/siteHeader/siteHeader.js';
 import '../views/siteHeader/siteHeader.scss';
 document.getElementById('siteHeader').innerHTML = siteHeader();
 
-// Place siteMain and its styles
+// Place siteMain, its styles and its Event Handler
 import siteMainHtml from '../views/siteMain/siteMain.html.js';
 import '../views/siteMain/siteMain.scss';
-import { clickHandler, addProductToCart } from '../views/products/productsEventsHandler';
+import { productClickHandler, addProductToCart } from '../views/products/productsEventsHandler';
+import { discountClickHandler } from '../views/checkoutModal/checkoutModal.js';
 async function siteMainAsync() {
   document.getElementById('siteMain').innerHTML = await siteMainHtml();
-  clickHandler()
+  productClickHandler();
+  discountClickHandler();
 }
 siteMainAsync();
 

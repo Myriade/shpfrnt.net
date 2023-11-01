@@ -17,9 +17,9 @@ It will open a browser tab with a live preview.
 All content and options can be changed in one JSON file located at `src/data/data.json`
 
 ### Files (images and videos)
-- Products images should go in src/images/products/images
-- Products video files should go in src/images/products/videos in two formats for each one, .mp4 and .webm, to assure compatiblity with all browsers.
-- Captcha images should go in src/images/captcha
+- Products images should go in src/assets/products/images
+- Products video files should go in src/assets/products/videos in two formats for each one, .mp4 and .webm, to assure compatiblity with all browsers.
+- Captcha images should go in src/assets/captcha
 - Make sure to reference filenames in the file `src/data/data.json`.
 
 ## Deployment to live version

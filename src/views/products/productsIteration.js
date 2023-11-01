@@ -22,12 +22,12 @@ export default function () {
     if (product.videoMp4FileName) {
       media = `
         <video autoplay muted="true" loop>
-          <source src="media/products/videos/${product.videoMp4FileName}" type="video/mp4" >
-          <source src="media/products/videos/${product.videoWebmFileName}" type="video/webm">
+          <source src="assets/products/videos/${product.videoMp4FileName}" type="video/mp4" >
+          <source src="assets/products/videos/${product.videoWebmFileName}" type="video/webm">
         </video> 
       `;
     } else if (product.imageFileName) {
-      media = `<img src="media/products/images/${product.imageFileName}" alt="">`;
+      media = `<img src="assets/products/images/${product.imageFileName}" alt="">`;
     }
     
     // Set the final Price that will be added to the cart amount

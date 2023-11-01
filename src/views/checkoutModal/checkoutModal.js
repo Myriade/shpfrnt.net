@@ -28,7 +28,7 @@ const randomCaptcha = function () {
   const indexAleatoire = Math.floor(Math.random() * fichiers.length);
   const nomFichierAleatoire = fichiers[indexAleatoire];
   const imgElem = document.querySelector('#captcha img');
-  imgElem.src = '/media/captcha/' + nomFichierAleatoire;
+  imgElem.src = '/assets/captcha/' + nomFichierAleatoire;
 }
 
 // Apply Discount Click Handler

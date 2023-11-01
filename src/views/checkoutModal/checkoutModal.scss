@@ -18,10 +18,10 @@
       &:active {
         outline: 0;}
       &.paypal {
-        background-image: url("../../media/paypal.svg");
+        background-image: url("../../assets/paypal.svg");
         background-color: white;}
       &.gpay {
-        background-image: url("../../media/gpay.svg");
+        background-image: url("../../assets/gpay.svg");
         background-color: $black }}}
   
   #cart_summary {

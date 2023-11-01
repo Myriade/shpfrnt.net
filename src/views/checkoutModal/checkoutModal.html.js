@@ -3,7 +3,7 @@ return `
   <div class="modal-content">
     
     <div class="fake-link discount button button--square">
-      <object type="image/svg+xml" data="../../media/discount.svg" width="30" ></object>
+      <object type="image/svg+xml" data="../../assets/discount.svg" width="30" ></object>
       <span>Apply discount code</span>
       <svg width="6" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M1 1L7 7L1 13" stroke="#0C0D12" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>

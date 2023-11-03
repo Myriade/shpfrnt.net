@@ -13,13 +13,14 @@ import siteMainHtml from '../views/siteMain/siteMain.html.js';
 import '../views/siteMain/siteMain.scss';
 import { productClickHandler, addProductToCart } from '../views/products/productsEventsHandler';
 import { discountClickHandler } from '../views/checkoutModal/checkoutModal.js';
+import { depth3dImg } from '../views/products/depth3dImg.js';
 async function siteMainAsync() {
   document.getElementById('siteMain').innerHTML = await siteMainHtml();
   productClickHandler();
   discountClickHandler();
+  depth3dImg();
 }
 siteMainAsync();
-
 
 // Place siteFooter and its styles
 import siteFooter from '../views/siteFooter/siteFooter.html.js';

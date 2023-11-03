@@ -26,25 +26,25 @@
     },
     {
       "title": "Another GIF",
-      "imageFileName": "C0118.gif",
+      "imageFileName": "C0136.gif",
       "effectivePrice": 2,
       "altPrice": 3,
       "rating": 4,
       "numberOfReviews": 40
     },
     {
-      "title": "Another Video",
-      "videoMp4FileName": "C0133.MP4",
-      "videoWebmFileName": "",
+      "title": "A depth 3d image",
+      "imageFileName": "9.png",
+      "depthMapFileName": "9DM.png",
       "effectivePrice": 1,
       "altPrice": 0,
       "rating": 5,
       "numberOfReviews": 190
     },
     {
-      "title": "A 3D image",
-      "imageFileName": "",
-      "3dMapFileName": "",
+      "title": "Another 3d image",
+      "imageFileName": "1.png",
+      "depthMapFileName": "1DM.png",
       "effectivePrice": 0,
       "altPrice": 0,
       "rating": 0,

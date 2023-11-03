@@ -1,5 +1,6 @@
 // imports
 import { data } from '../../globals/data.js';
+import { canvasShadersMarkup } from './depth3dImg.js';
 
 // Variables
 const star = `<svg xmlns="http://www.w3.org/2000/svg" width="22" viewBox="0 0 51 48">
@@ -17,8 +18,9 @@ export default function () {
   let productsHTML = '';
   
   for (const product of products) {
-    let media = ``;
     
+    // set the appropriate media markup, depending on the product's attributes
+    let media = ``;
     if (product.videoMp4FileName) {
       media = `
         <video autoplay muted="true" loop>
@@ -26,6 +28,8 @@ export default function () {
           <source src="assets/products/videos/${product.videoWebmFileName}" type="video/webm">
         </video> 
       `;
+    } else if (product.imageFileName && product.depthMapFileName) {
+      media = canvasShadersMarkup(product);
     } else if (product.imageFileName) {
       media = `<img src="assets/products/images/${product.imageFileName}" alt="">`;
     }

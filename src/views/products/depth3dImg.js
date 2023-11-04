@@ -45,27 +45,20 @@ function depth3dImg() {
       const rect = canvasRect;
       mouse[0] = ((event.clientX - rect.left) / rect.width * 2 - 1) * -scaleFactor;
       mouse[1] = ((event.clientY - rect.top) / rect.height * 2 - 1) * -scaleFactor;
-      // mouse[0] range : -0,03 à 0.12
-      // mouse[1] range : -0.06 à 0.12 
     };
-    
-    // Update 'mouse position' on device orientation move
-    function handleDeviceOrientation(event) {
-      const tiltFactor = 0.005; // Adjust sensitivity
-      mouse[0] = -event.gamma * tiltFactor; // Use gamma for left-to-right tilt
-      mouse[1] = -(event.beta -90) * tiltFactor / 2; // Use beta for front-to-back tilt
-    }
 
-    // Set event listeners depending of the device type
+    // Computer mouse event listener
     if (window.matchMedia('(hover: hover)').matches) {
-      // Computer screens event listeners for mouse
-      console.log('Device has a mouse or touchpad');
+      console.log('Device has a mouse or touchpad events');
       canvas.addEventListener('mousemove', updateMouse);
-    } else if (window.DeviceOrientationEvent) {
-      // Mobile device orientation listener
-      console.log('Device has orientation event');
-      window.addEventListener('deviceorientation', handleDeviceOrientation);
     }
+    // Mobile device touch event listener
+    window.addEventListener('touchstart', function() {
+      console.log('Device has touch events');
+      canvas.addEventListener('touchmove', (event) => {
+        updateMouse(event.touches[0]);
+      });
+    });
 
     // Render function for animation
     requestAnimationFrame(render);

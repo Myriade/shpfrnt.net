@@ -39,30 +39,32 @@ function depth3dImg() {
     // Get the canvas dimensions and initialize the mouse coordinates
     const canvasRect = canvas.getBoundingClientRect();
     const mouse = [0, 0];
-
+    
     // Update mouse position on mouse move
     const updateMouse = (event) => {
       const rect = canvasRect;
       mouse[0] = ((event.clientX - rect.left) / rect.width * 2 - 1) * -scaleFactor;
       mouse[1] = ((event.clientY - rect.top) / rect.height * 2 - 1) * -scaleFactor;
+      // mouse[0] range : -0,03 à 0.12
+      // mouse[1] range : -0.06 à 0.12 
     };
-
-    // Computer screens event listeners for mouse
-    canvas.addEventListener('mousemove', updateMouse);
     
-    
-    // Mobile device orientation listener
-    window.addEventListener('deviceorientation', handleDeviceOrientation);
-    
+    // Update 'mouse position' on device orientation move
     function handleDeviceOrientation(event) {
-      // event.beta represents the device's tilt front-to-back (in degrees)
-      // event.gamma represents the device's tilt left-to-right (in degrees)
-      
-      // You can use event.beta and event.gamma to control your 3D effect
-      // For example, adjust the mouse variable based on the device orientation
-      const tiltFactor = 0.1; // Adjust the sensitivity to your liking
+      const tiltFactor = 0.005; // Adjust sensitivity
       mouse[0] = -event.gamma * tiltFactor; // Use gamma for left-to-right tilt
-      mouse[1] = -event.beta * tiltFactor; // Use beta for front-to-back tilt
+      mouse[1] = -(event.beta -90) * tiltFactor / 2; // Use beta for front-to-back tilt
+    }
+
+    // Set event listeners depending of the device type
+    if (window.matchMedia('(hover: hover)').matches) {
+      // Computer screens event listeners for mouse
+      console.log('Device has a mouse or touchpad');
+      canvas.addEventListener('mousemove', updateMouse);
+    } else if (window.DeviceOrientationEvent) {
+      // Mobile device orientation listener
+      console.log('Device has orientation event');
+      window.addEventListener('deviceorientation', handleDeviceOrientation);
     }
 
     // Render function for animation

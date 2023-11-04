@@ -1,5 +1,5 @@
 # Shopfront
-Webart project for artists Cinzia Campolese and Lucas Paris  
+Webart project by artists Cinzia Campolese and Lucas Paris  
 Developped by Myriam Bizier, [myriadeweb.com](https://myriadeweb.com)
 
 ## Install

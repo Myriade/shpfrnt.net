@@ -41,10 +41,8 @@ function depth3dImg() {
     // Update mouse position on mouse move
     const updateInputXY = (scaleFactor) => (event) => {
       const rect = canvasRect;
-      console.log(rect);
       const inputX = event.clientX || event.touches[0].clientX * 6;
       const inputY = event.clientY || event.touches[0].clientY * 5;
-      console.log(inputX, inputY);
       inputXY[0] = ((inputX - rect.left) / rect.width * 2 - 1) * -scaleFactor;
       inputXY[1] = ((inputY - rect.top) / rect.height * 2 - 1) * -scaleFactor;
     };

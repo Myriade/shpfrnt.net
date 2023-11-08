@@ -1,11 +1,9 @@
 function depth3dImg() {
-  // Get all canvas elements with the "webgl-canvas" class
-  const allCanvas = document.querySelectorAll(".webgl-canvas");
 
-  // Constants for scaling and mouse smoothness
-  const scaleFactor = 0.03;
+  // Variables
+  const allCanvas = document.querySelectorAll(".webgl-canvas");
   const mouseSmoothness = 0.05;
-  let originalImage = { width: 1, height: 1 }; // Placeholder for the original image dimensions (to be replaced after loading)
+  let originalImage = { width: 1, height: 1 }; 
 
   // Loop through all canvas elements
   for (const canvas of allCanvas) {
@@ -23,7 +21,7 @@ function depth3dImg() {
       if (err) {
         console.error('Failed to load original image:', err);
       } else {
-        originalImage = source; // Replace the placeholder with the actual image dimensions
+        originalImage = source;
       }
     });
 
@@ -38,27 +36,27 @@ function depth3dImg() {
 
     // Get the canvas dimensions and initialize the mouse coordinates
     const canvasRect = canvas.getBoundingClientRect();
-    const mouse = [0, 0];
+    const inputXY = [0, 0];
     
     // Update mouse position on mouse move
-    const updateMouse = (event) => {
+    const updateInputXY = (scaleFactor) => (event) => {
       const rect = canvasRect;
-      mouse[0] = ((event.clientX - rect.left) / rect.width * 2 - 1) * -scaleFactor;
-      mouse[1] = ((event.clientY - rect.top) / rect.height * 2 - 1) * -scaleFactor;
+      console.log(rect);
+      const inputX = event.clientX || event.touches[0].clientX * 6;
+      const inputY = event.clientY || event.touches[0].clientY * 5;
+      console.log(inputX, inputY);
+      inputXY[0] = ((inputX - rect.left) / rect.width * 2 - 1) * -scaleFactor;
+      inputXY[1] = ((inputY - rect.top) / rect.height * 2 - 1) * -scaleFactor;
     };
 
     // Computer mouse event listener
     if (window.matchMedia('(hover: hover)').matches) {
       console.log('Device has a mouse or touchpad events');
-      canvas.addEventListener('mousemove', updateMouse);
+      canvas.addEventListener('mousemove', updateInputXY(0.06) );
+    } else { // Mobile device touch event listener
+      console.log('Device has no mouse, so has touch events');
+      canvas.addEventListener('touchmove', updateInputXY(0.015) );
     }
-    // Mobile device touch event listener
-    window.addEventListener('touchstart', function() {
-      console.log('Device has touch events');
-      canvas.addEventListener('touchmove', (event) => {
-        updateMouse(event.touches[0]);
-      });
-    });
 
     // Render function for animation
     requestAnimationFrame(render);
@@ -85,7 +83,7 @@ function depth3dImg() {
         u_matrix: mat,
         u_originalImage: originalTexture,
         u_mapImage: mapTexture,
-        u_mouse: mouse, // Use mouse coordinates directly
+        u_mouse: inputXY, // Use mouse coordinates directly
       });
 
       // Draw the buffer info

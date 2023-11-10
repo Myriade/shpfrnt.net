@@ -80,7 +80,8 @@ img {
   background-position: center center;
   &:hover {
     background-color: $black;
-    color: $white;}
+    color: $white;
+    cursor: pointer;}
   &:active {
     background-color: $mediumgrey;
     color: $black;}

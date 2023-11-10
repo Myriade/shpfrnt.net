@@ -22,16 +22,6 @@ async function siteMainAsync() {
 }
 siteMainAsync();
 
-// Place siteFooter and its styles
-import siteFooter from '../views/siteFooter/siteFooter.html.js';
-import '../views/siteFooter/siteFooter.scss';
-import linkHandlers from '../views/siteFooter/siteFooter.js';
-async function siteFooterAsync() {
-  document.getElementById('siteFooter').innerHTML = await siteFooter();
-  linkHandlers();
-}
-siteFooterAsync();
-
 // Place checkoutModal and its styles
 import checkoutModal from '../views/checkoutModal/checkoutModal.html.js';
 import '../views/checkoutModal/checkoutModal.js';
@@ -43,6 +33,14 @@ import aboutModal from '../views/aboutModal/aboutModal.html.js';
 import '../views/aboutModal/aboutModal.scss';
 document.getElementById('aboutModal').innerHTML = aboutModal();
 
-// Handle Modals
-import handleModals from './modals.js';
-handleModals();
+// Place siteFooter its styles and Handle modal's toggle
+import siteFooter from '../views/siteFooter/siteFooter.html.js';
+import '../views/siteFooter/siteFooter.scss';
+import linkHandlers from '../views/siteFooter/siteFooter.js';
+import { handleModals } from './modals.js';
+async function siteFooterAsync() {
+  document.getElementById('siteFooter').innerHTML = await siteFooter();
+  linkHandlers();
+  handleModals();
+}
+siteFooterAsync();

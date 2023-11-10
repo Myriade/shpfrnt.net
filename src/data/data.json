@@ -10,7 +10,7 @@
     },
     {
       "title": "A GIF example",
-      "imageFileName": "C0116.gif",
+      "imageFileName": "--C0116.gif",
       "effectivePrice": 10,
       "altPrice": 14,
       "rating": 2,
@@ -18,7 +18,7 @@
     },
     {
       "title": "A Video Example",
-      "videoMp4FileName": "C0119.MP4",
+      "videoMp4FileName": "--C0119.MP4",
       "videoWebmFileName": "",
       "effectivePrice": 20,
       "rating": 3,
@@ -26,7 +26,7 @@
     },
     {
       "title": "Another GIF",
-      "imageFileName": "C0136.gif",
+      "imageFileName": "--C0136.gif",
       "effectivePrice": 2,
       "altPrice": 3,
       "rating": 4,

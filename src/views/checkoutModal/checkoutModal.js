@@ -32,10 +32,29 @@ const randomCaptcha = function () {
 }
 
 // Apply Discount Click Handler
-function discountClickHandler () {
-  const discountButton = document.querySelector('.button.discount');
+function discountClickHandler (elem) {
+  const discountButton = elem.querySelector('.button.discount');
   discountButton.addEventListener('click', addRandomAmountOnClick);
 }
 
+// Enable Checkout btn when Captcha input has an value
+function enableCheckoutBtn (elem) {
+  const checkoutBtn = elem.querySelector('.button.checkout');
+  const captchaInput = elem.querySelector('#captcha-input');
+  captchaInput.addEventListener( 'input', 
+  e => { 
+    e.target.value ? checkoutBtn.classList.remove('button--disabled') : checkoutBtn.classList.add('button--disabled')
+  });
+}
 
-export { randomCaptcha, discountClickHandler };
+// Reset cart amount on Checkout btn Click
+
+
+// functions bundle to execute after modal markup is initialized
+function checkoutModalModifiers() {
+  const chekoutModal = document.getElementById('checkout-modal');
+  discountClickHandler(chekoutModal);
+  enableCheckoutBtn(chekoutModal);
+}
+
+export { randomCaptcha, checkoutModalModifiers };

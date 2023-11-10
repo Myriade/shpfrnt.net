@@ -1,4 +1,5 @@
-import { getCartAmount, onCartAmountChange, formatCurrency, showCartAmount, addRandomAmountOnClick } from '../../globals/cartAmount.js';
+import { getCartAmount, setCartAmount, onCartAmountChange, formatCurrency, showCartAmount, addRandomAmountOnClick } from '../../globals/cartAmount.js';
+import { toggleModal } from '../../globals/modals.js';
 import { data } from '../../globals/data.js';
 let cartSummaryAmounts = ``;
 
@@ -32,10 +33,60 @@ const randomCaptcha = function () {
 }
 
 // Apply Discount Click Handler
-function discountClickHandler () {
-  const discountButton = document.querySelector('.button.discount');
+function discountClickHandler (elem) {
+  const discountButton = elem.querySelector('.button.discount');
   discountButton.addEventListener('click', addRandomAmountOnClick);
 }
 
+// Validation input alphanumeric
+function validateAlphaNumerique(inputValue) {
+  var regex = /^[a-zA-Z0-9]+$/;
+  return regex.test(inputValue);
+}
 
-export { randomCaptcha, discountClickHandler };
+// Captcha input change Handler
+function captchaInputChangeHandler (elem, event) {
+  // Security validation : removes the last character if it's not alphanumeric
+  if ( !validateAlphaNumerique(event.target.value) ) {
+    event.target.value = event.target.value.slice(0, -1);
+  }
+  // Enable checkout button when input has a value
+  const checkoutBtn = elem.querySelector('.button.checkout');
+  if (event.target.value) { 
+    checkoutBtn.classList.remove('button--disabled')
+  } else { 
+    checkoutBtn.classList.add('button--disabled')
+  }
+}
+
+// Reset cart amount on Checkout btn Click
+function checkoutClickHandler (elem) {
+  const checkoutButton = elem.querySelector('.button.checkout');
+  const captchaInput = elem.querySelector('#captcha-input');
+  checkoutButton.addEventListener('click', e => {
+    if ( !e.target.classList.contains('button--disabled') ) {
+      // animation trembler modal
+      // TODO
+      setCartAmount(0); // reset cartAmount à zéro
+      captchaInput.value = ''; // reset captcha input value
+      checkoutButton.classList.add('button--disabled'); // disable Checkout btn
+      // Close Modal after 2 seconds
+      setTimeout( () => {
+        document.getElementById('checkoutModal').style.display = 'none';
+      }, 2000 );
+    }
+  });
+}
+
+// functions bundle to execute after modal markup is initialized
+function checkoutModalModifiers() {
+  const checkoutModal = document.getElementById('checkout-modal');
+  const captchaInput = checkoutModal.querySelector('#captcha-input');
+  discountClickHandler(checkoutModal);
+  captchaInput.addEventListener( 'input', event => { 
+    captchaInputChangeHandler(checkoutModal, event) 
+  });
+  checkoutClickHandler(checkoutModal);
+}
+
+export { randomCaptcha, checkoutModalModifiers };

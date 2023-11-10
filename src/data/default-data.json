@@ -42,7 +42,5 @@
       "captacha1.svg",
       "captacha2.svg"
   ],
-  "siteFooter": {
-    "corporateResponsibilityLink": ""
-  }
+  "footerRandomLinks": []
 }

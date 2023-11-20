@@ -61,19 +61,21 @@ function captchaInputChangeHandler (elem, event) {
 
 // Reset cart amount on Checkout btn Click
 function checkoutClickHandler (elem) {
+  const checkoutModal = document.getElementById('checkoutModal');
+  const modalContent = checkoutModal.querySelector('.modal-content');
   const checkoutButton = elem.querySelector('.button.checkout');
   const captchaInput = elem.querySelector('#captcha-input');
   checkoutButton.addEventListener('click', e => {
     if ( !e.target.classList.contains('button--disabled') ) {
-      // animation trembler modal
-      // TODO
       setCartAmount(0); // reset cartAmount à zéro
       captchaInput.value = ''; // reset captcha input value
       checkoutButton.classList.add('button--disabled'); // disable Checkout btn
+      modalContent.classList.add('animated'); // trigger shake animation
       // Close Modal after 2 seconds
       setTimeout( () => {
-        document.getElementById('checkoutModal').style.display = 'none';
-      }, 2000 );
+        checkoutModal.style.display = 'none'; // close modal
+        modalContent.classList.remove('animated'); // reset animation for next time
+      }, 1000 );
     }
   });
 }

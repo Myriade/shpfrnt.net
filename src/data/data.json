@@ -55,11 +55,11 @@
   "headerBanner": {
     "phrases": [
       "!!**Sale just got better**!!",
-      "-- Test phrase 2 --",
-      "// Troisième phrase test //",
-      "_ _ _ Test numéro quatre _ _ _",
-      "Random something 5",
-      "Random phrase six"
+      "Time-Traveling Discounts: Shop in the Past, Pay in the Future!",
+      "Get Funky with Our Groovy, Mind-Bending Savings!",
+      "Shop 'Til the Cows Come Home and Then Some!",
+      "Alien Abduction Sale: Beam Up Savings from Another Galaxy!",
+      "Shop 'Til You Drop with Our Exclusive Discounts!"
     ],
     "changeIntervalSeconds" : 15
   },

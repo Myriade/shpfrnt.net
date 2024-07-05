@@ -55,6 +55,7 @@
   "headerBanner": {
     "phrases": [
       "!!**Sale just got better**!!",
+"!!**Sale just got better**!!",
      "Time-Traveling Discounts: Shop in the Past, Pay in the Future!",
      "Get Funky with Our Groovy, Mind-Bending Savings!",
      "Cosmic Clearance Event: Grab Deals from Another Dimension!",
@@ -84,19 +85,9 @@
      "Savings Galore: Shop Now and Save Big!",
      "Buy More, Save More - Bulk Discounts Available!",
      "Exclusive Online Discounts: Your Wallet's Best Friend!",
-     "Flash Sale Alert: Save Now, Shop Later!",
-     "Clearance Bonanza: Last Chance for Amazing Deals!",
-     "Redeem Your Coupon Code for Instant Savings!",
-     "Upgrade Your Lifestyle with Our Premium Deals!",
-     "E-commerce Extravaganza: Shop the Best, Pay Less!",
-     "Shop Smarter, Not Harder - Explore Our Sales Today!",
-     "Discover Hidden Gems at Unbeatable Prices!",
-     "Unlock the Door to Incredible Savings!",
-     "Shop Your Heart Out with Our Can't-Miss Offers!",
-     "Epic Discounts Await - Dive into Our Deals!",
-     "Find Your Perfect Deal in Our Online Shopping Wonderland!",
+     "Flash Sale Alert: Save Now, Shop Later!"
+
     ],
-    
     "changeIntervalSeconds" : 15
   },
   

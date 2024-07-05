@@ -99,7 +99,7 @@
 
 
     ],
-    "changeIntervalSeconds" : 6
+    "changeIntervalSeconds" : 3
   },
   
   "cart": {

@@ -1,39 +1,39 @@
 {
   "products": [
     {
-      "title": "An image example",
-      "imageFileName": "DSC01703.JPG",
+      "title": "DreamDash Tee",
+      "imageFileName": "C0146.gif",
       "effectivePrice": 5,
       "altPrice": 7,
       "rating": 1,
       "numberOfReviews": 80
     },
     {
-      "title": "A GIF example",
-      "imageFileName": "C0116.gif",
+      "title": "4KStream Blouse",
+      "imageFileName": "DSC01778.jpg",
       "effectivePrice": 10,
       "altPrice": 14,
       "rating": 2,
       "numberOfReviews": 11
     },
     {
-      "title": "A Video Example",
-      "videoMp4FileName": "C0119.MP4",
+      "title": "PixelGaze Pashmina",
+      "videoMp4FileName": "01.mp4",
       "videoWebmFileName": "",
       "effectivePrice": 20,
       "rating": 3,
       "numberOfReviews": 74
     },
     {
-      "title": "Another GIF",
-      "imageFileName": "C0136.gif",
+      "title": "iRoam Tracker",
+      "imageFileName": "C0140.gif",
       "effectivePrice": 2,
       "altPrice": 3,
       "rating": 4,
       "numberOfReviews": 40
     },
     {
-      "title": "A depth 3d image",
+      "title": "PixelArt Tapestry3d",
       "imageFileName": "9.png",
       "depthMapFileName": "9DM.png",
       "effectivePrice": 1,
@@ -42,7 +42,7 @@
       "numberOfReviews": 190
     },
     {
-      "title": "Another 3d image",
+      "title": "EchoLamp",
       "imageFileName": "1.png",
       "depthMapFileName": "1DM.png",
       "effectivePrice": 0,

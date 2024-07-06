@@ -17,6 +17,14 @@
       "numberOfReviews": 11
     },
     {
+      "title": "4KStream Blouse",
+      "imageFileName": "DSC01778.jpg",
+      "effectivePrice": 10,
+      "altPrice": 14,
+      "rating": 2,
+      "numberOfReviews": 11
+    },
+    {
       "title": "PixelGaze Pashmina",
       "videoMp4FileName": "01.mp4",
       "videoWebmFileName": "",
@@ -34,8 +42,8 @@
     },
     {
       "title": "PixelArt Tapestry3d",
-      "imageFileName": "9.png",
-      "depthMapFileName": "9DM.png",
+      "imageFileName": "DSC01703.jpg",
+      "depthMapFileName": "DSC01703_depth.jpeg",
       "effectivePrice": 1,
       "altPrice": 0,
       "rating": 5,
@@ -43,8 +51,8 @@
     },
     {
       "title": "EchoLamp",
-      "imageFileName": "1.png",
-      "depthMapFileName": "1DM.png",
+      "imageFileName": "DSC01703.jpg",
+      "depthMapFileName": "DSC01703_depth.jpeg",
       "effectivePrice": 0,
       "altPrice": 0,
       "rating": 0,

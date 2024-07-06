@@ -9,6 +9,15 @@
       "numberOfReviews": 80
     },
     {
+      "title": "VirtuMirror",
+      "imageFileName": "DSC01705.jpg",
+      "depthMapFileName": "DSC01705_depth.jpeg",
+      "effectivePrice": 35,
+      "altPrice": 700,
+      "rating": 0,
+      "numberOfReviews": 30
+    },
+    {
       "title": "4KStream Blouse",
       "imageFileName": "C0149.gif",
       "effectivePrice": 10,
@@ -24,6 +33,15 @@
       "altPrice": 14,
       "rating": 2,
       "numberOfReviews": 11
+    },
+     {
+      "title": "VirtuMirror",
+      "imageFileName": "DSC01707.jpg",
+      "depthMapFileName": "DSC01707_depth.jpeg",
+      "effectivePrice": 555,
+      "altPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
     },
     {
       "title": "PixelGaze Pashmina",
@@ -59,15 +77,7 @@
       "rating": 0,
       "numberOfReviews": 0
     },
-    {
-      "title": "oldfile3d",
-      "imageFileName": "1.png",
-      "depthMapFileName": "1DM.png",
-      "effectivePrice": 0,
-      "altPrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
-    }
+  
   ],
   
   "headerBanner": {

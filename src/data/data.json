@@ -41,19 +41,19 @@
       "numberOfReviews": 40
     },
     {
-      "title": "PixelArt Tapestry3d",
+      "title": "PixelArt Tapestry - ",
       "imageFileName": "DSC01703.jpg",
       "depthMapFileName": "DSC01703_depth.jpeg",
       "effectivePrice": 1,
       "altPrice": 0,
       "rating": 5,
-      "numberOfReviews": 190
+      "numberOfReviews": 10
     },
     {
       "title": "EchoLamp",
       "imageFileName": "DSC01708.jpg",
       "depthMapFileName": "DSC01708_depth.jpeg",
-      "effectivePrice": 0,
+      "effectivePrice": 555,
       "altPrice": 0,
       "rating": 0,
       "numberOfReviews": 0

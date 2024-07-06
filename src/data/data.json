@@ -8,7 +8,7 @@
       "rating": 1,
       "numberOfReviews": 80
     },
-    {
+     {
       "title": "VirtuMirror",
       "imageFileName": "DSC01705.jpg",
       "depthMapFileName": "DSC01705_depth.jpeg",
@@ -17,7 +17,7 @@
       "rating": 0,
       "numberOfReviews": 30
     },
-    {
+     {
       "title": "4KStream Blouse",
       "imageFileName": "C0149.gif",
       "effectivePrice": 10,
@@ -25,7 +25,7 @@
       "rating": 2,
       "numberOfReviews": 11
     },
-    {
+     {
       "title": "4KStream Blouse",
       "videoMp4FileName": "02.mp4",
       "videoWebmFileName": "02.mp4",
@@ -43,7 +43,7 @@
       "rating": 0,
       "numberOfReviews": 0
     },
-    {
+     {
       "title": "PixelGaze Pashmina",
       "videoMp4FileName": "01.mp4",
       "videoWebmFileName": "01.mp4",
@@ -51,7 +51,7 @@
       "rating": 3,
       "numberOfReviews": 74
     },
-    {
+     {
       "title": "iRoam Tracker",
       "imageFileName": "C0140.gif",
       "effectivePrice": 2,
@@ -59,7 +59,7 @@
       "rating": 4,
       "numberOfReviews": 40
     },
-    {
+     {
       "title": "EchoLamp",
       "imageFileName": "DSC01704.jpg",
       "depthMapFileName": "DSC01704_depth.jpeg",
@@ -68,7 +68,7 @@
       "rating": 0,
       "numberOfReviews": 0
     },
-    {
+     {
       "title": "EchoLamp",
       "imageFileName": "DSC01708.jpg",
       "depthMapFileName": "DSC01708_depth.jpeg",

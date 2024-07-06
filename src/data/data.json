@@ -59,7 +59,15 @@
       "rating": 0,
       "numberOfReviews": 0
     },
-  
+    {
+      "title": "oldfile3d",
+      "imageFileName": "1.png",
+      "depthMapFileName": "1DM.png",
+      "effectivePrice": 0,
+      "altPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
+    }
   ],
   
   "headerBanner": {

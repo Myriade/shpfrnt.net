@@ -18,7 +18,8 @@
     },
     {
       "title": "4KStream Blouse",
-      "imageFileName": "02.mp4",
+      "videoMp4FileName": "02.mp4",
+      "videoWebmFileName": "02.mp4",
       "effectivePrice": 10,
       "altPrice": 14,
       "rating": 2,

@@ -70,7 +70,7 @@
     },
      {
       "title": "703 test ",
-      "imageFileName": "DSC01703.jpg",
+      "imageFileName": "DSC01703-new.jpg",
       "depthMapFileName": "DSC01703_depth.jpeg",
       "effectivePrice": 0,
       "altPrice": 0,
@@ -79,7 +79,7 @@
     },
     {
       "title": "703 test-inverse",
-      "imageFileName": "DSC01703.jpg",
+      "imageFileName": "DSC01703-new.jpg",
       "depthMapFileName": "DSC01703_depth-inverse.jpg",
       "effectivePrice": 0,
       "altPrice": 0,

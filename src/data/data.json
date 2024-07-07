@@ -42,7 +42,7 @@
       "numberOfReviews": 40
     },
     {
-      "title": "EchoLamp",
+      "title": "EchoLamp704-normal",
       "imageFileName": "DSC01704.jpg",
       "depthMapFileName": "DSC01704_depth.jpeg",
       "effectivePrice": 555,
@@ -50,8 +50,26 @@
       "rating": 0,
       "numberOfReviews": 0
     },
+      {
+      "title": "EchoLamp704-normal",
+      "imageFileName": "DSC01704.jpg",
+      "depthMapFileName": "DSC01704_depth-inverse.jpg",
+      "effectivePrice": 555,
+      "altPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
     {
-      "title": "EchoLamp",
+      "title": "EchoLamp-inverse",
+      "imageFileName": "DSC01708.jpg",
+      "depthMapFileName": "DSC01708_depth-inverse.jpg",
+      "effectivePrice": 555,
+      "altPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
+    }, 
+    {
+      "title": "EchoLamp -normal",
       "imageFileName": "DSC01708.jpg",
       "depthMapFileName": "DSC01708_depth.jpeg",
       "effectivePrice": 555,

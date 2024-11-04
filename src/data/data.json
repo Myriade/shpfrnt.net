@@ -308,6 +308,33 @@
       "altPrice": 22345,
       "rating": 6,
       "numberOfReviews": 47342
+    },
+
+          { "_comment": "_____________________________________13",
+     "title": "AirHug Pillow",
+     "imageFileName": "9new.png",
+     "depthMapFileName": "9_depth.jpeg",
+      "effectivePrice": 43,
+      "altPrice": 3432,
+      "rating": 2,
+      "numberOfReviews": 56
+    },
+    {
+      "title": "FlexiDock",
+     "imageFileName": "ai5.jpg",
+       "effectivePrice": 453,
+      "altPrice":2,
+      "rating": 0,
+      "numberOfReviews": 42
+    },
+     {
+      "title": "StreamHug ShoB",
+ "videoMp4FileName": "03.mp4",
+      "videoWebmFileName": "03.mp4",
+      "effectivePrice":2,
+      "altPrice":25,
+      "rating": 1,
+      "numberOfReviews": 231
     }
   ],
   

@@ -1,6 +1,6 @@
 {
   "products": [
-    {//___________________________1
+    {
       "title": "DreamDash Tee",
       "imageFileName": "C0146.gif",
       "effectivePrice": 5,
@@ -25,7 +25,7 @@
       "rating": 2,
       "numberOfReviews": 11
     },
-    {//___________________________2
+    {
     
       "title": "VirtuCast Projector",
       "imageFileName": "2new.jpg",
@@ -51,7 +51,7 @@
       "rating": 4,
       "numberOfReviews": 40
     },
-    { //___________________________3
+    { 
       "title": "QuantumQuill",
       "imageFileName": "C0140.gif",
       "effectivePrice": 2,

@@ -243,6 +243,7 @@
       "title": "VirtuMirror",
     "videoMp4FileName": "vid6.mp4",
       "videoWebmFileName": "vid6.mp4",
+        "effectivePrice": 0.5,
       "altPrice": 42540,
       "rating": 3,
       "numberOfReviews": 2
@@ -268,6 +269,7 @@
       "title": "EchoWindow Film",
      "imageFileName": "7new.png",
      "depthMapFileName": "7_depth.jpeg",
+       "effectivePrice": 7,
       "altPrice": 2,
       "rating": 0,
       "numberOfReviews": 0
@@ -279,6 +281,33 @@
       "altPrice": 21,
       "rating": 3,
       "numberOfReviews": 47
+    },
+
+          { "_comment": "_____________________________________12",
+     "title": "E-Life Assistant",
+      "imageFileName": "ai11.jpg",
+      "effectivePrice": 64,
+      "altPrice": 13,
+      "rating": 4,
+      "numberOfReviews": 32
+    },
+    {
+      "title": "WebScribe Service",
+     "videoMp4FileName": "vid5.mp4",
+      "videoWebmFileName": "vid5.mp4",
+       "effectivePrice": 32,
+      "altPrice":455,
+      "rating": 1,
+      "numberOfReviews": 4532
+    },
+     {
+      "title": "StreamHug ShoB",
+    "imageFileName": "8new.png",
+     "depthMapFileName": "8_depth.jpeg",
+      "effectivePrice":432,
+      "altPrice": 22345,
+      "rating": 6,
+      "numberOfReviews": 47342
     }
   ],
   

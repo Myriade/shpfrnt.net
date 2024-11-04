@@ -29,7 +29,7 @@
     {"_comment": "_____________________________________2",
     
       "title": "Echo Glass",
-      "imageFileName": "2new.jpg",
+      "imageFileName": "2new.png",
       "depthMapFileName": "2_depth.jpeg",
       "effectivePrice": 5.5,
       "altPrice": 0,
@@ -70,7 +70,7 @@
     },
     {
       "title": "VibeScape",
-      "imageFileName": "3new.jpg",
+      "imageFileName": "3new.png",
       "depthMapFileName": "3_depth.jpeg",
       "effectivePrice": 5.5,
       "altPrice": 0,
@@ -140,8 +140,8 @@
     },
     {
       "title": "DashGlide",
-      "imageFileName": "3new.jpg",
-      "depthMapFileName": "3_depth.jpeg",
+      "imageFileName": "4new.png",
+      "depthMapFileName": "4_depth.jpeg",
       "effectivePrice": 42.29,
       "altPrice": 790,
       "rating":3,
@@ -179,8 +179,32 @@
       "altPrice": 2,
       "rating": 1,
       "numberOfReviews": 80
-    }
-
+    },
+     { "_comment": "_____________________________________8",
+     "title": "Quick Edge",
+     "imageFileName": "main3.jpg",
+      "effectivePrice": 3.5,
+      "altPrice": 21,
+      "rating": 1,
+      "numberOfReviews": 5
+    },
+    {
+      "title": "VirtuView Cam",
+     "imageFileName": "5new.png",
+      "depthMapFileName": "5_depth.jpeg",
+      "altPrice": 30,
+      "rating": 5,
+      "numberOfReviews": 30
+    },
+     {
+      "title": "GlideTrack Deck",
+     "videoMp4FileName": "vid4.mp4",
+      "videoWebmFileName": "vid4.mp4",
+      "effectivePrice": 3000,
+      "altPrice": 22.76,
+      "rating": 5,
+      "numberOfReviews": 468280
+    },
   ],
   
   "headerBanner": {

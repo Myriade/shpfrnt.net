@@ -153,7 +153,7 @@
 
 
     ],
-    "changeIntervalSeconds" : 10
+    "changeIntervalSeconds" : 20
   },
   
   "cart": {

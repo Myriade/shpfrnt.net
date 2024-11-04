@@ -50,60 +50,8 @@
       "rating": 0,
       "numberOfReviews": 0
     },
-      {
-      "title": "EchoLamp704-normal",
-      "imageFileName": "DSC01704.jpg",
-      "depthMapFileName": "DSC01704_depth-inverse.jpg",
-      "effectivePrice": 555,
-      "altPrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
-    },
-    {
-      "title": "EchoLamp-inverse",
-      "imageFileName": "DSC01708.jpg",
-      "depthMapFileName": "DSC01708_depth-inverse.jpg",
-      "effectivePrice": 555,
-      "altPrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
-    }, 
-    {
-      "title": "EchoLamp -normal",
-      "imageFileName": "DSC01708.jpg",
-      "depthMapFileName": "DSC01708_depth.jpeg",
-      "effectivePrice": 555,
-      "altPrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
-    },
-    {
-      "title": "oldfile3d",
-      "imageFileName": "1.png",
-      "depthMapFileName": "1DM.png",
-      "effectivePrice": 0,
-      "altPrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
-    },
-     {
-      "title": "703 test ",
-      "imageFileName": "DSC01703-new.jpg",
-      "depthMapFileName": "DSC01703_depth.jpeg",
-      "effectivePrice": 0,
-      "altPrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
-    },
-    {
-      "title": "703 test-inverse",
-      "imageFileName": "DSC01703-new.jpg",
-      "depthMapFileName": "DSC01703_depth-inverse.jpg",
-      "effectivePrice": 0,
-      "altPrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
-    }
+      
+     
   ],
   
   "headerBanner": {

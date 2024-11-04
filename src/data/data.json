@@ -253,7 +253,32 @@
       "effectivePrice": 33.90,
       "altPrice": 1,
       "rating": 4,
-      "numberOfReviews": 367547
+      "numberOfReviews": 47
+    },
+          { "_comment": "_____________________________________11",
+     "title": "E-Bliss Cloth",
+     "videoMp4FileName": "06.mp4",
+      "videoWebmFileName": "06.mp4",
+      "effectivePrice": 47,
+      "altPrice": 11,
+      "rating": 3,
+      "numberOfReviews": 345
+    },
+    {
+      "title": "EchoWindow Film",
+     "imageFileName": "7new.png",
+     "depthMapFileName": "7_depth.jpeg",
+      "altPrice": 2,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+     {
+      "title": "Long E-Luxe Linens",
+      "imageFileName": "DSC01734.jpg",
+      "effectivePrice":91,
+      "altPrice": 21,
+      "rating": 3,
+      "numberOfReviews": 47
     }
   ],
   

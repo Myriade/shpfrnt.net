@@ -20,7 +20,7 @@
     },
       {
     "title": "PixelPlush shirt",
-      "imageFileName": "ai5.jpg",
+      "imageFileName": "C0149.gif",
       "effectivePrice": 10,
       "altPrice": 14,
       "rating": 2,
@@ -97,11 +97,11 @@
     },
      {
      "title": "iCycle Lock",
-      "imageFileName": "captcha.gif",
-      "effectivePrice": 12.45,
-      "altPrice": 32,
-      "rating": 41,
-      "numberOfReviews": 0
+      "videoMp4FileName": "09.mp4",
+      "videoWebmFileName": "09.mp4",
+      "effectivePrice": 20.5,
+      "rating": 3,
+      "numberOfReviews": 74
     }
 
   ],

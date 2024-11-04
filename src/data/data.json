@@ -189,7 +189,7 @@
       "numberOfReviews": 5
     },
     {
-      "title": "VirtuView Cam",
+      "title": "Vista Cascade",
      "imageFileName": "5new.png",
       "depthMapFileName": "5_depth.jpeg",
       "altPrice": 30,
@@ -204,6 +204,30 @@
       "altPrice": 22.76,
       "rating": 5,
       "numberOfReviews": 468280
+    },
+      { "_comment": "_____________________________________9",
+     "title": "DuskLight Drone",
+     "videoMp4FileName": "08.mp4",
+      "videoWebmFileName": "08.mp4",
+      "effectivePrice": 2789,
+      "altPrice": 21389,
+      "rating": 3,
+      "numberOfReviews": 1
+    },
+    {
+      "title": "DreamDash Tool",
+     "imageFileName": "main2.jpg",
+      "altPrice": 340,
+      "rating": 2,
+      "numberOfReviews": 4321
+    },
+     {
+      "title": "E-Bloom Abajour",
+     "videoMp4FileName": "C0129.gif",
+      "effectivePrice": 100,
+      "altPrice": 6.999,
+      "rating": 2,
+      "numberOfReviews": 1
     }
   ],
   

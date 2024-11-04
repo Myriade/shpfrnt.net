@@ -1,36 +1,12 @@
 {
   "products": [
-    {
+    {//___________________________1
       "title": "DreamDash Tee",
       "imageFileName": "C0146.gif",
       "effectivePrice": 5,
       "altPrice": 7,
       "rating": 1,
       "numberOfReviews": 80
-    },
-    {
-      "title": "PixelPlush shirt",
-      "imageFileName": "C0149.gif",
-      "effectivePrice": 10,
-      "altPrice": 14,
-      "rating": 2,
-      "numberOfReviews": 11
-    },
-      {
-      "title": "iRoam Tracker",
-      "imageFileName": "C0140.gif",
-      "effectivePrice": 2,
-      "altPrice": 3,
-      "rating": 4,
-      "numberOfReviews": 40
-    },
-    {
-      "title": "PixelGaze Pashmina",
-      "videoMp4FileName": "01.mp4",
-      "videoWebmFileName": "01.mp4",
-      "effectivePrice": 20,
-      "rating": 3,
-      "numberOfReviews": 74
     },
     {
       "title": "VirtuCast Projector",
@@ -41,15 +17,65 @@
       "rating": 0,
       "numberOfReviews": 0
     },
+      {
+    "title": "PixelPlush shirt",
+      "imageFileName": "C0149.gif",
+      "effectivePrice": 10,
+      "altPrice": 14,
+      "rating": 2,
+      "numberOfReviews": 11
+    },
+    {//___________________________2
+    
+      "title": "VirtuCast Projector",
+      "imageFileName": "2new.jpg",
+      "depthMapFileName": "2_depth.jpeg",
+      "effectivePrice": 5.5,
+      "altPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
     {
+      "title": "PixelGaze Pashmina",
+      "videoMp4FileName": "01.mp4",
+      "videoWebmFileName": "01.mp4",
+      "effectivePrice": 20,
+      "rating": 3,
+      "numberOfReviews": 74
+    },
+    {
+     "title": "iRoam Tracker",
+      "imageFileName": "C0133.gif",
+      "effectivePrice": 2,
+      "altPrice": 3,
+      "rating": 4,
+      "numberOfReviews": 40
+    },
+    { //___________________________3
       "title": "QuantumQuill",
       "imageFileName": "C0140.gif",
       "effectivePrice": 2,
       "altPrice": 3,
       "rating": 4,
       "numberOfReviews": 40
+    },
+     {
+     "title": "iRoam Tracker",
+      "imageFileName": "DSC01747.jpg",
+      "effectivePrice": 2,
+      "altPrice": 3,
+      "rating": 4,
+      "numberOfReviews": 40
+    },
+    {
+      "title": "VirtuCast Projector",
+      "imageFileName": "3new.jpg",
+      "depthMapFileName": "3_depth.jpeg",
+      "effectivePrice": 5.5,
+      "altPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
     }
-    
   ],
   
   "headerBanner": {

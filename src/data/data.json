@@ -334,6 +334,32 @@
       "altPrice":25,
       "rating": 1,
       "numberOfReviews": 231
+    },
+     { "_comment": "_____________________________________14",
+     "title": "OK Blanket",
+     "videoMp4FileName": "vid7.mp4",
+      "videoWebmFileName": "vid7.mp4",
+      "effectivePrice": 2,
+      "altPrice": 3289,
+      "rating": 5,
+      "numberOfReviews": 56900
+    },
+    {
+      "title": "BuildBolt Frame",
+     "imageFileName": "10new.png",
+     "depthMapFileName": "10_depth.jpeg",
+       "effectivePrice": 321,
+      "altPrice":432,
+      "rating": 1,
+      "numberOfReviews": 342
+    },
+     {
+      "title": "SmartStructure",
+     "imageFileName": "ai7.jpg",
+      "effectivePrice":543,
+      "altPrice":23425,
+      "rating": 0,
+      "numberOfReviews": 1
     }
   ],
   

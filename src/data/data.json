@@ -16,14 +16,13 @@
       "rating": 2,
       "numberOfReviews": 11
     },
-    {
+      {
       "title": "iRoam Tracker",
-      "videoMp4FileName": "02.mp4",
-      "videoWebmFileName": "02.mp4",
-      "effectivePrice": 10,
-      "altPrice": 14,
-      "rating": 2,
-      "numberOfReviews": 11
+      "imageFileName": "C0140.gif",
+      "effectivePrice": 2,
+      "altPrice": 3,
+      "rating": 4,
+      "numberOfReviews": 40
     },
     {
       "title": "PixelGaze Pashmina",
@@ -34,14 +33,6 @@
       "numberOfReviews": 74
     },
     {
-      "title": "QuantumQuill",
-      "imageFileName": "C0140.gif",
-      "effectivePrice": 2,
-      "altPrice": 3,
-      "rating": 4,
-      "numberOfReviews": 40
-    },
-    {
       "title": "VirtuCast Projector",
       "imageFileName": "DSC01704.jpg",
       "depthMapFileName": "DSC01704_depth.jpeg",
@@ -49,7 +40,16 @@
       "altPrice": 0,
       "rating": 0,
       "numberOfReviews": 0
+    },
+    {
+      "title": "QuantumQuill",
+      "imageFileName": "C0140.gif",
+      "effectivePrice": 2,
+      "altPrice": 3,
+      "rating": 4,
+      "numberOfReviews": 40
     }
+    
   ],
   
   "headerBanner": {

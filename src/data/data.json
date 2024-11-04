@@ -1,6 +1,6 @@
 {
   "products": [
-    {
+    {/* test */
       "title": "DreamDash Tee",
       "imageFileName": "C0146.gif",
       "effectivePrice": 5,
@@ -122,8 +122,6 @@
     "Shop Your Heart Out with Our Can't-Miss Offers!",
     "Epic Discounts Await - Dive into Our Deals!",
     "Find Your Perfect Deal in Our Online Shopping Wonderland!"
-
-
     ],
     "changeIntervalSeconds" : 20
   },

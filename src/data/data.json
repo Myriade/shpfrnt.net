@@ -360,7 +360,369 @@
       "altPrice":23425,
       "rating": 0,
       "numberOfReviews": 1
+    },
+       { "_comment": "____________________________test repeattttt",
+
+      "title": "DreamDash Tee",
+      "imageFileName": "C0146.gif",
+      "effectivePrice": 456,
+      "altPrice": 7,
+      "rating": 1,
+      "numberOfReviews": 80
+    },
+    {
+      "title": "VirtuCast Cardboard",
+      "imageFileName": "1new.png",
+      "depthMapFileName": "1_depth.jpeg",
+      "effectivePrice": 9.5,
+      "altPrice": 0,
+      "rating": 2,
+      "numberOfReviews": 0
+    },
+      {
+    "title": "PixelPlush shirt",
+      "imageFileName": "C0149.gif",
+      "effectivePrice": 10,
+      "altPrice": 14,
+      "rating": 2,
+      "numberOfReviews": 11
+    },
+    {"_comment": "_____________________________________2",
+    
+      "title": "Echo Glass",
+      "imageFileName": "2new.png",
+      "depthMapFileName": "2_depth.jpeg",
+      "effectivePrice": 5.5,
+      "altPrice": 0,
+      "rating": 1,
+      "numberOfReviews": 0
+    },
+    {
+      "title": "PixelGaze Pashmina",
+      "videoMp4FileName": "01.mp4",
+      "videoWebmFileName": "01.mp4",
+      "effectivePrice": 20.5,
+      "rating": 3,
+      "numberOfReviews": 74
+    },
+    {
+     "title": "iRoam Tracker",
+      "imageFileName": "C0133.gif",
+      "effectivePrice": 2,
+      "altPrice": 3,
+      "rating": 4,
+      "numberOfReviews": 40
+    },
+    { "_comment": "_____________________________________3",
+      "title": "QuantumQuill",
+      "imageFileName": "ai9.jpg",
+      "effectivePrice": 2,
+      "altPrice": 3,
+      "rating": 4,
+      "numberOfReviews": 40
+    },
+     {
+       "title": "IronScroll",
+      "videoMp4FileName": "vid3.mp4",
+      "videoWebmFileName": "vid3.mp4",
+      "effectivePrice": 86.9999,
+      "rating": 1,
+      "numberOfReviews": 38
+    },
+    {
+      "title": "VibeScape",
+      "imageFileName": "3new.png",
+      "depthMapFileName": "3_depth.jpeg",
+      "effectivePrice": 5.5,
+      "altPrice": 0,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+  { "_comment": "_____________________________________4",
+
+      "title": "SkySurfer",
+      "videoMp4FileName": "vid1.mp4",
+      "videoWebmFileName": "vid1.mp4",
+      "effectivePrice": 78.6,
+      "rating": 2,
+      "numberOfReviews": 94
+    },
+{
+      "title": "TranquilOcean",
+      "imageFileName": "DSC01723.jpg",
+      "depthMapFileName": "DSC01723_depth.jpeg",
+      "effectivePrice": 2.5,
+      "altPrice": 67,
+      "rating": 1,
+      "numberOfReviews": 1
+    },
+     {
+     "title": "iCycle Sweather",
+      "videoMp4FileName": "09.mp4",
+      "videoWebmFileName": "09.mp4",
+      "effectivePrice": 20.5,
+      "rating": 5,
+      "numberOfReviews": 74
+    },
+     { "_comment": "_____________________________________5",
+     "title": "IHanger",
+      "imageFileName": "DSC01708.jpg",
+      "depthMapFileName": "DSC01708_depth.jpeg",
+      "effectivePrice": 7.5,
+      "altPrice": 899,
+      "rating": 3,
+      "numberOfReviews": 738204
+    },
+    {
+      "title": "VirtualVogue",
+      "videoMp4FileName": "05.mp4",
+      "videoWebmFileName": "05.mp4",
+      "effectivePrice": 438.29,
+      "altPrice": 7,
+      "rating": 1,
+      "numberOfReviews": 30
+    },
+     {
+      "title": "CyberCanvas Frame",
+      "imageFileName": "ai6.jpg",
+      "effectivePrice": 132,
+      "altPrice": 78,
+      "rating": 2,
+      "numberOfReviews": 2
+    },
+     { "_comment": "_____________________________________6",
+     "title": "HyperFit Hand",
+     "videoMp4FileName": "vid2.mp4",
+      "videoWebmFileName": "vid2.mp4",
+      "effectivePrice": 2.5,
+      "altPrice": 99.99,
+      "rating": 5,
+      "numberOfReviews": 234
+    },
+    {
+      "title": "DashGlide",
+      "imageFileName": "4new.png",
+      "depthMapFileName": "4_depth.jpeg",
+      "effectivePrice": 42.29,
+      "altPrice": 790,
+      "rating":3,
+      "numberOfReviews": 330
+    },
+     {
+      "title": "E-PetPal Toy",
+      "imageFileName": "main4.jpg",
+      "effectivePrice": 28.32,
+      "altPrice": 23.28,
+      "rating": 5,
+      "numberOfReviews": 890
+    },
+  { "_comment": "_____________________________________7",
+     "title": "iSparkle Set",
+     "imageFileName": "DSC01726.jpg",
+      "depthMapFileName": "DSC01726_depth.jpeg",
+      "effectivePrice": 8.5,
+      "altPrice": 47.19,
+      "rating": 3,
+      "numberOfReviews": 8905
+    },
+    {
+      "title": "VirtuView Cam",
+      "imageFileName": "ai10.jpg",
+      "effectivePrice": 30,
+      "altPrice": 30,
+      "rating": 5,
+      "numberOfReviews": 30
+    },
+     {
+      "title": "EcoGlow Charger",
+      "imageFileName": "C0127.gif",
+      "effectivePrice": 3,
+      "altPrice": 2,
+      "rating": 1,
+      "numberOfReviews": 80
+    },
+     { "_comment": "_____________________________________8",
+     "title": "Quick Edge",
+     "imageFileName": "main3.jpg",
+      "effectivePrice": 3.5,
+      "altPrice": 21,
+      "rating": 1,
+      "numberOfReviews": 5
+    },
+    {
+      "title": "Vista Cascade",
+     "imageFileName": "5new.png",
+      "depthMapFileName": "5_depth.jpeg",
+      "altPrice": 30,
+      "rating": 5,
+      "numberOfReviews": 30
+    },
+     {
+      "title": "GlideTrack Deck",
+     "videoMp4FileName": "vid4.mp4",
+      "videoWebmFileName": "vid4.mp4",
+      "effectivePrice": 3000,
+      "altPrice": 22.76,
+      "rating": 5,
+      "numberOfReviews": 468280
+    },
+      { "_comment": "_____________________________________9",
+     "title": "DuskLight Drone",
+     "videoMp4FileName": "08.mp4",
+      "videoWebmFileName": "08.mp4",
+      "effectivePrice": 2789,
+      "altPrice": 21389,
+      "rating": 3,
+      "numberOfReviews": 1
+    },
+    {
+      "title": "DreamDash Tool",
+     "imageFileName": "main2.jpg",
+      "effectivePrice": 55,
+      "altPrice": 340,
+      "rating": 2,
+      "numberOfReviews": 4321
+    },
+     {
+      "title": "E-Bloom Abajour",
+     "imageFileName": "C0129.gif",
+      "effectivePrice": 100,
+      "altPrice": 6.999,
+      "rating": 2,
+      "numberOfReviews": 1
+    },
+          { "_comment": "_____________________________________10",
+     "title": "VoxTrek Decor",
+     "imageFileName": "6new.png",
+     "depthMapFileName": "6_depth.jpeg",
+      "effectivePrice": 47,
+      "altPrice": 11,
+      "rating": 5,
+      "numberOfReviews": 345
+    },
+    {
+      "title": "VirtuMirror",
+    "videoMp4FileName": "vid6.mp4",
+      "videoWebmFileName": "vid6.mp4",
+        "effectivePrice": 0.5,
+      "altPrice": 42540,
+      "rating": 3,
+      "numberOfReviews": 2
+    },
+     {
+      "title": "CyberThrow",
+      "imageFileName": "ai4.jpg",
+      "effectivePrice": 33.90,
+      "altPrice": 1,
+      "rating": 4,
+      "numberOfReviews": 47
+    },
+          { "_comment": "_____________________________________11",
+     "title": "E-Bliss Cloth",
+     "videoMp4FileName": "06.mp4",
+      "videoWebmFileName": "06.mp4",
+      "effectivePrice": 47,
+      "altPrice": 11,
+      "rating": 3,
+      "numberOfReviews": 345
+    },
+    {
+      "title": "EchoWindow Film",
+     "imageFileName": "7new.png",
+     "depthMapFileName": "7_depth.jpeg",
+       "effectivePrice": 7,
+      "altPrice": 2,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+     {
+      "title": "Long E-Luxe Linens",
+      "imageFileName": "DSC01734.jpg",
+      "effectivePrice":91,
+      "altPrice": 21,
+      "rating": 3,
+      "numberOfReviews": 47
+    },
+
+          { "_comment": "_____________________________________12",
+     "title": "E-Life Assistant",
+      "imageFileName": "ai11.jpg",
+      "effectivePrice": 64,
+      "altPrice": 13,
+      "rating": 4,
+      "numberOfReviews": 32
+    },
+    {
+      "title": "WebScribe Service",
+     "videoMp4FileName": "vid5.mp4",
+      "videoWebmFileName": "vid5.mp4",
+       "effectivePrice": 32,
+      "altPrice":455,
+      "rating": 1,
+      "numberOfReviews": 4532
+    },
+     {
+      "title": "StreamHug ShoB",
+    "imageFileName": "8new.png",
+     "depthMapFileName": "8_depth.jpeg",
+      "effectivePrice":432,
+      "altPrice": 22345,
+      "rating": 6,
+      "numberOfReviews": 47342
+    },
+
+          { "_comment": "_____________________________________13",
+     "title": "AirHug Pillow",
+     "imageFileName": "9new.png",
+     "depthMapFileName": "9_depth.jpeg",
+      "effectivePrice": 43,
+      "altPrice": 3432,
+      "rating": 2,
+      "numberOfReviews": 56
+    },
+    {
+      "title": "FlexiDock",
+     "imageFileName": "ai5.jpg",
+       "effectivePrice": 453,
+      "altPrice":2,
+      "rating": 0,
+      "numberOfReviews": 42
+    },
+     {
+      "title": "ScarfE",
+  "imageFileName":  "C0116.gif",
+      "effectivePrice":2,
+      "altPrice":25,
+      "rating": 1,
+      "numberOfReviews": 231
+    },
+     { "_comment": "_____________________________________14",
+     "title": "OK Blanket",
+     "videoMp4FileName": "vid7.mp4",
+      "videoWebmFileName": "vid7.mp4",
+      "effectivePrice": 2,
+      "altPrice": 3289,
+      "rating": 5,
+      "numberOfReviews": 56900
+    },
+    {
+      "title": "BuildBolt Frame",
+     "imageFileName": "10new.png",
+     "depthMapFileName": "10_depth.jpeg",
+       "effectivePrice": 321,
+      "altPrice":432,
+      "rating": 1,
+      "numberOfReviews": 342
+    },
+     {
+      "title": "SmartStructure",
+     "imageFileName": "ai7.jpg",
+      "effectivePrice":543,
+      "altPrice":23425,
+      "rating": 0,
+      "numberOfReviews": 1
     }
+
   ],
   
   "headerBanner": {

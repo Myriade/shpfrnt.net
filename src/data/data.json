@@ -128,7 +128,34 @@
       "altPrice": 78,
       "rating": 5,
       "numberOfReviews": 2
+    },
+     { "_comment": "_____________________________________6",
+     "title": "HyperFit Hand",
+     "videoMp4FileName": "vi2.mp4",
+      "videoWebmFileName": "vi2.mp4",
+      "effectivePrice": 2.5,
+      "altPrice": 99.99,
+      "rating": 5,
+      "numberOfReviews": 234
+    },
+    {
+      "title": "DashGlide",
+      "imageFileName": "3new.jpg",
+      "depthMapFileName": "3_depth.jpeg",
+      "effectivePrice": 42.29,
+      "altPrice": 790,
+      "rating": 10,
+      "numberOfReviews": 330
+    },
+     {
+      "title": "E-PetPal Toy",
+      "imageFileName": "main4.jpg",
+      "effectivePrice": 28.32,
+      "altPrice": 23.28,
+      "rating": 5,
+      "numberOfReviews": 890
     }
+
 
   ],
   

@@ -1,6 +1,7 @@
 {
   "products": [
-    {
+    {<!-- This will create a global `JSON5` variable. -->
+
       "title": "DreamDash Tee",
       "imageFileName": "C0146.gif",
       "effectivePrice": 5,

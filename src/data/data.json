@@ -102,6 +102,31 @@
       "effectivePrice": 20.5,
       "rating": 3,
       "numberOfReviews": 74
+    },
+     { "_comment": "_____________________________________5",
+     "title": "IHanger",
+      "imageFileName": "DSC01708.jpg",
+      "depthMapFileName": "DSC01708_depth.jpeg",
+      "effectivePrice": 7.5,
+      "altPrice": 899,
+      "rating": 1.5,
+      "numberOfReviews": 738204
+    },
+    {
+      "title": "IronScroll",
+      "videoMp4FileName": "vid3.mp4",
+      "videoWebmFileName": "vid3.mp4",
+      "effectivePrice": 86.9999,
+      "rating": 1,
+      "numberOfReviews": 38
+    },
+     {
+      "title": "CyberCanvas Frame",
+      "imageFileName": "ai6.jpg",
+      "effectivePrice": 132,
+      "altPrice": 78,
+      "rating": 5,
+      "numberOfReviews": 2
     }
 
   ],

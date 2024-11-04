@@ -228,6 +228,31 @@
       "altPrice": 6.999,
       "rating": 2,
       "numberOfReviews": 1
+    },
+          { "_comment": "_____________________________________10",
+     "title": "VoxTrek Decor",
+     "imageFileName": "6new.png",
+     "depthMapFileName": "6_depth.jpeg",
+      "effectivePrice": 47,
+      "altPrice": 11,
+      "rating": 5,
+      "numberOfReviews": 345
+    },
+    {
+      "title": "VirtuMirror",
+    "videoMp4FileName": "vid6.mp4",
+      "videoWebmFileName": "vid6.mp4",
+      "altPrice": 42540,
+      "rating": 3,
+      "numberOfReviews": 2
+    },
+     {
+      "title": "VirtuSculpt",
+      "imageFileName": "ai9.jpg",
+      "effectivePrice": 33.90,
+      "altPrice": 1,
+      "rating": 4,
+      "numberOfReviews": 367547
     }
   ],
   

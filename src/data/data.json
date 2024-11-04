@@ -83,7 +83,7 @@
       "videoMp4FileName": "vid1.mp4",
       "videoWebmFileName": "vid1.mp4",
       "effectivePrice": 78.6,
-      "rating": 23,
+      "rating": 2,
       "numberOfReviews": 94
     },
 {
@@ -92,7 +92,7 @@
       "depthMapFileName": "DSC01723_depth.jpeg",
       "effectivePrice": 2.5,
       "altPrice": 67,
-      "rating": 3,
+      "rating": 1,
       "numberOfReviews": 1
     },
      {
@@ -100,7 +100,7 @@
       "videoMp4FileName": "09.mp4",
       "videoWebmFileName": "09.mp4",
       "effectivePrice": 20.5,
-      "rating": 3,
+      "rating": 5,
       "numberOfReviews": 74
     },
      { "_comment": "_____________________________________5",
@@ -109,7 +109,7 @@
       "depthMapFileName": "DSC01708_depth.jpeg",
       "effectivePrice": 7.5,
       "altPrice": 899,
-      "rating": 1.5,
+      "rating": 3,
       "numberOfReviews": 738204
     },
     {
@@ -118,7 +118,7 @@
       "videoWebmFileName": "05.mp4",
       "effectivePrice": 438.29,
       "altPrice": 7,
-      "rating": 40,
+      "rating": 1,
       "numberOfReviews": 30
     },
      {
@@ -126,7 +126,7 @@
       "imageFileName": "ai6.jpg",
       "effectivePrice": 132,
       "altPrice": 78,
-      "rating": 5,
+      "rating": 2,
       "numberOfReviews": 2
     },
      { "_comment": "_____________________________________6",
@@ -144,7 +144,7 @@
       "depthMapFileName": "3_depth.jpeg",
       "effectivePrice": 42.29,
       "altPrice": 790,
-      "rating": 10,
+      "rating":3,
       "numberOfReviews": 330
     },
      {
@@ -154,8 +154,32 @@
       "altPrice": 23.28,
       "rating": 5,
       "numberOfReviews": 890
+    },
+  { "_comment": "_____________________________________7",
+     "title": "iSparkle Set",
+     "imageFileName": "DSC01703.jpg",
+      "depthMapFileName": "DSC01703_depth.jpeg",
+      "effectivePrice": 8.5,
+      "altPrice": 47.19,
+      "rating": 3,
+      "numberOfReviews": 8905
+    },
+    {
+      "title": "DashGlide",
+      "imageFileName": "ai10.jpg",
+      "effectivePrice": 30,
+      "altPrice": 30,
+      "rating": 5,
+      "numberOfReviews": 30
+    },
+     {
+      "title": "EcoGlow Charger",
+      "imageFileName": "C0127.gif",
+      "effectivePrice": 3,
+      "altPrice": 2,
+      "rating": 1,
+      "numberOfReviews": 80
     }
-
 
   ],
   

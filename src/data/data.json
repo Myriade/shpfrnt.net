@@ -217,7 +217,7 @@
     {
       "title": "DreamDash Tool",
      "imageFileName": "main2.jpg",
-      "effectivePrice": undefined,
+      "effectivePrice": 55,
       "altPrice": 340,
       "rating": 2,
       "numberOfReviews": 4321

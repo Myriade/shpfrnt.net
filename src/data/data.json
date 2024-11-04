@@ -1,19 +1,19 @@
 {
   "products": [
-    {"_comment": "__________________1",
+    {"_comment": "_____________________________________1",
 
       "title": "DreamDash Tee",
       "imageFileName": "C0146.gif",
-      "effectivePrice": 5,
+      "effectivePrice": 456,
       "altPrice": 7,
       "rating": 1,
       "numberOfReviews": 80
     },
     {
-      "title": "VirtuCast Projector",
+      "title": "VirtuCast Cardboard",
       "imageFileName": "1new.png",
       "depthMapFileName": "1_depth.jpeg",
-      "effectivePrice": 5.5,
+      "effectivePrice": 9.5,
       "altPrice": 0,
       "rating": 0,
       "numberOfReviews": 0
@@ -26,9 +26,9 @@
       "rating": 2,
       "numberOfReviews": 11
     },
-    {
+    {"_comment": "_____________________________________2",
     
-      "title": "VirtuCast Projector",
+      "title": "Echo Glass",
       "imageFileName": "2new.jpg",
       "depthMapFileName": "2_depth.jpeg",
       "effectivePrice": 5.5,
@@ -40,7 +40,7 @@
       "title": "PixelGaze Pashmina",
       "videoMp4FileName": "01.mp4",
       "videoWebmFileName": "01.mp4",
-      "effectivePrice": 20,
+      "effectivePrice": 20.5,
       "rating": 3,
       "numberOfReviews": 74
     },
@@ -52,7 +52,7 @@
       "rating": 4,
       "numberOfReviews": 40
     },
-    { 
+    { "_comment": "_____________________________________3",
       "title": "QuantumQuill",
       "imageFileName": "C0140.gif",
       "effectivePrice": 2,
@@ -61,22 +61,49 @@
       "numberOfReviews": 40
     },
      {
-     "title": "iRoam Tracker",
-      "imageFileName": "DSC01747.jpg",
-      "effectivePrice": 2,
-      "altPrice": 3,
-      "rating": 4,
-      "numberOfReviews": 40
+     "title": "VirtualVogue",
+      "imageFileName": "main1.jpg",
+      "effectivePrice": 438.29,
+      "altPrice": 7,
+      "rating": 40,
+      "numberOfReviews": 30
     },
     {
-      "title": "VirtuCast Projector",
+      "title": "VibeScape",
       "imageFileName": "3new.jpg",
       "depthMapFileName": "3_depth.jpeg",
       "effectivePrice": 5.5,
       "altPrice": 0,
       "rating": 0,
       "numberOfReviews": 0
+    },
+  { "_comment": "_____________________________________4",
+
+      "title": "SkySurfer",
+      "videoMp4FileName": "vid1.mp4",
+      "videoWebmFileName": "vid1.mp4",
+      "effectivePrice": 78.6,
+      "rating": 23,
+      "numberOfReviews": 94
+    },
+{
+      "title": "Tranquilocean",
+      "imageFileName": "DSC01723.jpg",
+      "depthMapFileName": "DSC01723_depth.jpeg",
+      "effectivePrice": 2.5,
+      "altPrice": 67,
+      "rating": 3,
+      "numberOfReviews": 1
+    },
+     {
+     "title": "iCycle Lock",
+      "imageFileName": "captcha.gif",
+      "effectivePrice": 12.45,
+      "altPrice": 32,
+      "rating": 41,
+      "numberOfReviews": 0
     }
+
   ],
   
   "headerBanner": {

@@ -359,6 +359,15 @@
       "altPrice":23425,
       "rating": 0,
       "numberOfReviews": 1
+    },
+    {"_comment": "_____________________________________15",
+      "title": "VirtuCast Cardboard",
+      "imageFileName": "1new.png",
+      "depthMapFileName": "1_depth.jpeg",
+      "effectivePrice": 9.5,
+      "altPrice": 0,
+      "rating": 2,
+      "numberOfReviews": 0
     }
 
   ],

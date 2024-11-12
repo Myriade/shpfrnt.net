@@ -373,8 +373,8 @@
      "title": "OK Blanket",
      "videoMp4FileName": "vid8.mp4",
       "videoWebmFileName": "vid8.mp4",
-      "effectivePrice": 2,
-      "altPrice": 3289,
+      "effectivePrice": 0,
+      "altPrice": 0,
       "rating": 5,
       "numberOfReviews": 56900
     }

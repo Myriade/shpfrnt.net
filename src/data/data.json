@@ -139,13 +139,13 @@
       "numberOfReviews": 234
     },
     {
-      "title": "DashGlide",
-      "imageFileName": "4new.png",
-      "depthMapFileName": "4_depth.jpeg",
-      "effectivePrice": 42.29,
-      "altPrice": 790,
-      "rating":3,
-      "numberOfReviews": 330
+     "title": "OK Blanket",
+     "videoMp4FileName": "vid9.mp4",
+      "videoWebmFileName": "vid9.mp4",
+      "effectivePrice": 0,
+      "altPrice": 0,
+      "rating": 5,
+      "numberOfReviews": 56900
     },
      {
       "title": "E-PetPal Toy",
@@ -156,13 +156,13 @@
       "numberOfReviews": 890
     },
   { "_comment": "_____________________________________7",
-     "title": "iSparkle Set",
-     "imageFileName": "DSC01726.jpg",
-      "depthMapFileName": "DSC01726_depth.jpeg",
-      "effectivePrice": 8.5,
-      "altPrice": 47.19,
-      "rating": 3,
-      "numberOfReviews": 8905
+     "title": "VirtualVogue",
+     "videoMp4FileName": "vid10.mp4",
+      "videoWebmFileName": "vid10.mp4",
+      "effectivePrice": 234,
+      "altPrice": 23402,
+      "rating": 1,
+      "numberOfReviews": 300
     },
     {
       "title": "VirtuView Cam",
@@ -177,7 +177,7 @@
       "imageFileName": "C0127.gif",
       "effectivePrice": 3,
       "altPrice": 2,
-      "rating": 1,
+      "rating": 4,
       "numberOfReviews": 80
     },
      { "_comment": "_____________________________________8",
@@ -189,12 +189,13 @@
       "numberOfReviews": 5
     },
     {
-      "title": "Vista Cascade",
-     "imageFileName": "5new.png",
-      "depthMapFileName": "5_depth.jpeg",
-      "altPrice": 30,
-      "rating": 5,
-      "numberOfReviews": 30
+     "title": "EFacade",
+     "videoMp4FileName": "vid11.mp4",
+      "videoWebmFileName": "vid11.mp4",
+      "effectivePrice": 34,
+      "altPrice": 213,
+      "rating": 2,
+      "numberOfReviews": 20
     },
      {
       "title": "GlideTrack Deck",
@@ -231,8 +232,8 @@
     },
           { "_comment": "_____________________________________10",
      "title": "VoxTrek Decor",
-     "imageFileName": "6new.png",
-     "depthMapFileName": "6_depth.jpeg",
+     "videoMp4FileName": "vid12.mp4",
+      "videoWebmFileName": "vid12.mp4",
       "effectivePrice": 47,
       "altPrice": 11,
       "rating": 5,
@@ -266,8 +267,8 @@
     },
     {
       "title": "EchoWindow Film",
-     "imageFileName": "7new.png",
-     "depthMapFileName": "7_depth.jpeg",
+     "videoMp4FileName": "vid13.mp4",
+      "videoWebmFileName": "vid13.mp4",
        "effectivePrice": 7,
       "altPrice": 2,
       "rating": 0,
@@ -300,9 +301,9 @@
       "numberOfReviews": 4532
     },
      {
-      "title": "StreamHug ShoB",
-    "imageFileName": "8new.png",
-     "depthMapFileName": "8_depth.jpeg",
+      "title": "Fitness Ribbon",
+     "videoMp4FileName": "vid14.mp4",
+      "videoWebmFileName": "vid14.mp4",
       "effectivePrice":432,
       "altPrice": 22345,
       "rating": 6,
@@ -310,9 +311,9 @@
     },
 
           { "_comment": "_____________________________________13",
-     "title": "AirHug Pillow",
-     "imageFileName": "9new.png",
-     "depthMapFileName": "9_depth.jpeg",
+     "title": "CryoStream",
+      "videoMp4FileName": "vid15.mp4",
+      "videoWebmFileName": "vid15.mp4",
       "effectivePrice": 43,
       "altPrice": 3432,
       "rating": 2,
@@ -345,8 +346,8 @@
     },
     {
       "title": "BuildBolt Frame",
-     "imageFileName": "10new.png",
-     "depthMapFileName": "10_depth.jpeg",
+  "videoMp4FileName": "vid16.mp4",
+      "videoWebmFileName": "vid16.mp4",
        "effectivePrice": 321,
       "altPrice":432,
       "rating": 1,

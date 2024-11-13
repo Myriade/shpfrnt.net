@@ -408,6 +408,31 @@
        "altPrice": 90909,
       "rating": 5,
       "numberOfReviews": 4
+    },
+     {"_comment": "_____________________________________17",
+      "title": "GlassHorizon",
+      "videoMp4FileName": "vid17.mp4",
+      "videoWebmFileName": "vid17.mp4",
+      "effectivePrice": 3,
+      "altPrice": 89999999,
+      "rating": 5,
+      "numberOfReviews": 8
+    },
+       {
+     "title": "HangerMate",
+     "imageFileName": "DSC01703.jpg",
+      "effectivePrice": 332,
+      "altPrice": 1,
+      "rating": 1,
+      "numberOfReviews": 3
+    },
+      {
+     "title": "Clothify",
+     "imageFileName": "C0123.gif",
+      "effectivePrice": 3.3,
+       "altPrice": 70,
+      "rating": 3,
+      "numberOfReviews": 2356
     }
 
   ],

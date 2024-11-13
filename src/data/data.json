@@ -563,6 +563,59 @@
       "altPrice": 2,
       "rating": 1,
       "numberOfReviews": 2
+    },
+      {"_comment": "_____________________________________23",
+      
+      "title": "GleamCore Stand",
+     "imageFileName": "img7.jpg", 
+      "effectivePrice": 39,
+      "altPrice": 0.7,
+      "rating": 2,
+      "numberOfReviews": 39
+    },
+     {
+     "title": "ClutchSynce",
+     "imageFileName": "DSC01703.jpg", 
+      "effectivePrice": 789,
+      "altPrice": 1.0,
+      "rating": 1,
+      "numberOfReviews":3
+    },
+     {
+      "title": "PureSight",
+      "videoMp4FileName": "vid23.mp4",
+      "videoWebmFileName": "vid23.mp4",
+      "effectivePrice": 26,
+      "altPrice": 19,
+      "rating": 5,
+      "numberOfReviews": 1
+    },
+    {"_comment": "_____________________________________24",
+      
+      "title": "ClarityFrame",
+    "videoMp4FileName": "vid24.mp4",
+      "videoWebmFileName": "vid24.mp4",
+      "effectivePrice": 247,
+      "altPrice": 7.9,
+      "rating": 5,
+      "numberOfReviews": 147
+    },
+     {
+     "title": "PopUP E",
+     "imageFileName": "ai1.jpg", 
+      "effectivePrice": 232,
+      "altPrice": 356,
+      "rating": 5,
+      "numberOfReviews":37689
+    },
+     {
+      "title": "PureSight",
+       "videoMp4FileName": "vid25.mp4",
+      "videoWebmFileName": "vid25.mp4",
+      "effectivePrice": 37982,
+      "altPrice":888,
+      "rating": 0,
+      "numberOfReviews": 345
     }
 
   ],

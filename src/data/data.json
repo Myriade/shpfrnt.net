@@ -378,8 +378,7 @@
     },
       {
      "title": "iCycle Sweather",
-      "videoMp4FileName": "09.mp4",
-      "videoWebmFileName": "09.mp4",
+      "imageFileName": "captcha.gif",
       "effectivePrice": 20.5,
       "rating": 5,
       "numberOfReviews": 74
@@ -420,7 +419,7 @@
     },
        {
      "title": "HangerMate",
-     "imageFileName": "DSC01726.jpg",
+     "imageFileName":"DSC01726.jpg",
       "effectivePrice": 332,
       "altPrice": 1,
       "rating": 1,
@@ -435,7 +434,7 @@
       "numberOfReviews": 2356
     },
      {"_comment": "_____________________________________18",
-      "title": "Setting Sun Neckwarmer",
+      "title": "Set-Sun Neckwarmer",
       "videoMp4FileName": "08.mp4",
       "videoWebmFileName": "08.mp4",
       "effectivePrice": 1,
@@ -461,14 +460,7 @@
       "numberOfReviews": 2
     },
      {"_comment": "_____________________________________19",
-      "title": "GripTouch Glove",
-       "imageFileName": "img4.jpg",
-      "effectivePrice": 390,
-      "altPrice": 2222222222,
-      "rating": 1,
-      "numberOfReviews": 78
-    },
-       {
+      
      "title": "DreamWeave Stole",
       "videoMp4FileName": "vid20.mp4",
       "videoWebmFileName": "vid20.mp4",
@@ -477,10 +469,44 @@
       "rating": 5,
       "numberOfReviews": 4
     },
+     {
+      "title": "GripGlove",
+       "imageFileName": "img4.jpg",
+      "effectivePrice": 390,
+      "altPrice": 2222222222,
+      "rating": 1,
+      "numberOfReviews": 78
+    },
       {
      "title": "Panoramic SkyVista",
     "videoMp4FileName": "vi21.mp4",
       "videoWebmFileName": "vid21.mp4",
+      "effectivePrice": 3.4,
+       "altPrice": 0.1,
+      "rating": 3,
+      "numberOfReviews": 3432
+    },
+      {"_comment": "_____________________________________20",
+      
+     "title": "GripNGo",
+    "imageFileName": "main5.jpg", 
+      "effectivePrice": 2,
+      "altPrice": 1578,
+      "rating": 2,
+      "numberOfReviews": 4789
+    },
+     {
+      "title": "ARShadeHanger",
+       "imageFileName": "C0140.gif",
+      "effectivePrice": 728,
+      "altPrice": 9,
+      "rating": 0,
+      "numberOfReviews": 5
+    },
+      {
+     "title": "Panoramic SkyVista",
+    "videoMp4FileName": "02.mp4",
+      "videoWebmFileName": "02.mp4",
       "effectivePrice": 3.4,
        "altPrice": 0.1,
       "rating": 3,

@@ -96,8 +96,7 @@
     },
      {
      "title": "iCycle Sweather",
-      "videoMp4FileName": "09.mp4",
-      "videoWebmFileName": "09.mp4",
+      "imageFileName": "img6.jpg",
       "effectivePrice": 20.5,
       "rating": 5,
       "numberOfReviews": 74
@@ -378,6 +377,14 @@
       "rating": 5,
       "numberOfReviews": 56900
     },
+      {
+     "title": "iCycle Sweather",
+      "videoMp4FileName": "09.mp4",
+      "videoWebmFileName": "09.mp4",
+      "effectivePrice": 20.5,
+      "rating": 5,
+      "numberOfReviews": 74
+    }
 
   ],
   

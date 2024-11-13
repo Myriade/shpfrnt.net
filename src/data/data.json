@@ -205,8 +205,8 @@
       "numberOfReviews": 468280
     },
       { "_comment": "_____________________________________9",
-     "title": "Connectrix",
-     "imageFileName": "ai3.jpg",
+         "title": "E-Bloom Abajour",
+     "imageFileName": "C0129.gif",
       "effectivePrice": 2789,
       "altPrice": 21389,
       "rating": 3,
@@ -221,8 +221,8 @@
       "numberOfReviews": 4321
     },
      {
-      "title": "E-Bloom Abajour",
-     "imageFileName": "C0129.gif",
+      "title": "Connectrix",
+     "imageFileName": "ai3.jpg",
       "effectivePrice": 100,
       "altPrice": 6.999,
       "rating": 2,
@@ -616,7 +616,7 @@
       "altPrice":888,
       "rating": 0,
       "numberOfReviews": 345
-    }
+    },
 
   ],
   

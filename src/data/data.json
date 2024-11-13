@@ -603,20 +603,45 @@
      {
      "title": "PopUP E",
      "imageFileName": "ai1.jpg", 
-      "effectivePrice": 232,
+      "effectivePrice": 2.2,
       "altPrice": 356,
       "rating": 5,
       "numberOfReviews":37689
     },
      {
-      "title": "PureSight",
-       "videoMp4FileName": "vid25.mp4",
-      "videoWebmFileName": "vid25.mp4",
-      "effectivePrice": 37982,
-      "altPrice":888,
+      "title": "TouchCall",
+     "imageFileName": "img9.jpg", 
+      "effectivePrice": 464,
+      "altPrice":834,
       "rating": 0,
       "numberOfReviews": 345
     },
+     {"_comment": "_____________________________________25",
+      
+      "title": "Brandify",
+      "imageFileName": "img10.jpg", 
+      "effectivePrice": 124,
+      "altPrice": 2,
+      "rating": 2,
+      "numberOfReviews": 1
+    },
+     {
+     "title": "OpenClear",
+       "videoMp4FileName": "vid25.mp4",
+      "videoWebmFileName": "vid25.mp4",
+      "effectivePrice":79,
+      "altPrice": 12,
+      "rating": 1,
+      "numberOfReviews":45
+    },
+     {
+      "title": "HoldMate",
+      "imageFileName": "img10.jpg", 
+      "effectivePrice": 78,
+      "altPrice":2,
+      "rating": 4,
+      "numberOfReviews": 4
+    }
 
   ],
   

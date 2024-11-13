@@ -433,6 +433,32 @@
        "altPrice": 70,
       "rating": 3,
       "numberOfReviews": 2356
+    },
+     {"_comment": "_____________________________________18",
+      "title": "Setting Sun Neckwarmer",
+      "videoMp4FileName": "08.mp4",
+      "videoWebmFileName": "08.mp4",
+      "effectivePrice": 1,
+      "altPrice": 9,
+      "rating": 2,
+      "numberOfReviews": 45
+    },
+       {
+     "title": "Cosmic Kover",
+     "imageFileName": "C0144.gif",
+      "effectivePrice": 342,
+      "altPrice": 22,
+      "rating": 5,
+      "numberOfReviews": 32324
+    },
+      {
+     "title": "PureSight",
+    "videoMp4FileName": "vi18.mp4",
+      "videoWebmFileName": "vid18.mp4",
+      "effectivePrice": 3,
+       "altPrice": 7000,
+      "rating": 2,
+      "numberOfReviews": 2
     }
 
   ],

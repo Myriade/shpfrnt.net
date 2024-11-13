@@ -488,12 +488,12 @@
     },
       {"_comment": "_____________________________________20",
       
-     "title": "GripNGo",
-    "imageFileName": "main5.jpg", 
-      "effectivePrice": 2,
-      "altPrice": 1578,
-      "rating": 2,
-      "numberOfReviews": 4789
+     "title": "ClutchCall",
+    "imageFileName": "ai8.jpg", 
+      "effectivePrice": 4353,
+      "altPrice": 53,
+      "rating": 5,
+      "numberOfReviews": 49
     },
      {
       "title": "ARShadeHanger",
@@ -511,7 +511,59 @@
        "altPrice": 0.1,
       "rating": 3,
       "numberOfReviews": 3432
-    }
+    },
+    {"_comment": "_____________________________________21",
+      
+      "title": "Network Hub Shop",
+      "videoMp4FileName": "vid22.mp4",
+      "videoWebmFileName": "vid22.mp4",
+      "effectivePrice": 728,
+      "altPrice": 9,
+      "rating": 1,
+      "numberOfReviews": 5
+    },
+     {
+     "title": "GripNGo",
+     "imageFileName": "main5.jpg", 
+      "effectivePrice": 2,
+      "altPrice": 1578,
+      "rating": 2,
+      "numberOfReviews": 4789
+    },
+     {
+      "title": "Snap&Hang",
+      "imageFileName": "C0137.gif", 
+      "effectivePrice": 8679,
+      "altPrice": 2345678,
+      "rating": 4,
+      "numberOfReviews": 5
+    },
+      {"_comment": "_____________________________________22",
+      
+      "title": "BrightIron",
+     "imageFileName": "ai2.jpg", 
+      "effectivePrice": 10,
+      "altPrice": 10,
+      "rating": 4,
+      "numberOfReviews": 3789
+    },
+     {
+     "title": "GlideRebus Tee",
+      "videoMp4FileName": "11.mp4",
+      "videoWebmFileName": "11.mp4",
+      "effectivePrice": 123,
+      "altPrice": 456,
+      "rating": 5,
+      "numberOfReviews":0.5
+    },
+     {
+      "title": "Snap&Hang",
+      "imageFileName": "main1.jpg", 
+      "effectivePrice": 4,
+      "altPrice": 2,
+      "rating": 1,
+      "numberOfReviews": 2
+    },
 
   ],
   

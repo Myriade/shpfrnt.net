@@ -444,7 +444,7 @@
       "numberOfReviews": 45
     },
        {
-     "title": "Cosmic Kover",
+     "title": "Kosmic Kover",
      "imageFileName": "C0144.gif",
       "effectivePrice": 342,
       "altPrice": 22,
@@ -459,6 +459,32 @@
        "altPrice": 7000,
       "rating": 2,
       "numberOfReviews": 2
+    },
+     {"_comment": "_____________________________________19",
+      "title": "GripTouch Glove",
+       "imageFileName": "img4.jpg",
+      "effectivePrice": 390,
+      "altPrice": 2222222222,
+      "rating": 1,
+      "numberOfReviews": 78
+    },
+       {
+     "title": "DreamWeave Stole",
+      "videoMp4FileName": "vid20.mp4",
+      "videoWebmFileName": "vid20.mp4",
+      "effectivePrice": 34,
+      "altPrice": 1,
+      "rating": 5,
+      "numberOfReviews": 4
+    },
+      {
+     "title": "Panoramic SkyVista",
+    "videoMp4FileName": "vi21.mp4",
+      "videoWebmFileName": "vid21.mp4",
+      "effectivePrice": 3.4,
+       "altPrice": 0.1,
+      "rating": 3,
+      "numberOfReviews": 3432
     }
 
   ],

@@ -383,6 +383,31 @@
       "effectivePrice": 20.5,
       "rating": 5,
       "numberOfReviews": 74
+    },
+      {"_comment": "_____________________________________16",
+      "title": "GripConnect",
+      "videoMp4FileName": "vid10.mp4",
+      "videoWebmFileName": "vid10.mp4",
+      "effectivePrice": 32987,
+      "altPrice": 90909,
+      "rating": 1,
+      "numberOfReviews": 4678
+    },
+       {
+     "title": "Metaluxe",
+     "imageFileName": "img6.jpg",
+      "effectivePrice": 38917642,
+      "altPrice": 111,
+      "rating": 4,
+      "numberOfReviews": 2
+    },
+      {
+     "title": "HandHub",
+     "imageFileName": "img5.jpg",
+      "effectivePrice": 78.99,
+       "altPrice": 90909,
+      "rating": 5,
+      "numberOfReviews": 4
     }
 
   ],

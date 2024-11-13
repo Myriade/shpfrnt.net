@@ -19,8 +19,8 @@
       "numberOfReviews": 0
     },
       {
-    "title": "PixelPlush shirt",
-      "imageFileName": "C0149.gif",
+    "title": "GripDial",
+      "imageFileName": "img2.jpg",
       "effectivePrice": 10,
       "altPrice": 14,
       "rating": 2,
@@ -69,13 +69,12 @@
       "numberOfReviews": 38
     },
     {
-      "title": "VibeScape",
-      "imageFileName": "3new.png",
-      "depthMapFileName": "3_depth.jpeg",
-      "effectivePrice": 5.5,
-      "altPrice": 0,
-      "rating": 0,
-      "numberOfReviews": 0
+    "title": "PixelPlush shirt",
+      "imageFileName": "C0149.gif",
+      "effectivePrice": 10,
+      "altPrice": 14,
+      "rating": 2,
+      "numberOfReviews": 11
     },
   { "_comment": "_____________________________________4",
 
@@ -378,7 +377,7 @@
       "altPrice": 0,
       "rating": 5,
       "numberOfReviews": 56900
-    }
+    },
 
   ],
   

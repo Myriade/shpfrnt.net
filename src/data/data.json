@@ -660,16 +660,6 @@
       "numberOfReviews": 11
     },
     {
-    
-      "title": "Echo Glass",
-      "imageFileName": "2new.png",
-      "depthMapFileName": "2_depth.jpeg",
-      "effectivePrice": 5.5,
-      "altPrice": 0,
-      "rating": 1,
-      "numberOfReviews": 0
-    },
-    {"_comment": "_____________________________________2",
       "title": "PixelGaze Pashmina",
       "videoMp4FileName": "01.mp4",
       "videoWebmFileName": "01.mp4",
@@ -677,7 +667,7 @@
       "rating": 3,
       "numberOfReviews": 74
     },
-    {
+    {"_comment": "_____________________________________2",
      "title": "iRoam Tracker",
       "imageFileName": "C0133.gif",
       "effectivePrice": 2,
@@ -693,7 +683,7 @@
       "rating": 4,
       "numberOfReviews": 40
     },
-     {"_comment": "_____________________________________3",
+     {
        "title": "IronScroll",
       "videoMp4FileName": "vid3.mp4",
       "videoWebmFileName": "vid3.mp4",
@@ -701,7 +691,7 @@
       "rating": 1,
       "numberOfReviews": 38
     },
-    {
+    {"_comment": "_____________________________________3",
     "title": "PixelPlush shirt",
       "imageFileName": "C0149.gif",
       "effectivePrice": 10,
@@ -717,7 +707,7 @@
       "rating": 2,
       "numberOfReviews": 94
     },
-{"_comment": "_____________________________________4",
+{
 
      "title": "iCycle Sweather",
       "imageFileName": "img6.jpg",
@@ -726,7 +716,7 @@
       "numberOfReviews": 74
     },
   
-    {
+    {"_comment": "_____________________________________4",
       "title": "VirtualVogue",
       "videoMp4FileName": "05.mp4",
       "videoWebmFileName": "05.mp4",
@@ -743,7 +733,7 @@
       "rating": 2,
       "numberOfReviews": 2
     },
-     { "_comment": "_____________________________________5",
+     { 
      "title": "HyperFit Hand",
      "videoMp4FileName": "vid2.mp4",
       "videoWebmFileName": "vid2.mp4",
@@ -752,7 +742,7 @@
       "rating": 5,
       "numberOfReviews": 234
     },
-    {
+    {"_comment": "_____________________________________5",
      "title": "OK Blanket",
      "videoMp4FileName": "vid9.mp4",
       "videoWebmFileName": "vid9.mp4",
@@ -769,7 +759,7 @@
       "rating": 5,
       "numberOfReviews": 890
     },
-  { "_comment": "_____________________________________7",
+  { 
      "title": "VirtualVogue",
      "videoMp4FileName": "vid10.mp4",
       "videoWebmFileName": "vid10.mp4",
@@ -778,7 +768,7 @@
       "rating": 1,
       "numberOfReviews": 300
     },
-    {
+    {"_comment": "_____________________________________6",
       "title": "VirtuView Cam",
       "imageFileName": "ai10.jpg",
       "effectivePrice": 30,
@@ -794,7 +784,7 @@
       "rating": 4,
       "numberOfReviews": 80
     },
-     { "_comment": "_____________________________________8",
+     {
      "title": "Quick Edge",
      "imageFileName": "main3.jpg",
       "effectivePrice": 3.5,
@@ -802,7 +792,7 @@
       "rating": 1,
       "numberOfReviews": 5
     },
-    {
+    {"_comment": "_____________________________________7",
      "title": "EFacade",
      "videoMp4FileName": "vid11.mp4",
       "videoWebmFileName": "vid11.mp4",
@@ -820,7 +810,7 @@
       "rating": 5,
       "numberOfReviews": 468280
     },
-      { "_comment": "_____________________________________9",
+      {
          "title": "E-Bloom Abajour",
      "imageFileName": "C0129.gif",
       "effectivePrice": 2789,
@@ -828,7 +818,7 @@
       "rating": 3,
       "numberOfReviews": 1
     },
-    {
+    {"_comment": "_____________________________________8",
       "title": "DreamDash Tool",
      "imageFileName": "main2.jpg",
       "effectivePrice": 55,
@@ -844,7 +834,7 @@
       "rating": 2,
       "numberOfReviews": 1
     },
-          { "_comment": "_____________________________________10",
+   {
      "title": "VoxTrek Decor",
      "videoMp4FileName": "vid12.mp4",
       "videoWebmFileName": "vid12.mp4",
@@ -853,7 +843,7 @@
       "rating": 5,
       "numberOfReviews": 345
     },
-    {
+    { "_comment": "_____________________________________9",
       "title": "VirtuMirror",
     "videoMp4FileName": "vid6.mp4",
       "videoWebmFileName": "vid6.mp4",
@@ -870,7 +860,7 @@
       "rating": 4,
       "numberOfReviews": 47
     },
-          { "_comment": "_____________________________________11",
+     {
      "title": "E-Bliss Cloth",
      "videoMp4FileName": "06.mp4",
       "videoWebmFileName": "06.mp4",
@@ -879,7 +869,7 @@
       "rating": 3,
       "numberOfReviews": 345
     },
-    {
+    {"_comment": "_____________________________________10",
       "title": "EchoWindow Film",
      "videoMp4FileName": "vid13.mp4",
       "videoWebmFileName": "vid13.mp4",
@@ -897,7 +887,7 @@
       "numberOfReviews": 47
     },
 
-          { "_comment": "_____________________________________12",
+     { 
      "title": "E-Life Assistant",
       "imageFileName": "ai11.jpg",
       "effectivePrice": 64,
@@ -905,7 +895,7 @@
       "rating": 4,
       "numberOfReviews": 32
     },
-    {
+    {"_comment": "_____________________________________11",
       "title": "WebScribe Service",
      "videoMp4FileName": "vid5.mp4",
       "videoWebmFileName": "vid5.mp4",
@@ -924,7 +914,7 @@
       "numberOfReviews": 47342
     },
 
-          { "_comment": "_____________________________________13",
+     { 
      "title": "CryoStream",
       "videoMp4FileName": "vid15.mp4",
       "videoWebmFileName": "vid15.mp4",
@@ -933,7 +923,7 @@
       "rating": 2,
       "numberOfReviews": 56
     },
-    {
+    {"_comment": "_____________________________________12",
       "title": "FlexiDock",
      "imageFileName": "ai5.jpg",
        "effectivePrice": 453,
@@ -949,7 +939,7 @@
       "rating": 1,
       "numberOfReviews": 231
     },
-     { "_comment": "_____________________________________14",
+     {
      "title": "OK Blanket",
      "videoMp4FileName": "vid7.mp4",
       "videoWebmFileName": "vid7.mp4",
@@ -958,7 +948,7 @@
       "rating": 5,
       "numberOfReviews": 56900
     },
-    {
+    {"_comment": "_____________________________________13",
       "title": "GripConnect",
   "videoMp4FileName": "vid16.mp4",
       "videoWebmFileName": "vid16.mp4",
@@ -975,7 +965,7 @@
       "rating": 0,
       "numberOfReviews": 1
     },
-    {"_comment": "_____________________________________15",
+    {
       "title": "VirtuCast Cardboard",
       "imageFileName": "img3.jpg",
       "effectivePrice": 9.5,
@@ -983,7 +973,7 @@
       "rating": 2,
       "numberOfReviews": 0
     },
-       {
+       {"_comment": "_____________________________________14",
      "title": "OK Blanket",
      "videoMp4FileName": "vid8.mp4",
       "videoWebmFileName": "vid8.mp4",
@@ -999,7 +989,7 @@
       "rating": 5,
       "numberOfReviews": 74
     },
-      {"_comment": "_____________________________________16",
+      {
       "title": "BuiltBolt Frame",
       "videoMp4FileName": "vid19.mp4",
       "videoWebmFileName": "vid19.mp4",
@@ -1008,7 +998,7 @@
       "rating": 1,
       "numberOfReviews": 4678
     },
-       {
+      {"_comment": "_____________________________________15",
      "title": "Metaluxe",
      "imageFileName": "img8.jpg",
       "effectivePrice": 38917642,
@@ -1024,7 +1014,7 @@
       "rating": 5,
       "numberOfReviews": 4
     },
-     {"_comment": "_____________________________________17",
+     {
       "title": "GlassHorizon",
       "videoMp4FileName": "vid17.mp4",
       "videoWebmFileName": "vid17.mp4",
@@ -1033,7 +1023,7 @@
       "rating": 5,
       "numberOfReviews": 8
     },
-       {
+       {"_comment": "_____________________________________16",
      "title": "HangerMate",
      "imageFileName":"DSC01726.jpg",
       "effectivePrice": 332,
@@ -1049,7 +1039,7 @@
       "rating": 3,
       "numberOfReviews": 2356
     },
-     {"_comment": "_____________________________________18",
+     {
       "title": "Set-Sun Neckwarmer",
       "videoMp4FileName": "08.mp4",
       "videoWebmFileName": "08.mp4",
@@ -1058,7 +1048,7 @@
       "rating": 2,
       "numberOfReviews": 45
     },
-       {
+       {"_comment": "_____________________________________17",
      "title": "Kosmic Kover",
      "imageFileName": "C0144.gif",
       "effectivePrice": 342,
@@ -1075,7 +1065,7 @@
       "rating": 2,
       "numberOfReviews": 2
     },
-     {"_comment": "_____________________________________19",
+     {
       
      "title": "DreamWeave Stole",
       "videoMp4FileName": "vid20.mp4",
@@ -1085,7 +1075,7 @@
       "rating": 5,
       "numberOfReviews": 4
     },
-     {
+     {"_comment": "_____________________________________18",
       "title": "GripGlove",
        "imageFileName": "img4.jpg",
       "effectivePrice": 390,
@@ -1102,7 +1092,7 @@
       "rating": 3,
       "numberOfReviews": 3432
     },
-      {"_comment": "_____________________________________20",
+      {
       
      "title": "ClutchCall",
     "imageFileName": "ai8.jpg", 
@@ -1111,7 +1101,7 @@
       "rating": 5,
       "numberOfReviews": 49
     },
-     {
+     {"_comment": "_____________________________________19",
       "title": "ARShadeHanger",
        "imageFileName": "C0140.gif",
       "effectivePrice": 728,
@@ -1128,8 +1118,7 @@
       "rating": 3,
       "numberOfReviews": 3432
     },
-    {"_comment": "_____________________________________21",
-      
+    { 
       "title": "Network Hub Shop",
       "videoMp4FileName": "vid22.mp4",
       "videoWebmFileName": "vid22.mp4",
@@ -1138,7 +1127,7 @@
       "rating": 1,
       "numberOfReviews": 5
     },
-     {
+     {"_comment": "_____________________________________20",
      "title": "GripNGo",
      "imageFileName": "main5.jpg", 
       "effectivePrice": 2,
@@ -1154,8 +1143,7 @@
       "rating": 4,
       "numberOfReviews": 5
     },
-      {"_comment": "_____________________________________22",
-      
+      {      
       "title": "BrightIron",
      "imageFileName": "ai2.jpg", 
       "effectivePrice": 10,
@@ -1163,7 +1151,7 @@
       "rating": 4,
       "numberOfReviews": 3789
     },
-     {
+     {"_comment": "_____________________________________21",
      "title": "GlideRebus Tee",
       "videoMp4FileName": "11.mp4",
       "videoWebmFileName": "11.mp4",
@@ -1180,8 +1168,7 @@
       "rating": 1,
       "numberOfReviews": 2
     },
-      {"_comment": "_____________________________________23",
-      
+      {
       "title": "GleamCore Stand",
      "imageFileName": "img7.jpg", 
       "effectivePrice": 39,
@@ -1189,7 +1176,7 @@
       "rating": 2,
       "numberOfReviews": 39
     },
-     {
+     {"_comment": "_____________________________________22",
      "title": "ClutchSynce",
      "imageFileName": "DSC01703.jpg", 
       "effectivePrice": 789,
@@ -1206,8 +1193,7 @@
       "rating": 5,
       "numberOfReviews": 1
     },
-    {"_comment": "_____________________________________24",
-      
+    {
       "title": "ClarityFrame",
     "videoMp4FileName": "vid24.mp4",
       "videoWebmFileName": "vid24.mp4",
@@ -1216,7 +1202,7 @@
       "rating": 5,
       "numberOfReviews": 147
     },
-     {
+     {"_comment": "_____________________________________23",
      "title": "PopUP E",
      "imageFileName": "ai1.jpg", 
       "effectivePrice": 2.2,
@@ -1232,7 +1218,7 @@
       "rating": 0,
       "numberOfReviews": 345
     },
-     {"_comment": "_____________________________________25 LAST",
+     {
       
       "title": "Brandify",
       "imageFileName": "img11.jpg", 
@@ -1241,7 +1227,7 @@
       "rating": 2,
       "numberOfReviews": 1
     },
-     {
+     {"_comment": "_____________________________________24",
      "title": "OpenClear",
        "videoMp4FileName": "vid25.mp4",
       "videoWebmFileName": "vid25.mp4",
@@ -1257,6 +1243,626 @@
       "altPrice":2,
       "rating": 4,
       "numberOfReviews": 4
+    },
+    {
+      "title": "Set-Sun Neckwarmer",
+      "videoMp4FileName": "08.mp4",
+      "videoWebmFileName": "08.mp4",
+      "effectivePrice": 1,
+      "altPrice": 9,
+      "rating": 2,
+      "numberOfReviews": 45
+    },
+{"_comment": "_____________________________________1",
+
+      "title": "DreamDash Tee",
+      "imageFileName": "C0146.gif",
+      "effectivePrice": 456,
+      "altPrice": 7,
+      "rating": 1,
+      "numberOfReviews": 80
+    },
+      {
+    "title": "GripDial",
+      "imageFileName": "img2.jpg",
+      "effectivePrice": 10,
+      "altPrice": 14,
+      "rating": 2,
+      "numberOfReviews": 11
+    },
+    {
+      "title": "PixelGaze Pashmina",
+      "videoMp4FileName": "01.mp4",
+      "videoWebmFileName": "01.mp4",
+      "effectivePrice": 20.5,
+      "rating": 3,
+      "numberOfReviews": 74
+    },
+    {"_comment": "_____________________________________2",
+     "title": "iRoam Tracker",
+      "imageFileName": "C0133.gif",
+      "effectivePrice": 2,
+      "altPrice": 3,
+      "rating": 4,
+      "numberOfReviews": 40
+    },
+    { 
+      "title": "QuantumQuill",
+      "imageFileName": "ai9.jpg",
+      "effectivePrice": 2,
+      "altPrice": 3,
+      "rating": 4,
+      "numberOfReviews": 40
+    },
+     {
+       "title": "IronScroll",
+      "videoMp4FileName": "vid3.mp4",
+      "videoWebmFileName": "vid3.mp4",
+      "effectivePrice": 86.9999,
+      "rating": 1,
+      "numberOfReviews": 38
+    },
+    {"_comment": "_____________________________________3",
+    "title": "PixelPlush shirt",
+      "imageFileName": "C0149.gif",
+      "effectivePrice": 10,
+      "altPrice": 14,
+      "rating": 2,
+      "numberOfReviews": 11
+    },
+  { 
+      "title": "SkySurfer",
+      "videoMp4FileName": "vid1.mp4",
+      "videoWebmFileName": "vid1.mp4",
+      "effectivePrice": 78.6,
+      "rating": 2,
+      "numberOfReviews": 94
+    },
+{
+
+     "title": "iCycle Sweather",
+      "imageFileName": "img6.jpg",
+      "effectivePrice": 20.5,
+      "rating": 5,
+      "numberOfReviews": 74
+    },
+  
+    {"_comment": "_____________________________________4",
+      "title": "VirtualVogue",
+      "videoMp4FileName": "05.mp4",
+      "videoWebmFileName": "05.mp4",
+      "effectivePrice": 438.29,
+      "altPrice": 7,
+      "rating": 1,
+      "numberOfReviews": 30
+    },
+     {
+      "title": "CyberCanvas Frame",
+      "imageFileName": "ai6.jpg",
+      "effectivePrice": 132,
+      "altPrice": 78,
+      "rating": 2,
+      "numberOfReviews": 2
+    },
+     { 
+     "title": "HyperFit Hand",
+     "videoMp4FileName": "vid2.mp4",
+      "videoWebmFileName": "vid2.mp4",
+      "effectivePrice": 2.5,
+      "altPrice": 99.99,
+      "rating": 5,
+      "numberOfReviews": 234
+    },
+    {"_comment": "_____________________________________5",
+     "title": "OK Blanket",
+     "videoMp4FileName": "vid9.mp4",
+      "videoWebmFileName": "vid9.mp4",
+      "effectivePrice": 0,
+      "altPrice": 0,
+      "rating": 5,
+      "numberOfReviews": 56900
+    },
+     {
+      "title": "E-PetPal Toy",
+      "imageFileName": "main4.jpg",
+      "effectivePrice": 28.32,
+      "altPrice": 23.28,
+      "rating": 5,
+      "numberOfReviews": 890
+    },
+  { 
+     "title": "VirtualVogue",
+     "videoMp4FileName": "vid10.mp4",
+      "videoWebmFileName": "vid10.mp4",
+      "effectivePrice": 234,
+      "altPrice": 23402,
+      "rating": 1,
+      "numberOfReviews": 300
+    },
+    {"_comment": "_____________________________________6",
+      "title": "VirtuView Cam",
+      "imageFileName": "ai10.jpg",
+      "effectivePrice": 30,
+      "altPrice": 30,
+      "rating": 5,
+      "numberOfReviews": 30
+    },
+     {
+      "title": "EcoGlow Charger",
+      "imageFileName": "C0127.gif",
+      "effectivePrice": 3,
+      "altPrice": 2,
+      "rating": 4,
+      "numberOfReviews": 80
+    },
+     {
+     "title": "Quick Edge",
+     "imageFileName": "main3.jpg",
+      "effectivePrice": 3.5,
+      "altPrice": 21,
+      "rating": 1,
+      "numberOfReviews": 5
+    },
+    {"_comment": "_____________________________________7",
+     "title": "EFacade",
+     "videoMp4FileName": "vid11.mp4",
+      "videoWebmFileName": "vid11.mp4",
+      "effectivePrice": 34,
+      "altPrice": 213,
+      "rating": 2,
+      "numberOfReviews": 20
+    },
+     {
+      "title": "GlideTrack Deck",
+     "videoMp4FileName": "vid4.mp4",
+      "videoWebmFileName": "vid4.mp4",
+      "effectivePrice": 3000,
+      "altPrice": 22.76,
+      "rating": 5,
+      "numberOfReviews": 468280
+    },
+      {
+         "title": "E-Bloom Abajour",
+     "imageFileName": "C0129.gif",
+      "effectivePrice": 2789,
+      "altPrice": 21389,
+      "rating": 3,
+      "numberOfReviews": 1
+    },
+    {"_comment": "_____________________________________8",
+      "title": "DreamDash Tool",
+     "imageFileName": "main2.jpg",
+      "effectivePrice": 55,
+      "altPrice": 340,
+      "rating": 2,
+      "numberOfReviews": 4321
+    },
+     {
+      "title": "Connectrix",
+     "imageFileName": "ai3.jpg",
+      "effectivePrice": 100,
+      "altPrice": 6.999,
+      "rating": 2,
+      "numberOfReviews": 1
+    },
+   {
+     "title": "VoxTrek Decor",
+     "videoMp4FileName": "vid12.mp4",
+      "videoWebmFileName": "vid12.mp4",
+      "effectivePrice": 47,
+      "altPrice": 11,
+      "rating": 5,
+      "numberOfReviews": 345
+    },
+    { "_comment": "_____________________________________9",
+      "title": "VirtuMirror",
+    "videoMp4FileName": "vid6.mp4",
+      "videoWebmFileName": "vid6.mp4",
+        "effectivePrice": 0.5,
+      "altPrice": 42540,
+      "rating": 3,
+      "numberOfReviews": 2
+    },
+     {
+      "title": "CyberThrow",
+      "imageFileName": "ai4.jpg",
+      "effectivePrice": 33.90,
+      "altPrice": 1,
+      "rating": 4,
+      "numberOfReviews": 47
+    },
+     {
+     "title": "E-Bliss Cloth",
+     "videoMp4FileName": "06.mp4",
+      "videoWebmFileName": "06.mp4",
+      "effectivePrice": 47,
+      "altPrice": 11,
+      "rating": 3,
+      "numberOfReviews": 345
+    },
+    {"_comment": "_____________________________________10",
+      "title": "EchoWindow Film",
+     "videoMp4FileName": "vid13.mp4",
+      "videoWebmFileName": "vid13.mp4",
+       "effectivePrice": 7,
+      "altPrice": 2,
+      "rating": 0,
+      "numberOfReviews": 0
+    },
+     {
+      "title": "Long E-Luxe Linens",
+      "imageFileName": "DSC01734.jpg",
+      "effectivePrice":91,
+      "altPrice": 21,
+      "rating": 3,
+      "numberOfReviews": 47
+    },
+
+     { 
+     "title": "E-Life Assistant",
+      "imageFileName": "ai11.jpg",
+      "effectivePrice": 64,
+      "altPrice": 13,
+      "rating": 4,
+      "numberOfReviews": 32
+    },
+    {"_comment": "_____________________________________11",
+      "title": "WebScribe Service",
+     "videoMp4FileName": "vid5.mp4",
+      "videoWebmFileName": "vid5.mp4",
+       "effectivePrice": 32,
+      "altPrice":455,
+      "rating": 1,
+      "numberOfReviews": 4532
+    },
+     {
+      "title": "Fitness Ribbon",
+     "videoMp4FileName": "vid14.mp4",
+      "videoWebmFileName": "vid14.mp4",
+      "effectivePrice":432,
+      "altPrice": 22345,
+      "rating": 6,
+      "numberOfReviews": 47342
+    },
+
+     { 
+     "title": "CryoStream",
+      "videoMp4FileName": "vid15.mp4",
+      "videoWebmFileName": "vid15.mp4",
+      "effectivePrice": 43,
+      "altPrice": 3432,
+      "rating": 2,
+      "numberOfReviews": 56
+    },
+    {"_comment": "_____________________________________12",
+      "title": "FlexiDock",
+     "imageFileName": "ai5.jpg",
+       "effectivePrice": 453,
+      "altPrice":2,
+      "rating": 0,
+      "numberOfReviews": 42
+    },
+     {
+      "title": "ScarfE",
+  "imageFileName":  "C0116.gif",
+      "effectivePrice":2,
+      "altPrice":25,
+      "rating": 1,
+      "numberOfReviews": 231
+    },
+     {
+     "title": "OK Blanket",
+     "videoMp4FileName": "vid7.mp4",
+      "videoWebmFileName": "vid7.mp4",
+      "effectivePrice": 2,
+      "altPrice": 3289,
+      "rating": 5,
+      "numberOfReviews": 56900
+    },
+    {"_comment": "_____________________________________13",
+      "title": "GripConnect",
+  "videoMp4FileName": "vid16.mp4",
+      "videoWebmFileName": "vid16.mp4",
+       "effectivePrice": 321,
+      "altPrice":432,
+      "rating": 1,
+      "numberOfReviews": 342
+    },
+     {
+      "title": "SmartStructure",
+     "imageFileName": "ai7.jpg",
+      "effectivePrice":543,
+      "altPrice":23425,
+      "rating": 0,
+      "numberOfReviews": 1
+    },
+    {
+      "title": "VirtuCast Cardboard",
+      "imageFileName": "img3.jpg",
+      "effectivePrice": 9.5,
+      "altPrice": 0,
+      "rating": 2,
+      "numberOfReviews": 0
+    },
+       {"_comment": "_____________________________________14",
+     "title": "OK Blanket",
+     "videoMp4FileName": "vid8.mp4",
+      "videoWebmFileName": "vid8.mp4",
+      "effectivePrice": 0,
+      "altPrice": 0,
+      "rating": 5,
+      "numberOfReviews": 56900
+    },
+      {
+     "title": "iCycle Sweather",
+      "imageFileName": "captcha.gif",
+      "effectivePrice": 20.5,
+      "rating": 5,
+      "numberOfReviews": 74
+    },
+      {
+      "title": "BuiltBolt Frame",
+      "videoMp4FileName": "vid19.mp4",
+      "videoWebmFileName": "vid19.mp4",
+      "effectivePrice": 32987,
+      "altPrice": 90909,
+      "rating": 1,
+      "numberOfReviews": 4678
+    },
+      {"_comment": "_____________________________________15",
+     "title": "Metaluxe",
+     "imageFileName": "img8.jpg",
+      "effectivePrice": 38917642,
+      "altPrice": 111,
+      "rating": 4,
+      "numberOfReviews": 2
+    },
+      {
+     "title": "HandHub",
+     "imageFileName": "img5.jpg",
+      "effectivePrice": 78.99,
+       "altPrice": 90909,
+      "rating": 5,
+      "numberOfReviews": 4
+    },
+     {
+      "title": "GlassHorizon",
+      "videoMp4FileName": "vid17.mp4",
+      "videoWebmFileName": "vid17.mp4",
+      "effectivePrice": 3,
+      "altPrice": 89999999,
+      "rating": 5,
+      "numberOfReviews": 8
+    },
+       {"_comment": "_____________________________________16",
+     "title": "HangerMate",
+     "imageFileName":"DSC01726.jpg",
+      "effectivePrice": 332,
+      "altPrice": 1,
+      "rating": 1,
+      "numberOfReviews": 3
+    },
+      {
+     "title": "Clothify",
+     "imageFileName": "C0123.gif",
+      "effectivePrice": 3.3,
+       "altPrice": 70,
+      "rating": 3,
+      "numberOfReviews": 2356
+    },
+     {
+      "title": "Set-Sun Neckwarmer",
+      "videoMp4FileName": "08.mp4",
+      "videoWebmFileName": "08.mp4",
+      "effectivePrice": 1,
+      "altPrice": 9,
+      "rating": 2,
+      "numberOfReviews": 45
+    },
+       {"_comment": "_____________________________________17",
+     "title": "Kosmic Kover",
+     "imageFileName": "C0144.gif",
+      "effectivePrice": 342,
+      "altPrice": 22,
+      "rating": 5,
+      "numberOfReviews": 32324
+    },
+      {
+     "title": "PureSight",
+    "videoMp4FileName": "vi18.mp4",
+      "videoWebmFileName": "vid18.mp4",
+      "effectivePrice": 3,
+       "altPrice": 7000,
+      "rating": 2,
+      "numberOfReviews": 2
+    },
+     {
+      
+     "title": "DreamWeave Stole",
+      "videoMp4FileName": "vid20.mp4",
+      "videoWebmFileName": "vid20.mp4",
+      "effectivePrice": 34,
+      "altPrice": 1,
+      "rating": 5,
+      "numberOfReviews": 4
+    },
+     {"_comment": "_____________________________________18",
+      "title": "GripGlove",
+       "imageFileName": "img4.jpg",
+      "effectivePrice": 390,
+      "altPrice": 2222222222,
+      "rating": 1,
+      "numberOfReviews": 78
+    },
+      {
+     "title": "HangerFlex",
+    "videoMp4FileName": "vi21.mp4",
+      "videoWebmFileName": "vid21.mp4",
+      "effectivePrice": 3.4,
+       "altPrice": 0.1,
+      "rating": 3,
+      "numberOfReviews": 3432
+    },
+      {
+      
+     "title": "ClutchCall",
+    "imageFileName": "ai8.jpg", 
+      "effectivePrice": 4353,
+      "altPrice": 53,
+      "rating": 5,
+      "numberOfReviews": 49
+    },
+     {"_comment": "_____________________________________19",
+      "title": "ARShadeHanger",
+       "imageFileName": "C0140.gif",
+      "effectivePrice": 728,
+      "altPrice": 9,
+      "rating": 0,
+      "numberOfReviews": 5
+    },
+      {
+     "title": "Panoramic SkyVista",
+    "videoMp4FileName": "02.mp4",
+      "videoWebmFileName": "02.mp4",
+      "effectivePrice": 3.4,
+       "altPrice": 0.1,
+      "rating": 3,
+      "numberOfReviews": 3432
+    },
+    { 
+      "title": "Network Hub Shop",
+      "videoMp4FileName": "vid22.mp4",
+      "videoWebmFileName": "vid22.mp4",
+      "effectivePrice": 728,
+      "altPrice": 9,
+      "rating": 1,
+      "numberOfReviews": 5
+    },
+     {"_comment": "_____________________________________20",
+     "title": "GripNGo",
+     "imageFileName": "main5.jpg", 
+      "effectivePrice": 2,
+      "altPrice": 1578,
+      "rating": 2,
+      "numberOfReviews": 4789
+    },
+     {
+      "title": "Snap&Hang",
+      "imageFileName": "C0137.gif", 
+      "effectivePrice": 8679,
+      "altPrice": 2345678,
+      "rating": 4,
+      "numberOfReviews": 5
+    },
+      {      
+      "title": "BrightIron",
+     "imageFileName": "ai2.jpg", 
+      "effectivePrice": 10,
+      "altPrice": 10,
+      "rating": 4,
+      "numberOfReviews": 3789
+    },
+     {"_comment": "_____________________________________21",
+     "title": "GlideRebus Tee",
+      "videoMp4FileName": "11.mp4",
+      "videoWebmFileName": "11.mp4",
+      "effectivePrice": 123,
+      "altPrice": 456,
+      "rating": 5,
+      "numberOfReviews":0.5
+    },
+     {
+      "title": "Snap&Hang",
+      "imageFileName": "main1.jpg", 
+      "effectivePrice": 4,
+      "altPrice": 2,
+      "rating": 1,
+      "numberOfReviews": 2
+    },
+      {
+      "title": "GleamCore Stand",
+     "imageFileName": "img7.jpg", 
+      "effectivePrice": 39,
+      "altPrice": 0.7,
+      "rating": 2,
+      "numberOfReviews": 39
+    },
+     {"_comment": "_____________________________________22",
+     "title": "ClutchSynce",
+     "imageFileName": "DSC01703.jpg", 
+      "effectivePrice": 789,
+      "altPrice": 1.0,
+      "rating": 1,
+      "numberOfReviews":3
+    },
+     {
+      "title": "PureSight",
+      "videoMp4FileName": "vid23.mp4",
+      "videoWebmFileName": "vid23.mp4",
+      "effectivePrice": 26,
+      "altPrice": 19,
+      "rating": 5,
+      "numberOfReviews": 1
+    },
+    {
+      "title": "ClarityFrame",
+    "videoMp4FileName": "vid24.mp4",
+      "videoWebmFileName": "vid24.mp4",
+      "effectivePrice": 247,
+      "altPrice": 7.9,
+      "rating": 5,
+      "numberOfReviews": 147
+    },
+     {"_comment": "_____________________________________23",
+     "title": "PopUP E",
+     "imageFileName": "ai1.jpg", 
+      "effectivePrice": 2.2,
+      "altPrice": 356,
+      "rating": 5,
+      "numberOfReviews":37689
+    },
+     {
+      "title": "TouchCall",
+     "imageFileName": "img9.jpg", 
+      "effectivePrice": 464,
+      "altPrice":834,
+      "rating": 0,
+      "numberOfReviews": 345
+    },
+     {
+      
+      "title": "Brandify",
+      "imageFileName": "img11.jpg", 
+      "effectivePrice": 124,
+      "altPrice": 2,
+      "rating": 2,
+      "numberOfReviews": 1
+    },
+     {"_comment": "_____________________________________24",
+     "title": "OpenClear",
+       "videoMp4FileName": "vid25.mp4",
+      "videoWebmFileName": "vid25.mp4",
+      "effectivePrice":79,
+      "altPrice": 12,
+      "rating": 1,
+      "numberOfReviews":45
+    },
+     {
+      "title": "HoldMate",
+      "imageFileName": "img10.jpg", 
+      "effectivePrice": 78,
+      "altPrice":2,
+      "rating": 4,
+      "numberOfReviews": 4
+    },
+    {
+      "title": "Set-Sun Neckwarmer",
+      "videoMp4FileName": "08.mp4",
+      "videoWebmFileName": "08.mp4",
+      "effectivePrice": 1,
+      "altPrice": 9,
+      "rating": 2,
+      "numberOfReviews": 45
     },
     {"_comment": "_____________________________________1",
 
@@ -1276,16 +1882,6 @@
       "numberOfReviews": 11
     },
     {
-    
-      "title": "Echo Glass",
-      "imageFileName": "2new.png",
-      "depthMapFileName": "2_depth.jpeg",
-      "effectivePrice": 5.5,
-      "altPrice": 0,
-      "rating": 1,
-      "numberOfReviews": 0
-    },
-    {"_comment": "_____________________________________2",
       "title": "PixelGaze Pashmina",
       "videoMp4FileName": "01.mp4",
       "videoWebmFileName": "01.mp4",
@@ -1293,7 +1889,7 @@
       "rating": 3,
       "numberOfReviews": 74
     },
-    {
+    {"_comment": "_____________________________________2",
      "title": "iRoam Tracker",
       "imageFileName": "C0133.gif",
       "effectivePrice": 2,
@@ -1309,7 +1905,7 @@
       "rating": 4,
       "numberOfReviews": 40
     },
-     {"_comment": "_____________________________________3",
+     {
        "title": "IronScroll",
       "videoMp4FileName": "vid3.mp4",
       "videoWebmFileName": "vid3.mp4",
@@ -1317,7 +1913,7 @@
       "rating": 1,
       "numberOfReviews": 38
     },
-    {
+    {"_comment": "_____________________________________3",
     "title": "PixelPlush shirt",
       "imageFileName": "C0149.gif",
       "effectivePrice": 10,
@@ -1333,7 +1929,7 @@
       "rating": 2,
       "numberOfReviews": 94
     },
-{"_comment": "_____________________________________4",
+{
 
      "title": "iCycle Sweather",
       "imageFileName": "img6.jpg",
@@ -1342,7 +1938,7 @@
       "numberOfReviews": 74
     },
   
-    {
+    {"_comment": "_____________________________________4",
       "title": "VirtualVogue",
       "videoMp4FileName": "05.mp4",
       "videoWebmFileName": "05.mp4",
@@ -1359,7 +1955,7 @@
       "rating": 2,
       "numberOfReviews": 2
     },
-     { "_comment": "_____________________________________5",
+     { 
      "title": "HyperFit Hand",
      "videoMp4FileName": "vid2.mp4",
       "videoWebmFileName": "vid2.mp4",
@@ -1368,7 +1964,7 @@
       "rating": 5,
       "numberOfReviews": 234
     },
-    {
+    {"_comment": "_____________________________________5",
      "title": "OK Blanket",
      "videoMp4FileName": "vid9.mp4",
       "videoWebmFileName": "vid9.mp4",
@@ -1385,7 +1981,7 @@
       "rating": 5,
       "numberOfReviews": 890
     },
-  { "_comment": "_____________________________________7",
+  { 
      "title": "VirtualVogue",
      "videoMp4FileName": "vid10.mp4",
       "videoWebmFileName": "vid10.mp4",
@@ -1394,7 +1990,7 @@
       "rating": 1,
       "numberOfReviews": 300
     },
-    {
+    {"_comment": "_____________________________________6",
       "title": "VirtuView Cam",
       "imageFileName": "ai10.jpg",
       "effectivePrice": 30,
@@ -1410,7 +2006,7 @@
       "rating": 4,
       "numberOfReviews": 80
     },
-     { "_comment": "_____________________________________8",
+     {
      "title": "Quick Edge",
      "imageFileName": "main3.jpg",
       "effectivePrice": 3.5,
@@ -1418,7 +2014,7 @@
       "rating": 1,
       "numberOfReviews": 5
     },
-    {
+    {"_comment": "_____________________________________7",
      "title": "EFacade",
      "videoMp4FileName": "vid11.mp4",
       "videoWebmFileName": "vid11.mp4",
@@ -1436,7 +2032,7 @@
       "rating": 5,
       "numberOfReviews": 468280
     },
-      { "_comment": "_____________________________________9",
+      {
          "title": "E-Bloom Abajour",
      "imageFileName": "C0129.gif",
       "effectivePrice": 2789,
@@ -1444,7 +2040,7 @@
       "rating": 3,
       "numberOfReviews": 1
     },
-    {
+    {"_comment": "_____________________________________8",
       "title": "DreamDash Tool",
      "imageFileName": "main2.jpg",
       "effectivePrice": 55,
@@ -1460,7 +2056,7 @@
       "rating": 2,
       "numberOfReviews": 1
     },
-          { "_comment": "_____________________________________10",
+   {
      "title": "VoxTrek Decor",
      "videoMp4FileName": "vid12.mp4",
       "videoWebmFileName": "vid12.mp4",
@@ -1469,7 +2065,7 @@
       "rating": 5,
       "numberOfReviews": 345
     },
-    {
+    { "_comment": "_____________________________________9",
       "title": "VirtuMirror",
     "videoMp4FileName": "vid6.mp4",
       "videoWebmFileName": "vid6.mp4",
@@ -1486,7 +2082,7 @@
       "rating": 4,
       "numberOfReviews": 47
     },
-          { "_comment": "_____________________________________11",
+     {
      "title": "E-Bliss Cloth",
      "videoMp4FileName": "06.mp4",
       "videoWebmFileName": "06.mp4",
@@ -1495,7 +2091,7 @@
       "rating": 3,
       "numberOfReviews": 345
     },
-    {
+    {"_comment": "_____________________________________10",
       "title": "EchoWindow Film",
      "videoMp4FileName": "vid13.mp4",
       "videoWebmFileName": "vid13.mp4",
@@ -1513,7 +2109,7 @@
       "numberOfReviews": 47
     },
 
-          { "_comment": "_____________________________________12",
+     { 
      "title": "E-Life Assistant",
       "imageFileName": "ai11.jpg",
       "effectivePrice": 64,
@@ -1521,7 +2117,7 @@
       "rating": 4,
       "numberOfReviews": 32
     },
-    {
+    {"_comment": "_____________________________________11",
       "title": "WebScribe Service",
      "videoMp4FileName": "vid5.mp4",
       "videoWebmFileName": "vid5.mp4",
@@ -1540,7 +2136,7 @@
       "numberOfReviews": 47342
     },
 
-          { "_comment": "_____________________________________13",
+     { 
      "title": "CryoStream",
       "videoMp4FileName": "vid15.mp4",
       "videoWebmFileName": "vid15.mp4",
@@ -1549,7 +2145,7 @@
       "rating": 2,
       "numberOfReviews": 56
     },
-    {
+    {"_comment": "_____________________________________12",
       "title": "FlexiDock",
      "imageFileName": "ai5.jpg",
        "effectivePrice": 453,
@@ -1565,7 +2161,7 @@
       "rating": 1,
       "numberOfReviews": 231
     },
-     { "_comment": "_____________________________________14",
+     {
      "title": "OK Blanket",
      "videoMp4FileName": "vid7.mp4",
       "videoWebmFileName": "vid7.mp4",
@@ -1574,7 +2170,7 @@
       "rating": 5,
       "numberOfReviews": 56900
     },
-    {
+    {"_comment": "_____________________________________13",
       "title": "GripConnect",
   "videoMp4FileName": "vid16.mp4",
       "videoWebmFileName": "vid16.mp4",
@@ -1591,7 +2187,7 @@
       "rating": 0,
       "numberOfReviews": 1
     },
-    {"_comment": "_____________________________________15",
+    {
       "title": "VirtuCast Cardboard",
       "imageFileName": "img3.jpg",
       "effectivePrice": 9.5,
@@ -1599,7 +2195,7 @@
       "rating": 2,
       "numberOfReviews": 0
     },
-       {
+       {"_comment": "_____________________________________14",
      "title": "OK Blanket",
      "videoMp4FileName": "vid8.mp4",
       "videoWebmFileName": "vid8.mp4",
@@ -1615,7 +2211,7 @@
       "rating": 5,
       "numberOfReviews": 74
     },
-      {"_comment": "_____________________________________16",
+      {
       "title": "BuiltBolt Frame",
       "videoMp4FileName": "vid19.mp4",
       "videoWebmFileName": "vid19.mp4",
@@ -1624,7 +2220,7 @@
       "rating": 1,
       "numberOfReviews": 4678
     },
-       {
+      {"_comment": "_____________________________________15",
      "title": "Metaluxe",
      "imageFileName": "img8.jpg",
       "effectivePrice": 38917642,
@@ -1640,7 +2236,7 @@
       "rating": 5,
       "numberOfReviews": 4
     },
-     {"_comment": "_____________________________________17",
+     {
       "title": "GlassHorizon",
       "videoMp4FileName": "vid17.mp4",
       "videoWebmFileName": "vid17.mp4",
@@ -1649,7 +2245,7 @@
       "rating": 5,
       "numberOfReviews": 8
     },
-       {
+       {"_comment": "_____________________________________16",
      "title": "HangerMate",
      "imageFileName":"DSC01726.jpg",
       "effectivePrice": 332,
@@ -1665,7 +2261,7 @@
       "rating": 3,
       "numberOfReviews": 2356
     },
-     {"_comment": "_____________________________________18",
+     {
       "title": "Set-Sun Neckwarmer",
       "videoMp4FileName": "08.mp4",
       "videoWebmFileName": "08.mp4",
@@ -1674,7 +2270,7 @@
       "rating": 2,
       "numberOfReviews": 45
     },
-       {
+       {"_comment": "_____________________________________17",
      "title": "Kosmic Kover",
      "imageFileName": "C0144.gif",
       "effectivePrice": 342,
@@ -1691,7 +2287,7 @@
       "rating": 2,
       "numberOfReviews": 2
     },
-     {"_comment": "_____________________________________19",
+     {
       
      "title": "DreamWeave Stole",
       "videoMp4FileName": "vid20.mp4",
@@ -1701,7 +2297,7 @@
       "rating": 5,
       "numberOfReviews": 4
     },
-     {
+     {"_comment": "_____________________________________18",
       "title": "GripGlove",
        "imageFileName": "img4.jpg",
       "effectivePrice": 390,
@@ -1718,7 +2314,7 @@
       "rating": 3,
       "numberOfReviews": 3432
     },
-      {"_comment": "_____________________________________20",
+      {
       
      "title": "ClutchCall",
     "imageFileName": "ai8.jpg", 
@@ -1727,7 +2323,7 @@
       "rating": 5,
       "numberOfReviews": 49
     },
-     {
+     {"_comment": "_____________________________________19",
       "title": "ARShadeHanger",
        "imageFileName": "C0140.gif",
       "effectivePrice": 728,
@@ -1744,8 +2340,7 @@
       "rating": 3,
       "numberOfReviews": 3432
     },
-    {"_comment": "_____________________________________21",
-      
+    { 
       "title": "Network Hub Shop",
       "videoMp4FileName": "vid22.mp4",
       "videoWebmFileName": "vid22.mp4",
@@ -1754,7 +2349,7 @@
       "rating": 1,
       "numberOfReviews": 5
     },
-     {
+     {"_comment": "_____________________________________20",
      "title": "GripNGo",
      "imageFileName": "main5.jpg", 
       "effectivePrice": 2,
@@ -1770,8 +2365,7 @@
       "rating": 4,
       "numberOfReviews": 5
     },
-      {"_comment": "_____________________________________22",
-      
+      {      
       "title": "BrightIron",
      "imageFileName": "ai2.jpg", 
       "effectivePrice": 10,
@@ -1779,7 +2373,7 @@
       "rating": 4,
       "numberOfReviews": 3789
     },
-     {
+     {"_comment": "_____________________________________21",
      "title": "GlideRebus Tee",
       "videoMp4FileName": "11.mp4",
       "videoWebmFileName": "11.mp4",
@@ -1796,8 +2390,7 @@
       "rating": 1,
       "numberOfReviews": 2
     },
-      {"_comment": "_____________________________________23",
-      
+      {
       "title": "GleamCore Stand",
      "imageFileName": "img7.jpg", 
       "effectivePrice": 39,
@@ -1805,7 +2398,7 @@
       "rating": 2,
       "numberOfReviews": 39
     },
-     {
+     {"_comment": "_____________________________________22",
      "title": "ClutchSynce",
      "imageFileName": "DSC01703.jpg", 
       "effectivePrice": 789,
@@ -1822,8 +2415,7 @@
       "rating": 5,
       "numberOfReviews": 1
     },
-    {"_comment": "_____________________________________24",
-      
+    {
       "title": "ClarityFrame",
     "videoMp4FileName": "vid24.mp4",
       "videoWebmFileName": "vid24.mp4",
@@ -1832,7 +2424,7 @@
       "rating": 5,
       "numberOfReviews": 147
     },
-     {
+     {"_comment": "_____________________________________23",
      "title": "PopUP E",
      "imageFileName": "ai1.jpg", 
       "effectivePrice": 2.2,
@@ -1848,7 +2440,7 @@
       "rating": 0,
       "numberOfReviews": 345
     },
-     {"_comment": "_____________________________________25 LAST",
+     {
       
       "title": "Brandify",
       "imageFileName": "img11.jpg", 
@@ -1857,7 +2449,7 @@
       "rating": 2,
       "numberOfReviews": 1
     },
-     {
+     {"_comment": "_____________________________________24",
      "title": "OpenClear",
        "videoMp4FileName": "vid25.mp4",
       "videoWebmFileName": "vid25.mp4",
@@ -1873,6 +2465,15 @@
       "altPrice":2,
       "rating": 4,
       "numberOfReviews": 4
+    },
+    {
+      "title": "Set-Sun Neckwarmer",
+      "videoMp4FileName": "08.mp4",
+      "videoWebmFileName": "08.mp4",
+      "effectivePrice": 1,
+      "altPrice": 9,
+      "rating": 2,
+      "numberOfReviews": 45
     },
     {"_comment": "_____________________________________1",
 
@@ -1892,16 +2493,6 @@
       "numberOfReviews": 11
     },
     {
-    
-      "title": "Echo Glass",
-      "imageFileName": "2new.png",
-      "depthMapFileName": "2_depth.jpeg",
-      "effectivePrice": 5.5,
-      "altPrice": 0,
-      "rating": 1,
-      "numberOfReviews": 0
-    },
-    {"_comment": "_____________________________________2",
       "title": "PixelGaze Pashmina",
       "videoMp4FileName": "01.mp4",
       "videoWebmFileName": "01.mp4",
@@ -1909,7 +2500,7 @@
       "rating": 3,
       "numberOfReviews": 74
     },
-    {
+    {"_comment": "_____________________________________2",
      "title": "iRoam Tracker",
       "imageFileName": "C0133.gif",
       "effectivePrice": 2,
@@ -1925,7 +2516,7 @@
       "rating": 4,
       "numberOfReviews": 40
     },
-     {"_comment": "_____________________________________3",
+     {
        "title": "IronScroll",
       "videoMp4FileName": "vid3.mp4",
       "videoWebmFileName": "vid3.mp4",
@@ -1933,7 +2524,7 @@
       "rating": 1,
       "numberOfReviews": 38
     },
-    {
+    {"_comment": "_____________________________________3",
     "title": "PixelPlush shirt",
       "imageFileName": "C0149.gif",
       "effectivePrice": 10,
@@ -1949,7 +2540,7 @@
       "rating": 2,
       "numberOfReviews": 94
     },
-{"_comment": "_____________________________________4",
+{
 
      "title": "iCycle Sweather",
       "imageFileName": "img6.jpg",
@@ -1958,7 +2549,7 @@
       "numberOfReviews": 74
     },
   
-    {
+    {"_comment": "_____________________________________4",
       "title": "VirtualVogue",
       "videoMp4FileName": "05.mp4",
       "videoWebmFileName": "05.mp4",
@@ -1975,7 +2566,7 @@
       "rating": 2,
       "numberOfReviews": 2
     },
-     { "_comment": "_____________________________________5",
+     { 
      "title": "HyperFit Hand",
      "videoMp4FileName": "vid2.mp4",
       "videoWebmFileName": "vid2.mp4",
@@ -1984,7 +2575,7 @@
       "rating": 5,
       "numberOfReviews": 234
     },
-    {
+    {"_comment": "_____________________________________5",
      "title": "OK Blanket",
      "videoMp4FileName": "vid9.mp4",
       "videoWebmFileName": "vid9.mp4",
@@ -2001,7 +2592,7 @@
       "rating": 5,
       "numberOfReviews": 890
     },
-  { "_comment": "_____________________________________7",
+  { 
      "title": "VirtualVogue",
      "videoMp4FileName": "vid10.mp4",
       "videoWebmFileName": "vid10.mp4",
@@ -2010,7 +2601,7 @@
       "rating": 1,
       "numberOfReviews": 300
     },
-    {
+    {"_comment": "_____________________________________6",
       "title": "VirtuView Cam",
       "imageFileName": "ai10.jpg",
       "effectivePrice": 30,
@@ -2026,7 +2617,7 @@
       "rating": 4,
       "numberOfReviews": 80
     },
-     { "_comment": "_____________________________________8",
+     {
      "title": "Quick Edge",
      "imageFileName": "main3.jpg",
       "effectivePrice": 3.5,
@@ -2034,7 +2625,7 @@
       "rating": 1,
       "numberOfReviews": 5
     },
-    {
+    {"_comment": "_____________________________________7",
      "title": "EFacade",
      "videoMp4FileName": "vid11.mp4",
       "videoWebmFileName": "vid11.mp4",
@@ -2052,7 +2643,7 @@
       "rating": 5,
       "numberOfReviews": 468280
     },
-      { "_comment": "_____________________________________9",
+      {
          "title": "E-Bloom Abajour",
      "imageFileName": "C0129.gif",
       "effectivePrice": 2789,
@@ -2060,7 +2651,7 @@
       "rating": 3,
       "numberOfReviews": 1
     },
-    {
+    {"_comment": "_____________________________________8",
       "title": "DreamDash Tool",
      "imageFileName": "main2.jpg",
       "effectivePrice": 55,
@@ -2076,7 +2667,7 @@
       "rating": 2,
       "numberOfReviews": 1
     },
-          { "_comment": "_____________________________________10",
+   {
      "title": "VoxTrek Decor",
      "videoMp4FileName": "vid12.mp4",
       "videoWebmFileName": "vid12.mp4",
@@ -2085,7 +2676,7 @@
       "rating": 5,
       "numberOfReviews": 345
     },
-    {
+    { "_comment": "_____________________________________9",
       "title": "VirtuMirror",
     "videoMp4FileName": "vid6.mp4",
       "videoWebmFileName": "vid6.mp4",
@@ -2102,7 +2693,7 @@
       "rating": 4,
       "numberOfReviews": 47
     },
-          { "_comment": "_____________________________________11",
+     {
      "title": "E-Bliss Cloth",
      "videoMp4FileName": "06.mp4",
       "videoWebmFileName": "06.mp4",
@@ -2111,7 +2702,7 @@
       "rating": 3,
       "numberOfReviews": 345
     },
-    {
+    {"_comment": "_____________________________________10",
       "title": "EchoWindow Film",
      "videoMp4FileName": "vid13.mp4",
       "videoWebmFileName": "vid13.mp4",
@@ -2129,7 +2720,7 @@
       "numberOfReviews": 47
     },
 
-          { "_comment": "_____________________________________12",
+     { 
      "title": "E-Life Assistant",
       "imageFileName": "ai11.jpg",
       "effectivePrice": 64,
@@ -2137,7 +2728,7 @@
       "rating": 4,
       "numberOfReviews": 32
     },
-    {
+    {"_comment": "_____________________________________11",
       "title": "WebScribe Service",
      "videoMp4FileName": "vid5.mp4",
       "videoWebmFileName": "vid5.mp4",
@@ -2156,7 +2747,7 @@
       "numberOfReviews": 47342
     },
 
-          { "_comment": "_____________________________________13",
+     { 
      "title": "CryoStream",
       "videoMp4FileName": "vid15.mp4",
       "videoWebmFileName": "vid15.mp4",
@@ -2165,7 +2756,7 @@
       "rating": 2,
       "numberOfReviews": 56
     },
-    {
+    {"_comment": "_____________________________________12",
       "title": "FlexiDock",
      "imageFileName": "ai5.jpg",
        "effectivePrice": 453,
@@ -2181,7 +2772,7 @@
       "rating": 1,
       "numberOfReviews": 231
     },
-     { "_comment": "_____________________________________14",
+     {
      "title": "OK Blanket",
      "videoMp4FileName": "vid7.mp4",
       "videoWebmFileName": "vid7.mp4",
@@ -2190,7 +2781,7 @@
       "rating": 5,
       "numberOfReviews": 56900
     },
-    {
+    {"_comment": "_____________________________________13",
       "title": "GripConnect",
   "videoMp4FileName": "vid16.mp4",
       "videoWebmFileName": "vid16.mp4",
@@ -2207,7 +2798,7 @@
       "rating": 0,
       "numberOfReviews": 1
     },
-    {"_comment": "_____________________________________15",
+    {
       "title": "VirtuCast Cardboard",
       "imageFileName": "img3.jpg",
       "effectivePrice": 9.5,
@@ -2215,7 +2806,7 @@
       "rating": 2,
       "numberOfReviews": 0
     },
-       {
+       {"_comment": "_____________________________________14",
      "title": "OK Blanket",
      "videoMp4FileName": "vid8.mp4",
       "videoWebmFileName": "vid8.mp4",
@@ -2231,7 +2822,7 @@
       "rating": 5,
       "numberOfReviews": 74
     },
-      {"_comment": "_____________________________________16",
+      {
       "title": "BuiltBolt Frame",
       "videoMp4FileName": "vid19.mp4",
       "videoWebmFileName": "vid19.mp4",
@@ -2240,7 +2831,7 @@
       "rating": 1,
       "numberOfReviews": 4678
     },
-       {
+      {"_comment": "_____________________________________15",
      "title": "Metaluxe",
      "imageFileName": "img8.jpg",
       "effectivePrice": 38917642,
@@ -2256,7 +2847,7 @@
       "rating": 5,
       "numberOfReviews": 4
     },
-     {"_comment": "_____________________________________17",
+     {
       "title": "GlassHorizon",
       "videoMp4FileName": "vid17.mp4",
       "videoWebmFileName": "vid17.mp4",
@@ -2265,7 +2856,7 @@
       "rating": 5,
       "numberOfReviews": 8
     },
-       {
+       {"_comment": "_____________________________________16",
      "title": "HangerMate",
      "imageFileName":"DSC01726.jpg",
       "effectivePrice": 332,
@@ -2281,7 +2872,7 @@
       "rating": 3,
       "numberOfReviews": 2356
     },
-     {"_comment": "_____________________________________18",
+     {
       "title": "Set-Sun Neckwarmer",
       "videoMp4FileName": "08.mp4",
       "videoWebmFileName": "08.mp4",
@@ -2290,7 +2881,7 @@
       "rating": 2,
       "numberOfReviews": 45
     },
-       {
+       {"_comment": "_____________________________________17",
      "title": "Kosmic Kover",
      "imageFileName": "C0144.gif",
       "effectivePrice": 342,
@@ -2307,7 +2898,7 @@
       "rating": 2,
       "numberOfReviews": 2
     },
-     {"_comment": "_____________________________________19",
+     {
       
      "title": "DreamWeave Stole",
       "videoMp4FileName": "vid20.mp4",
@@ -2317,7 +2908,7 @@
       "rating": 5,
       "numberOfReviews": 4
     },
-     {
+     {"_comment": "_____________________________________18",
       "title": "GripGlove",
        "imageFileName": "img4.jpg",
       "effectivePrice": 390,
@@ -2334,7 +2925,7 @@
       "rating": 3,
       "numberOfReviews": 3432
     },
-      {"_comment": "_____________________________________20",
+      {
       
      "title": "ClutchCall",
     "imageFileName": "ai8.jpg", 
@@ -2343,7 +2934,7 @@
       "rating": 5,
       "numberOfReviews": 49
     },
-     {
+     {"_comment": "_____________________________________19",
       "title": "ARShadeHanger",
        "imageFileName": "C0140.gif",
       "effectivePrice": 728,
@@ -2360,8 +2951,7 @@
       "rating": 3,
       "numberOfReviews": 3432
     },
-    {"_comment": "_____________________________________21",
-      
+    { 
       "title": "Network Hub Shop",
       "videoMp4FileName": "vid22.mp4",
       "videoWebmFileName": "vid22.mp4",
@@ -2370,7 +2960,7 @@
       "rating": 1,
       "numberOfReviews": 5
     },
-     {
+     {"_comment": "_____________________________________20",
      "title": "GripNGo",
      "imageFileName": "main5.jpg", 
       "effectivePrice": 2,
@@ -2386,8 +2976,7 @@
       "rating": 4,
       "numberOfReviews": 5
     },
-      {"_comment": "_____________________________________22",
-      
+      {      
       "title": "BrightIron",
      "imageFileName": "ai2.jpg", 
       "effectivePrice": 10,
@@ -2395,7 +2984,7 @@
       "rating": 4,
       "numberOfReviews": 3789
     },
-     {
+     {"_comment": "_____________________________________21",
      "title": "GlideRebus Tee",
       "videoMp4FileName": "11.mp4",
       "videoWebmFileName": "11.mp4",
@@ -2412,8 +3001,7 @@
       "rating": 1,
       "numberOfReviews": 2
     },
-      {"_comment": "_____________________________________23",
-      
+      {
       "title": "GleamCore Stand",
      "imageFileName": "img7.jpg", 
       "effectivePrice": 39,
@@ -2421,7 +3009,7 @@
       "rating": 2,
       "numberOfReviews": 39
     },
-     {
+     {"_comment": "_____________________________________22",
      "title": "ClutchSynce",
      "imageFileName": "DSC01703.jpg", 
       "effectivePrice": 789,
@@ -2438,8 +3026,7 @@
       "rating": 5,
       "numberOfReviews": 1
     },
-    {"_comment": "_____________________________________24",
-      
+    {
       "title": "ClarityFrame",
     "videoMp4FileName": "vid24.mp4",
       "videoWebmFileName": "vid24.mp4",
@@ -2448,7 +3035,7 @@
       "rating": 5,
       "numberOfReviews": 147
     },
-     {
+     {"_comment": "_____________________________________23",
      "title": "PopUP E",
      "imageFileName": "ai1.jpg", 
       "effectivePrice": 2.2,
@@ -2464,7 +3051,7 @@
       "rating": 0,
       "numberOfReviews": 345
     },
-     {"_comment": "_____________________________________25 LAST",
+     {
       
       "title": "Brandify",
       "imageFileName": "img11.jpg", 
@@ -2473,7 +3060,7 @@
       "rating": 2,
       "numberOfReviews": 1
     },
-     {
+     {"_comment": "_____________________________________24",
      "title": "OpenClear",
        "videoMp4FileName": "vid25.mp4",
       "videoWebmFileName": "vid25.mp4",
@@ -2489,6 +3076,15 @@
       "altPrice":2,
       "rating": 4,
       "numberOfReviews": 4
+    },
+    {
+      "title": "Set-Sun Neckwarmer",
+      "videoMp4FileName": "08.mp4",
+      "videoWebmFileName": "08.mp4",
+      "effectivePrice": 1,
+      "altPrice": 9,
+      "rating": 2,
+      "numberOfReviews": 45
     },
     {"_comment": "_____________________________________1",
 
@@ -2508,16 +3104,6 @@
       "numberOfReviews": 11
     },
     {
-    
-      "title": "Echo Glass",
-      "imageFileName": "2new.png",
-      "depthMapFileName": "2_depth.jpeg",
-      "effectivePrice": 5.5,
-      "altPrice": 0,
-      "rating": 1,
-      "numberOfReviews": 0
-    },
-    {"_comment": "_____________________________________2",
       "title": "PixelGaze Pashmina",
       "videoMp4FileName": "01.mp4",
       "videoWebmFileName": "01.mp4",
@@ -2525,7 +3111,7 @@
       "rating": 3,
       "numberOfReviews": 74
     },
-    {
+    {"_comment": "_____________________________________2",
      "title": "iRoam Tracker",
       "imageFileName": "C0133.gif",
       "effectivePrice": 2,
@@ -2541,7 +3127,7 @@
       "rating": 4,
       "numberOfReviews": 40
     },
-     {"_comment": "_____________________________________3",
+     {
        "title": "IronScroll",
       "videoMp4FileName": "vid3.mp4",
       "videoWebmFileName": "vid3.mp4",
@@ -2549,7 +3135,7 @@
       "rating": 1,
       "numberOfReviews": 38
     },
-    {
+    {"_comment": "_____________________________________3",
     "title": "PixelPlush shirt",
       "imageFileName": "C0149.gif",
       "effectivePrice": 10,
@@ -2565,7 +3151,7 @@
       "rating": 2,
       "numberOfReviews": 94
     },
-{"_comment": "_____________________________________4",
+{
 
      "title": "iCycle Sweather",
       "imageFileName": "img6.jpg",
@@ -2574,7 +3160,7 @@
       "numberOfReviews": 74
     },
   
-    {
+    {"_comment": "_____________________________________4",
       "title": "VirtualVogue",
       "videoMp4FileName": "05.mp4",
       "videoWebmFileName": "05.mp4",
@@ -2591,7 +3177,7 @@
       "rating": 2,
       "numberOfReviews": 2
     },
-     { "_comment": "_____________________________________5",
+     { 
      "title": "HyperFit Hand",
      "videoMp4FileName": "vid2.mp4",
       "videoWebmFileName": "vid2.mp4",
@@ -2600,7 +3186,7 @@
       "rating": 5,
       "numberOfReviews": 234
     },
-    {
+    {"_comment": "_____________________________________5",
      "title": "OK Blanket",
      "videoMp4FileName": "vid9.mp4",
       "videoWebmFileName": "vid9.mp4",
@@ -2617,7 +3203,7 @@
       "rating": 5,
       "numberOfReviews": 890
     },
-  { "_comment": "_____________________________________7",
+  { 
      "title": "VirtualVogue",
      "videoMp4FileName": "vid10.mp4",
       "videoWebmFileName": "vid10.mp4",
@@ -2626,7 +3212,7 @@
       "rating": 1,
       "numberOfReviews": 300
     },
-    {
+    {"_comment": "_____________________________________6",
       "title": "VirtuView Cam",
       "imageFileName": "ai10.jpg",
       "effectivePrice": 30,
@@ -2642,7 +3228,7 @@
       "rating": 4,
       "numberOfReviews": 80
     },
-     { "_comment": "_____________________________________8",
+     {
      "title": "Quick Edge",
      "imageFileName": "main3.jpg",
       "effectivePrice": 3.5,
@@ -2650,7 +3236,7 @@
       "rating": 1,
       "numberOfReviews": 5
     },
-    {
+    {"_comment": "_____________________________________7",
      "title": "EFacade",
      "videoMp4FileName": "vid11.mp4",
       "videoWebmFileName": "vid11.mp4",
@@ -2668,7 +3254,7 @@
       "rating": 5,
       "numberOfReviews": 468280
     },
-      { "_comment": "_____________________________________9",
+      {
          "title": "E-Bloom Abajour",
      "imageFileName": "C0129.gif",
       "effectivePrice": 2789,
@@ -2676,7 +3262,7 @@
       "rating": 3,
       "numberOfReviews": 1
     },
-    {
+    {"_comment": "_____________________________________8",
       "title": "DreamDash Tool",
      "imageFileName": "main2.jpg",
       "effectivePrice": 55,
@@ -2692,7 +3278,7 @@
       "rating": 2,
       "numberOfReviews": 1
     },
-          { "_comment": "_____________________________________10",
+   {
      "title": "VoxTrek Decor",
      "videoMp4FileName": "vid12.mp4",
       "videoWebmFileName": "vid12.mp4",
@@ -2701,7 +3287,7 @@
       "rating": 5,
       "numberOfReviews": 345
     },
-    {
+    { "_comment": "_____________________________________9",
       "title": "VirtuMirror",
     "videoMp4FileName": "vid6.mp4",
       "videoWebmFileName": "vid6.mp4",
@@ -2718,7 +3304,7 @@
       "rating": 4,
       "numberOfReviews": 47
     },
-          { "_comment": "_____________________________________11",
+     {
      "title": "E-Bliss Cloth",
      "videoMp4FileName": "06.mp4",
       "videoWebmFileName": "06.mp4",
@@ -2727,7 +3313,7 @@
       "rating": 3,
       "numberOfReviews": 345
     },
-    {
+    {"_comment": "_____________________________________10",
       "title": "EchoWindow Film",
      "videoMp4FileName": "vid13.mp4",
       "videoWebmFileName": "vid13.mp4",
@@ -2745,7 +3331,7 @@
       "numberOfReviews": 47
     },
 
-          { "_comment": "_____________________________________12",
+     { 
      "title": "E-Life Assistant",
       "imageFileName": "ai11.jpg",
       "effectivePrice": 64,
@@ -2753,7 +3339,7 @@
       "rating": 4,
       "numberOfReviews": 32
     },
-    {
+    {"_comment": "_____________________________________11",
       "title": "WebScribe Service",
      "videoMp4FileName": "vid5.mp4",
       "videoWebmFileName": "vid5.mp4",
@@ -2772,7 +3358,7 @@
       "numberOfReviews": 47342
     },
 
-          { "_comment": "_____________________________________13",
+     { 
      "title": "CryoStream",
       "videoMp4FileName": "vid15.mp4",
       "videoWebmFileName": "vid15.mp4",
@@ -2781,7 +3367,7 @@
       "rating": 2,
       "numberOfReviews": 56
     },
-    {
+    {"_comment": "_____________________________________12",
       "title": "FlexiDock",
      "imageFileName": "ai5.jpg",
        "effectivePrice": 453,
@@ -2797,7 +3383,7 @@
       "rating": 1,
       "numberOfReviews": 231
     },
-     { "_comment": "_____________________________________14",
+     {
      "title": "OK Blanket",
      "videoMp4FileName": "vid7.mp4",
       "videoWebmFileName": "vid7.mp4",
@@ -2806,7 +3392,7 @@
       "rating": 5,
       "numberOfReviews": 56900
     },
-    {
+    {"_comment": "_____________________________________13",
       "title": "GripConnect",
   "videoMp4FileName": "vid16.mp4",
       "videoWebmFileName": "vid16.mp4",
@@ -2823,7 +3409,7 @@
       "rating": 0,
       "numberOfReviews": 1
     },
-    {"_comment": "_____________________________________15",
+    {
       "title": "VirtuCast Cardboard",
       "imageFileName": "img3.jpg",
       "effectivePrice": 9.5,
@@ -2831,7 +3417,7 @@
       "rating": 2,
       "numberOfReviews": 0
     },
-       {
+       {"_comment": "_____________________________________14",
      "title": "OK Blanket",
      "videoMp4FileName": "vid8.mp4",
       "videoWebmFileName": "vid8.mp4",
@@ -2847,7 +3433,7 @@
       "rating": 5,
       "numberOfReviews": 74
     },
-      {"_comment": "_____________________________________16",
+      {
       "title": "BuiltBolt Frame",
       "videoMp4FileName": "vid19.mp4",
       "videoWebmFileName": "vid19.mp4",
@@ -2856,7 +3442,7 @@
       "rating": 1,
       "numberOfReviews": 4678
     },
-       {
+      {"_comment": "_____________________________________15",
      "title": "Metaluxe",
      "imageFileName": "img8.jpg",
       "effectivePrice": 38917642,
@@ -2872,7 +3458,7 @@
       "rating": 5,
       "numberOfReviews": 4
     },
-     {"_comment": "_____________________________________17",
+     {
       "title": "GlassHorizon",
       "videoMp4FileName": "vid17.mp4",
       "videoWebmFileName": "vid17.mp4",
@@ -2881,7 +3467,7 @@
       "rating": 5,
       "numberOfReviews": 8
     },
-       {
+       {"_comment": "_____________________________________16",
      "title": "HangerMate",
      "imageFileName":"DSC01726.jpg",
       "effectivePrice": 332,
@@ -2897,7 +3483,7 @@
       "rating": 3,
       "numberOfReviews": 2356
     },
-     {"_comment": "_____________________________________18",
+     {
       "title": "Set-Sun Neckwarmer",
       "videoMp4FileName": "08.mp4",
       "videoWebmFileName": "08.mp4",
@@ -2906,7 +3492,7 @@
       "rating": 2,
       "numberOfReviews": 45
     },
-       {
+       {"_comment": "_____________________________________17",
      "title": "Kosmic Kover",
      "imageFileName": "C0144.gif",
       "effectivePrice": 342,
@@ -2923,7 +3509,7 @@
       "rating": 2,
       "numberOfReviews": 2
     },
-     {"_comment": "_____________________________________19",
+     {
       
      "title": "DreamWeave Stole",
       "videoMp4FileName": "vid20.mp4",
@@ -2933,7 +3519,7 @@
       "rating": 5,
       "numberOfReviews": 4
     },
-     {
+     {"_comment": "_____________________________________18",
       "title": "GripGlove",
        "imageFileName": "img4.jpg",
       "effectivePrice": 390,
@@ -2950,7 +3536,7 @@
       "rating": 3,
       "numberOfReviews": 3432
     },
-      {"_comment": "_____________________________________20",
+      {
       
      "title": "ClutchCall",
     "imageFileName": "ai8.jpg", 
@@ -2959,7 +3545,7 @@
       "rating": 5,
       "numberOfReviews": 49
     },
-     {
+     {"_comment": "_____________________________________19",
       "title": "ARShadeHanger",
        "imageFileName": "C0140.gif",
       "effectivePrice": 728,
@@ -2976,8 +3562,7 @@
       "rating": 3,
       "numberOfReviews": 3432
     },
-    {"_comment": "_____________________________________21",
-      
+    { 
       "title": "Network Hub Shop",
       "videoMp4FileName": "vid22.mp4",
       "videoWebmFileName": "vid22.mp4",
@@ -2986,7 +3571,7 @@
       "rating": 1,
       "numberOfReviews": 5
     },
-     {
+     {"_comment": "_____________________________________20",
      "title": "GripNGo",
      "imageFileName": "main5.jpg", 
       "effectivePrice": 2,
@@ -3002,8 +3587,7 @@
       "rating": 4,
       "numberOfReviews": 5
     },
-      {"_comment": "_____________________________________22",
-      
+      {      
       "title": "BrightIron",
      "imageFileName": "ai2.jpg", 
       "effectivePrice": 10,
@@ -3011,7 +3595,7 @@
       "rating": 4,
       "numberOfReviews": 3789
     },
-     {
+     {"_comment": "_____________________________________21",
      "title": "GlideRebus Tee",
       "videoMp4FileName": "11.mp4",
       "videoWebmFileName": "11.mp4",
@@ -3028,8 +3612,7 @@
       "rating": 1,
       "numberOfReviews": 2
     },
-      {"_comment": "_____________________________________23",
-      
+      {
       "title": "GleamCore Stand",
      "imageFileName": "img7.jpg", 
       "effectivePrice": 39,
@@ -3037,7 +3620,7 @@
       "rating": 2,
       "numberOfReviews": 39
     },
-     {
+     {"_comment": "_____________________________________22",
      "title": "ClutchSynce",
      "imageFileName": "DSC01703.jpg", 
       "effectivePrice": 789,
@@ -3054,8 +3637,7 @@
       "rating": 5,
       "numberOfReviews": 1
     },
-    {"_comment": "_____________________________________24",
-      
+    {
       "title": "ClarityFrame",
     "videoMp4FileName": "vid24.mp4",
       "videoWebmFileName": "vid24.mp4",
@@ -3064,7 +3646,7 @@
       "rating": 5,
       "numberOfReviews": 147
     },
-     {
+     {"_comment": "_____________________________________23",
      "title": "PopUP E",
      "imageFileName": "ai1.jpg", 
       "effectivePrice": 2.2,
@@ -3080,7 +3662,7 @@
       "rating": 0,
       "numberOfReviews": 345
     },
-     {"_comment": "_____________________________________25 LAST",
+     {
       
       "title": "Brandify",
       "imageFileName": "img11.jpg", 
@@ -3089,7 +3671,7 @@
       "rating": 2,
       "numberOfReviews": 1
     },
-     {
+     {"_comment": "_____________________________________24",
      "title": "OpenClear",
        "videoMp4FileName": "vid25.mp4",
       "videoWebmFileName": "vid25.mp4",
@@ -3105,8 +3687,16 @@
       "altPrice":2,
       "rating": 4,
       "numberOfReviews": 4
+    },
+    {
+      "title": "Set-Sun Neckwarmer",
+      "videoMp4FileName": "08.mp4",
+      "videoWebmFileName": "08.mp4",
+      "effectivePrice": 1,
+      "altPrice": 9,
+      "rating": 2,
+      "numberOfReviews": 45
     }
-
   ],
   
   "headerBanner": {

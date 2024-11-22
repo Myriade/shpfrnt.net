@@ -17,3 +17,12 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`Express server is running on port ${port}`)
 })
+
+app.use((req, res, next) => {
+	if (req.hostname === 'dev.shpfrnt.net') {
+		res.redirect(301, 'https://www.shpfrnt.net${req.originalUrl}');
+	}
+	else{
+		next();
+	}
+});
